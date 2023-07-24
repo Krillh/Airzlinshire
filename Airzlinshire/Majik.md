@@ -1,0 +1,5 @@
+## Overview
+In Airzlinshire, majik is unique (and complicated). After reading a bit of fantasy, you find that magic often falls into some categories. These are the familiar ways that magic works. Things like magic through incantation (a phrase that initiates a spell) like in Harry Potter, or sorcery. There are some 'methods' of magic that don't fit into any of the categories typically seen. This was my goal with magic in Airzlinshire. I wanted a completely unique and interesting system of magic. This started by calling it majik, said the same as magic but spelled different. I will be using the term 'majik' to refer to magic in Airzlinshire and 'other magic' to refer to any common systems of magic seen in other fantasy. The ins and outs of majik's uniqueness are described in this page while the details of it's function have been split up as they're quite lengthy and detailed.
+
+## The Ins and Outs
+To start, majik is an elemental-based magic. There are 10 primary elements: Light, Dark, Life, Air, Water, Earth, Empath, Cronus, Material, Conversion, Weaving. Some of these may seem familiar, but even those are not the norm.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Airzlinshire/What is Airzlinshire.md",
+                "file": "What is Airzlinshire.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Airzlinshire/Majik.md",
+                "file": "Majik.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Airzlinshire/What is Airzlinshire.md",
+                "file": "What is Airzlinshire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Airzlinshire/What is Airzlinshire.md",
+                "file": "What is Airzlinshire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Airzlinshire/What is Airzlinshire.md"
+                "file": "What is Airzlinshire.md"
               }
             }
           },
@@ -170,7 +170,7 @@
   "active": "eb2b5dd3d43f7694",
   "lastOpenFiles": [
     "Airzlinshire",
-    "Airzlinshire/Majik.md",
-    "Airzlinshire/What is Airzlinshire.md"
+    "Majik.md",
+    "What is Airzlinshire.md"
   ]
 }

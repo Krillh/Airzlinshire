@@ -3,5 +3,6 @@ In Airzlinshire, majik is unique (and complicated). After reading a bit of fanta
 
 ## The Ins and Outs
 To start, majik is element based. There are 10 primary elements: Light, Dark, Life, Air, Water, Earth, Empath, Cronus, Material, Conversion, and Weaving. Some of these may seem familiar, but even those are not the norm.
+
 ### It's All About Energy
-Each element has i
+Each element has it's own form of majik energy. All majik is is the manipulation of majik energy. Unlike many types of magic, majik follows the law of conservation of mass and energy. In Airzlinshire, majik energy is the basis of everything. if you take the majik energy out of something, it becomes [[Plain Matter]]. 

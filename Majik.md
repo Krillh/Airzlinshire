@@ -17,4 +17,5 @@ There are some sub-elements that can be created by mixing two (or rarely, more t
 Obviously one major use for majik is for combat, but there's much more to it than that. Unlike some types of magic that use spells, majik merely manipulation of energy. The possibilities are practically endless. As mentioned in Mixing Elements, death majik can be used for pest control. Other examples are:
 - Air and water majik are commonly used to propel sail boats
 - Light majik is used to heat houses and other buildings. Dark majik is used for cooling.
-- A combination of light and air majik is used for lighting fires. The air majik increases the oxygen content and the light majik provides heat
+- A combination of light and air majik is used for lighting fires. The air majik increases the oxygen content and the light majik provides heat for combustion.
+- Air energy can be used to create a wall of a vaccum so that no sound can pass though. This is a trick that requires a strong connection to air majik though.

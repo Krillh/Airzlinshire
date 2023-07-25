@@ -1,1 +1,1 @@
-Majel is the unique language of Airzlinshire.
+Majel is the unique language of Airzlinshire. Everybody speaks the common language but everyone also learns Majel. Majel is a much older language than common, and many writers and poets write in Majel as it's often more concise and has many more specific words to choose from for descriptors. Because of this, many books are written in Majel. Majel has it's own letter forms and 

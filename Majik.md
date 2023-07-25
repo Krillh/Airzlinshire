@@ -5,6 +5,7 @@ In [[Airzlinshire]], majik is unique (and complicated). After reading a bit of f
 To start, majik is element based. There are 10 primary elements: [[Light]], [[Dark]], [[Life]], [[Air]], [[Water]], [[Earth]], [[Empath]], [[Cronus]], [[Material]], [[Conversion]], and [[Weaving]]. Some of these may seem familiar, but even those are not the norm.
 
 ### It's All About Energy
-Each element has it's own form of majik energy. All majik is is the manipulation of majik energy. Unlike many types of magic, majik follows the law of conservation of mass and energy. In Airzlinshire, majik energy is the basis of everything. If you take the majik energy out of something, it becomes [[Plain Matter]]. But, depleting all of the majik energy from something is nearly impossible. For example if something is living, it has life energy. Once it loses 
+Each element has it's own form of majik energy. All majik is is the manipulation of majik energy. Unlike many types of magic, majik follows the law of conservation of mass and energy. In Airzlinshire, majik energy is the basis of everything. If you take the majik energy out of something, it becomes [[Plain Matter]]. But, depleting all of the majik energy from something is nearly impossible. For example if something is living, it has life energy. Once it loses all it's life energy, it is dead. In this case, life energy has a way of turning into other types of majik energy with time. That's why things die of old age.
 
-### 
+### How do People Use it?
+People in Airzlinshire can have connections to elements. If someone has a weak connection to light majik for example, they will be able to manipulate a small amount of light ene

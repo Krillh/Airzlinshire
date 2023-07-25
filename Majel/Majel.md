@@ -1,1 +1,1 @@
-majel
+Majel is the unique language of Airzlinshire.

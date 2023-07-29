@@ -11,7 +11,7 @@ This is the dictionary for Majel
 | UAforAn   |                | Noun           | season                     |
 | UAkUcAn   |                | Noun           | coarse sand                |
 | UO'kUcAn  |                | Noun           | fine sand                  |
-| desAte    |                | Verb           | to be / is, am             |
+| desAte    |                | Verb           | to be / is, am / are       |
 | eS'An     |                | Noun           | majik energy               |
 | fULAvA    |                | Modifier       | far future (months)        |
 | fUdAvA    |                | Modifier       | near future (days)         |
@@ -59,10 +59,17 @@ This is the dictionary for Majel
 | tU        |                | Subject        | you                        |
 | tUnA      |                | Subject        | you all                    |
 | tUnAn     |                | Noun           | you all, yourselves        |
-| degAtAn   |                | Noun           | similar to                 |
+| degAtA    |                |                | similar to                 |
 | mAjeLAn   |                | Noun           | majel                      |
 | En        |                |                | and                        |
 | Un        |                |                | or                         |
 | Z'AnA     |                | Modifier       | (question)                 |
-| metAte    |                | Verb           | to meet                    | 
+| metAte    |                | Verb           | to meet                    |
+| ne        |                |                | in, within                 |
+|           |                |                |                            |
 
+In Majel, sentences are formed similarly to English.
+ne 
+
+Majel sentence formation is similar to English sentence formation
+mAjelAn senAsAn krAtAn desAte degAtA EngLiS'An senAsAn krAtAn

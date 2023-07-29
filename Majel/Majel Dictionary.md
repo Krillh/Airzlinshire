@@ -67,8 +67,9 @@ This is the dictionary for Majel
 | metAte    |                | Verb           | to meet                    |
 | ne        |                |                | in, within                 |
 | hUrAte    |                | Verb           | to have                    |
-| nA          |                |                |                            |
+| nAhUrAte  |                | Verb           | to not have                |
+|           |                |                |                            |
 
 In Majel, sentences are formed similarly to English. (starting sentence)
 Majel sentence formation is similar to English sentence formation. (no commas)
-mAjelAn senAsAn krAtAn desAte degAtA EngLiS'An senAsAn krAtAn. (in majel)
+mAjeLAn senAsAn krAtAn desAte degAtA EngLiS'An senAsAn krAtAn. (in majel)

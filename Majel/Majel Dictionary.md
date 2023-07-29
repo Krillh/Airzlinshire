@@ -42,5 +42,10 @@ This is the dictionary for Majel
 | tUnAn      |                | Noun           | you all, yourselves        |
 | pAbAvO'    |                | Verb           | to go / to travel          |
 | kLesAvO'   |                | Verb           | to consume                 |
+| eS'An      |                | Noun           | majik energy               |
+| mAjikAn    |                | Noun           | majik                      |
+| mAjikAvO'  |                | Verb           | to use majik               |
+| senAsAn    |                | Noun           | sentence                   |
+| UAforAn    |                | Noun           | Season                     |
 |            |                |                |                            |
 

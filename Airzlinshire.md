@@ -3,7 +3,7 @@ Airzlinshire is a passion project of mine that started roughly in 2019. It is a 
 
 Sometime in 2022, I thought about what the point of making the world was. I was stumped. I warily decided that I would publish it as writing material, letting authors use it as inspiration. But, it was a passion project after all and didn't need a reason. But then I invited a friend who was just as passionate about it as I was. His name is Clel. He suggested writing a book. I wasn't too keen on the idea at first because I wasn't confident in my writing skills. Despite this, I figured it would only help the world, attempting to write a book would act as a sort of devil's advocate and would show us all the things that needed thinking about. After all, coming up with a whole world from scratch is no small task and we were bound to miss things. Either way, the idea of actually writing a book grew on me ([[Book 1]]). Now, we've been coming up with characters and timelines and all that jazz.
 
-Writing [[Book 1]] has really developed the [[Kingdoms]], [[Geography]], and [[People]]. These are all very important things in stories. But it also 
+Writing [[Book 1]] has really developed the [[Kingdoms]], [[Geography]], and [[People]]. These are all very important things in stories. But it also heavily developed [[Majik]] too.
 
 
 

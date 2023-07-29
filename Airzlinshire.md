@@ -1,3 +1,6 @@
+---
+sticker: lucide//baseline
+---
 ## What is Airzlinshire
 Airzlinshire is a passion project of mine that started roughly in 2019. It is a fantasy world made from scratch that I started because I wanted to have a world that was well sculpted and to be a better place than the real world. Also because I needed somewhere to dump all my creativity. For a long time it was just me, working on this little (not anymore) world. Inventing everything from scratch, the [[People]], magic ([[Majik]]), [[Geography]], language ([[Majel]]), system of [[time]]. All of it attempting to improve on life.
 

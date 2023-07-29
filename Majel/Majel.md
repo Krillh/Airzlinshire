@@ -1,3 +1,6 @@
+---
+sticker: lucide//languages
+---
 #### Resources
 * [[Majel Dictionary]]
 * [[Colors in Majel]]

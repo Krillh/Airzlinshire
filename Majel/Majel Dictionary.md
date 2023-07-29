@@ -1,16 +1,16 @@
 This is the dictionary for Majel
 
 | Word       | Majel Spelling | Part of Speech | Definition                 |
-| ---------- | -------------- | -------------- | -------------------------- |
+| ---------- | -------------- |:-------------- |:-------------------------- |
 | EnA-       |                | Prefix         | a lot / strongly           |
 | EnAhAcAvO' |                | Verb           | need                       |
 | EnAvO'     |                | Adjective      | A lot, very much           |
 | S'EkAcAn   |                | Noun           | sand                       |
 | UAkUcAn    |                | Noun           | coarse sand                |
 | UO'kUcAn   |                | Noun           | fine sand                  |
-| desAte     |                | Verb           | is, am                     |
+| desAte     |                | Verb           | to be / is, am             |
 | hAUAtAn    |                | Noun           | liquid H2O (water)         |
-| hAcAvO'    |                | Verb           | want                       |
+| hAcAvO'    |                | Verb           | to want                    |
 | kAn        |                | Noun           | it / they, them (singular) |
 | kAvAn      |                | Noun           | it's / theirs (ownership)  |
 | kAvO'      |                | Adjective      | it's / their               |
@@ -40,4 +40,7 @@ This is the dictionary for Majel
 | tU         |                | Subject        | you                        |
 | tUnA       |                | Subject        | you all                    |
 | tUnAn      |                | Noun           | you all, yourselves        |
+| pAbAvO'    |                | Verb           | to go / to travel          |
+| kLesAvO'   |                | Verb           | to consume                 |
+|            |                |                |                            |
 

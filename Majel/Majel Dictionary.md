@@ -59,6 +59,10 @@ This is the dictionary for Majel
 | tU        |                | Subject        | you                        |
 | tUnA      |                | Subject        | you all                    |
 | tUnAn     |                | Noun           | you all, yourselves        |
-| degAtAn   |                | Adjective      | similar to                 |
-| majelAn   |                | Noun           | majel                      |
+| degAtAn   |                | Noun           | similar to                 |
+| mAjeLAn   |                | Noun           | majel                      |
+| En        |                |                | and                        |
+| Un        |                |                | or                         |
+| Z'AnA     |                | Modifier       | (question)                 |
+| metAte    |                | Verb           | to meet                    | 
 

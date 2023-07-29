@@ -1,3 +1,6 @@
+---
+sticker: lucide//palette
+---
 
 ## Color Adjectives
 ![![Majel/#^Table1]]

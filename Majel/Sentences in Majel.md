@@ -1,3 +1,6 @@
+---
+sticker: lucide//align-left
+---
 **This note is a major WIP, expect sudden changes**
 
 ## Sentence Structure

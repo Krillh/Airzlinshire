@@ -1,3 +1,6 @@
+---
+sticker: lucide//book-key
+---
 This is the dictionary for Majel
 
 | Word      | Majel Spelling | Part of Speech | Definition                 |

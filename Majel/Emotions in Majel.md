@@ -1,3 +1,6 @@
+---
+sticker: lucide//frown
+---
 
 ## Emotion Nouns
 

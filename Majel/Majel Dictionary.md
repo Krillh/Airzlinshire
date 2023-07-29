@@ -46,11 +46,14 @@ This is the dictionary for Majel
 | mAjikAn    |                | Noun           | majik                          |
 | mAjikAvO'  |                | Verb           | to use majik                   |
 | senAsAn    |                | Noun           | sentence                       |
-| UAforAn    |                | Noun           | Season                         |
+| UAforAn    |                | Noun           | season                         |
 | krAtAvO'   |                | Verb           | to create / to form            |
 | pArAvA     |                | Modifier       | past                           |
 | pAdAvA     |                | Modifier       | recent past (days)             |
-| nApALAvA   |                | Modifier       | recent past (minuets)          |
-| pAdAvA     |                | Modifier       | distant past (months to years) |
-| EnApAdAvA  |                |                |                                |
+| nApAdAvA   |                | Modifier       | recent past (minuets)          |
+| pALAvA     |                | Modifier       | distant past (months to years) |
+| EnApALAvA  |                | Modifier       | ancient past                   |
+| fUrAvA     |                | Modifier       | future                         |
+| fUdAvA     |                | Modifier       | near future (days)             |
+| nApAdAva   |                | Modifier       | near future (min)                               |
 

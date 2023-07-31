@@ -5,8 +5,8 @@ This is the dictionary for Majel
 
 | Word      | Majel Spelling | Part of Speech | Definition                 |
 | --------- | -------------- |:-------------- |:-------------------------- |
-|           |                |                |                            |
-|           |                |                |                            |
+| AE        |                |                | yes                        |
+| neE       |                |                | no                         |
 | EnA-      |                | Prefix         | a lot / strongly           |
 | EnAfULAvA |                | Modifier       | far future (years)         |
 | EnAhAcAte |                | Verb           | need                       |

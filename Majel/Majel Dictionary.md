@@ -6,6 +6,7 @@ This is the dictionary for Majel
 | Word      | Majel Spelling | Part of Speech | Definition                 |
 | --------- | -------------- |:-------------- |:-------------------------- |
 |           |                |                |                            |
+|           |                |                |                            |
 | EnA-      |                | Prefix         | a lot / strongly           |
 | EnAfULAvA |                | Modifier       | far future (years)         |
 | EnAhAcAte |                | Verb           | need                       |
@@ -17,6 +18,7 @@ This is the dictionary for Majel
 | UO'kUcAn  |                | Noun           | fine sand                  |
 | Un        |                |                | or                         |
 | Z'AnA     |                | Modifier       | (question)                 |
+| bEtAnO'   |                | Verb           | to like                    |
 | degAtA    |                |                | similar to                 |
 | desAte    |                | Verb           | to be / is, am / are       |
 | eS'An     |                | Noun           | majik energy               |
@@ -60,7 +62,6 @@ This is the dictionary for Majel
 | nAnAvO'   |                | Adjective      | a little, not very much    |
 | nApAdAvA  |                | Modifier       | recent past (minuets)      |
 | nApAdAva  |                | Modifier       | near future (minutes)      |
-| vO'       |                |                | in, within                 |
 | pALAvA    |                | Modifier       | distant past (months)      |
 | pAbAte    |                | Verb           | to go / to travel          |
 | pAdAvA    |                | Modifier       | recent past (days)         |
@@ -72,3 +73,4 @@ This is the dictionary for Majel
 | tU        |                | Subject        | you                        |
 | tUnA      |                | Subject        | you all                    |
 | tUnAn     |                | Noun           | you all, yourselves        |
+| vO'       |                |                | in, within                 |

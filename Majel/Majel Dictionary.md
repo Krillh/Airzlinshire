@@ -18,7 +18,7 @@ This is the dictionary for Majel
 | UO'kUcAn  |                | Noun           | fine sand                  |
 | Un        |                |                | or                         |
 | Z'AnA     |                | Modifier       | (question)                 |
-| bEtAnO'   |                | Verb           | to like                    |
+| bEtAvO'   |                | Verb           | to like                    |
 | degAtA    |                |                | similar to                 |
 | desAte    |                | Verb           | to be / is, am / are       |
 | eS'An     |                | Noun           | majik energy               |

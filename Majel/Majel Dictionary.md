@@ -79,4 +79,6 @@ This is the dictionary for Majel
 | nO'vAn    |                | Noun           | positivity                 |
 |           |                |                |                            |
 
+existance
+dofsr
 ![![Majel/#^Table4]]

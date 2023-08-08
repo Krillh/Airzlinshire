@@ -76,5 +76,7 @@ This is the dictionary for Majel
 | vO'Ate    |                | Verb           | to be in / within          |
 | nO'vAvO'  |                | Adjective      | positive                   |
 | nO'vAte   |                | Verb           | to be positive             |
-| nO'v          |                |                |                            |
+| nO'vAn    |                | Noun           | positivity                 |
+|           |                |                |                            |
 
+![![Majel/#^Table4]]

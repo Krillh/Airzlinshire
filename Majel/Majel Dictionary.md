@@ -11,17 +11,17 @@ This is the dictionary for Majel
 | EnAfULAvA |                | Modifier       | far future (years)         |
 | EnAhAcAte |                | Verb           | need                       |
 | EnApALAvA |                | Modifier       | distant past (years)       |
-| EnAvO'    |                | Adjective      | A lot, very much           |
-| S'EkAcAn  |                | Noun           | sand                       |
+| EnAvo     |                | Adjective      | A lot, very much           |
+| SEkAcAn   |                | Noun           | sand                       |
 | UAforAn   |                | Noun           | season                     |
 | UAkUcAn   |                | Noun           | coarse sand                |
-| UO'kUcAn  |                | Noun           | fine sand                  |
+| UokUcAn   |                | Noun           | fine sand                  |
 | Un        |                |                | or                         |
-| Z'AnA     |                | Modifier       | (question)                 |
-| bEtAvO'   |                | Verb           | to like                    |
+| ZAnA      |                | Modifier       | (question)                 |
+| bEtAvo    |                | Verb           | to like                    |
 | degAtA    |                |                | similar to                 |
 | desAte    |                | Verb           | to be / is, am / are       |
-| eS'An     |                | Noun           | majik energy               |
+| eSAn      |                | Noun           | majik energy               |
 | en        |                |                | and                        |
 | fULAvA    |                | Modifier       | far future (months)        |
 | fUdAvA    |                | Modifier       | near future (days)         |
@@ -31,11 +31,11 @@ This is the dictionary for Majel
 | hUrAte    |                | Verb           | to have                    |
 | kAn       |                | Noun           | it / they, them (singular) |
 | kAvAn     |                | Noun           | it's / theirs (ownership)  |
-| kAvO'     |                | Adjective      | it's / their               |
+| kAvo      |                | Adjective      | it's / their               |
 | kLesAte   |                | Verb           | to consume                 |
-| kO'       |                | Subject        | it / they (singular)       |
-| kO'nA     |                | Subject        | a group of things / people |
-| kO'nAn    |                | Noun           | a group of things / people |
+| ko        |                | Subject        | it / they (singular)       |
+| konA      |                | Subject        | a group of things / people |
+| konAn     |                | Noun           | a group of things / people |
 | kULAn     |                | Noun           | a large stone / rock       |
 | kUcAn     |                | Noun           | stone (in general)         |
 | kUdAn     |                | Noun           | a small stone / rock       |
@@ -48,7 +48,7 @@ This is the dictionary for Majel
 | mAjikAte  |                | Verb           | to use majik               |
 | mAn       |                | Noun           | me, I, myself              |
 | mAvAn     |                | Noun           | mine (ownership)           |
-| mAvO'     |                | Adjective      | my (ownership)             |
+| mAvo      |                | Adjective      | my (ownership)             |
 | mE        |                | Subject        | me, I                      |
 | mEnA      |                | Subject        | we                         |
 | mEnAn     |                | Noun           | we, us, ourselves          |
@@ -59,7 +59,7 @@ This is the dictionary for Majel
 | metAte    |                | Verb           | to meet                    |
 | nAhUrAte  |                | Verb           | to not have                |
 | nA-       |                | Prefix         | a little / weakly          |
-| nAnAvO'   |                | Adjective      | a little, not very much    |
+| nAnAvo    |                | Adjective      | a little, not very much    |
 | nApAdAvA  |                | Modifier       | recent past (minuets)      |
 | nApAdAva  |                | Modifier       | near future (minutes)      |
 | pALAvA    |                | Modifier       | distant past (months)      |
@@ -69,14 +69,14 @@ This is the dictionary for Majel
 | senAsAn   |                | Noun           | sentence                   |
 | tAn       |                | Noun           | you, yourself              |
 | tAvAn     |                | Noun           | yours (ownership)          |
-| tAvO'     |                | Adjective      | your (ownership)           |
+| tAvo      |                | Adjective      | your (ownership)           |
 | tU        |                | Subject        | you                        |
 | tUnA      |                | Subject        | you all                    |
 | tUnAn     |                | Noun           | you all, yourselves        |
-| vO'Ate    |                | Verb           | to be in / within          |
-| nO'vAvO'  |                | Adjective      | positive                   |
-| nO'vAte   |                | Verb           | to be positive             |
-| nO'vAn    |                | Noun           | positivity                 |
+| voAte     |                | Verb           | to be in / within          |
+| novAvo    |                | Adjective      | positive                   |
+| novAte    |                | Verb           | to be positive             |
+| novAn     |                | Noun           | positivity                 |
 |           |                |                |                            |
 
 

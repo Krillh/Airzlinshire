@@ -58,7 +58,7 @@ This is the dictionary for Majel
 | mepAvA    |                | Modifier       | plural                     |
 | metAte    |                | Verb           | to meet                    |
 | nAhUrAte  |                | Verb           | to not have                |
-| nAnA-     |                | Prefix         | a little / weakly          |
+| nA-       |                | Prefix         | a little / weakly          |
 | nAnAvO'   |                | Adjective      | a little, not very much    |
 | nApAdAvA  |                | Modifier       | recent past (minuets)      |
 | nApAdAva  |                | Modifier       | near future (minutes)      |
@@ -79,6 +79,5 @@ This is the dictionary for Majel
 | nO'vAn    |                | Noun           | positivity                 |
 |           |                |                |                            |
 
-existance
-dofsr
-![![Majel/#^Table4]]
+
+![![Majel/#^Table4]]. 

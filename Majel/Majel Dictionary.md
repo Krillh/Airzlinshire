@@ -73,4 +73,8 @@ This is the dictionary for Majel
 | tU        |                | Subject        | you                        |
 | tUnA      |                | Subject        | you all                    |
 | tUnAn     |                | Noun           | you all, yourselves        |
-| vO'       |                |                | in, within                 |
+| vO'Ate    |                | Verb           | to be in / within          |
+| nO'vAvO'  |                | Adjective      | positive                   |
+| nO'vAte   |                | Verb           | to be positive             |
+| nO'v          |                |                |                            |
+

@@ -12,3 +12,5 @@ Writing [[Book 1]] has really developed the [[Kingdoms]], [[Geography]], and [[P
 
 ## Other Reads
 - Funny story on the [[Airzlinshire Name]]
+- [[Flora]] of Airzlinshire
+- [[Fauna]] of Airzlinshire

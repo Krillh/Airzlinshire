@@ -33,7 +33,6 @@ This is the dictionary for Majel
 | kAvAn     |                | Noun           | it's / theirs (ownership)  |
 | kAvo      |                | Adjective      | it's / their               |
 | kLesAte   |                | Verb           | to consume                 |
-| ko        |                | Subject        | it / they (singular)       |
 | konA      |                | Subject        | a group of things / people |
 | konAn     |                | Noun           | a group of things / people |
 | kULAn     |                | Noun           | a large stone / rock       |
@@ -46,7 +45,6 @@ This is the dictionary for Majel
 | mAjeLAn   |                | Noun           | majel                      |
 | mAjikAn   |                | Noun           | majik                      |
 | mAjikAte  |                | Verb           | to use majik               |
-| mAn       |                | Noun           | me, I, myself              |
 | mAvAn     |                | Noun           | mine (ownership)           |
 | mAvo      |                | Adjective      | my (ownership)             |
 | mE        |                | Subject        | me, I                      |

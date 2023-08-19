@@ -55,7 +55,7 @@ This is the dictionary for Majel
 | nAhUrAte   |                | Verb           | to not have                |
 | nA-        |                | Prefix         | a little / weakly          |
 | nAnAvo     |                | Adjective      | a little, not very much    |
-| nApAdAvA   |                | Modifier       | recent past (minuets)      |
+| nApAdAvA   |                | Modifier       | recent past (minutes)      |
 | nApAdAva   |                | Modifier       | near future (minutes)      |
 | pALAvA     |                | Modifier       | distant past (months)      |
 | pAbAte     |                | Verb           | to go / to travel          |

@@ -1,7 +1,7 @@
 
 
 
-pa
+pa  - quality
 pi
 pu
 pe
@@ -12,7 +12,7 @@ bu
 be
 bo
 fa
-fi
+fi  - safety
 fu
 fe
 fo
@@ -21,7 +21,7 @@ vi
 vu
 ve
 vo
-ma
+ma  - majik / 
 mi  - me, the self
 mu
 me
@@ -46,7 +46,7 @@ zi
 zu
 ze
 zo
-na
+na  - thing
 ni
 nu
 ne
@@ -66,14 +66,14 @@ qi
 qu
 qe
 qo
-ja
-ji
-ju
-je
-jo
-ka
-ki
-ku
+ja  - sight
+ji  - sound
+ju  - temperature
+je  - taste
+jo  - touch()
+ka  - size
+ki  - 
+ku  - 
 ke
 ko  - amount
 ga

@@ -13,15 +13,15 @@ be
 bo
 fa
 fi  - safety
-fu
+fu  - 
 fe
 fo
 va
 vi
 vu
 ve
-vo
-ma  - majik / 
+vo  - action
+ma  - majik
 mi  - me, the self
 mu
 me
@@ -29,17 +29,17 @@ mo
 ta
 ti  - you
 tu
-te
+te  - aspect
 to
 da
 di
 du
-de  - existance
+de  - existence
 do
 sa  - position
 si
 su
-se  - 
+se  - movement
 so  - direction
 za
 zi
@@ -53,33 +53,33 @@ ne
 no
 la
 li
-lu
+lu  - understanding
 le  - meaning
 lo  - time
 ra
-ri
-ru
+ri  - difference
+ru  - 
 re
 ro
-qa
-qi
-qu
-qe
-qo
+qa  - 
+qi  - want
+qu  - need
+qe  - 
+qo  - sense
 ja  - sight
 ji  - sound
 ju  - temperature
 je  - taste
-jo  - touch()
+jo  - touch(sense)
 ka  - size
 ki  - 
 ku  - 
-ke
+ke  - 
 ko  - amount
-ga
-gi
+ga  - 
+gi  - 
 gu  - container
-ge
+ge  - body
 go
 ha
 hi

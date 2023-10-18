@@ -34,13 +34,13 @@ to
 da
 di
 du
-de
+de  - existance
 do
 sa
 si
 su
-se
-so
+se  - 
+so  - direction
 za
 zi
 zu
@@ -54,7 +54,7 @@ no
 la
 li
 lu
-le
+le  - meaning
 lo
 ra
 ri
@@ -78,7 +78,7 @@ ke
 ko
 ga
 gi
-gu
+gu  - container
 ge
 go
 ha

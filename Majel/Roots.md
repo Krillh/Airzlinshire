@@ -2,7 +2,7 @@
 
 
 pa  - quality
-pi
+pi  - 
 pu
 pe
 po
@@ -41,14 +41,14 @@ si
 su
 se  - movement
 so  - direction
-za
+za  - hardness
 zi
 zu
 ze
 zo
 na  - thing
-ni
-nu
+ni  - positive
+nu  - negative
 ne
 no
 la

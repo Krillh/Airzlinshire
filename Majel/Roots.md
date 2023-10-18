@@ -36,7 +36,7 @@ di
 du
 de  - existance
 do
-sa
+sa  - position
 si
 su
 se  - 
@@ -55,7 +55,7 @@ la
 li
 lu
 le  - meaning
-lo
+lo  - time
 ra
 ri
 ru
@@ -75,7 +75,7 @@ ka
 ki
 ku
 ke
-ko
+ko  - amount
 ga
 gi
 gu  - container

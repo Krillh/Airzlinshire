@@ -32,9 +32,9 @@ tu
 te  - aspect
 to
 da
-di
-du
-de  - existence, life
+di - life
+du - death
+de  - existence
 do
 sa  - position
 si
@@ -72,7 +72,7 @@ ju  - temperature
 je  - taste
 jo  - touch(sense)
 ka  - size
-ki  - 
+ki  - light
 ku  - 
 ke  - 
 ko  - amount

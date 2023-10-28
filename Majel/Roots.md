@@ -42,10 +42,10 @@ su
 se  - movement
 so  - direction
 za  - hardness
-zi
-zu
-ze
-zo
+zi - plural
+zu - specifically singular
+ze - a group
+zo - a group of groups
 na  - thing
 ni  - positive
 nu  - negative

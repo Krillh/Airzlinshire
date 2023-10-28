@@ -17,8 +17,8 @@ fu  - fire
 fe - ownership
 fo - following, obeying, listening
 va - leading
-vi
-vu
+vi - left
+vu - right
 ve
 vo  - action
 ma  - majik
@@ -37,8 +37,8 @@ du - death
 de  - existence
 do
 sa  - position
-si
-su
+si - front
+su - back
 se  - movement
 so  - direction
 za  - hardness
@@ -59,11 +59,11 @@ lo  - time
 ra
 ri  - difference
 ru  - air, gas
-re
-ro
+re - need
+ro - want
 qa  - solid, rock
-qi  - want
-qu  - need
+qi  - up
+qu  - down
 qe  - 
 qo  - sense
 ja  - sight
@@ -80,7 +80,7 @@ ga  - power
 gi  - person
 gu  - container
 ge  - body
-go
+go - on top
 ha - question
 hi
 hu

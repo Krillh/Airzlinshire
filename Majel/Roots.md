@@ -77,7 +77,7 @@ ku  - cold
 ke  - hot
 ko  - amount
 ga  - power
-gi  - 
+gi  - person
 gu  - container
 ge  - body
 go

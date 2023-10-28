@@ -25,7 +25,7 @@ ma  - majik
 mi  - me, the self
 mu
 me
-mo
+mo - us, together, ourselves
 ta
 ti  - you
 tu

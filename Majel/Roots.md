@@ -14,7 +14,7 @@ bo - agreement
 fa
 fi  - safety
 fu  - fire
-fe - 
+fe - ownership
 fo - following, obeying, listening
 va - leading
 vi

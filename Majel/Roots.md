@@ -6,8 +6,8 @@ pi  - water
 pu - sharing, giving, receiving
 pe
 po
-ba
-bi
+ba - help
+bi - trust
 bu
 be
 bo - agreement
@@ -25,7 +25,7 @@ ma  - majik
 mi  - me, the self
 mu
 me
-mo - us, together, ourselves
+mo - us, ourselves
 ta
 ti  - you
 tu
@@ -81,7 +81,7 @@ gi  -
 gu  - container
 ge  - body
 go
-ha
+ha - question
 hi
 hu
 he

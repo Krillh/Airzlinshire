@@ -2,7 +2,7 @@
 
 
 pa  - quality
-pi  - 
+pi  - water
 pu
 pe
 po
@@ -13,7 +13,7 @@ be
 bo
 fa
 fi  - safety
-fu  - 
+fu  - fire
 fe
 fo
 va
@@ -34,7 +34,7 @@ to
 da
 di
 du
-de  - existence
+de  - existence, life
 do
 sa  - position
 si
@@ -58,10 +58,10 @@ le  - meaning
 lo  - time
 ra
 ri  - difference
-ru  - 
+ru  - air, gas
 re
 ro
-qa  - 
+qa  - solid, rock
 qi  - want
 qu  - need
 qe  - 

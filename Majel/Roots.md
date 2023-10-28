@@ -3,7 +3,7 @@
 
 pa  - quality
 pi  - water
-pu
+pu - sharing, giving, receiving
 pe
 po
 ba

@@ -80,9 +80,9 @@ ga  - power
 gi  - person
 gu  - container
 ge  - body
-go - on top
+go - top
 ha - question
-hi
-hu
-he
+hi - a joke, sarcasm
+hu - being serious
+he - isn't it
 ho

@@ -14,7 +14,7 @@ bo
 fa
 fi  - safety
 fu  - fire
-fe
+fe - 
 fo
 va
 vi
@@ -73,8 +73,8 @@ je  - taste
 jo  - touch(sense)
 ka  - size
 ki  - light
-ku  - 
-ke  - 
+ku  - cold
+ke  - hot
 ko  - amount
 ga  - 
 gi  - 

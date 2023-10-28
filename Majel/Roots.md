@@ -56,7 +56,7 @@ li  - emotion
 lu  - understanding
 le  - meaning
 lo  - time
-ra
+ra - important
 ri  - difference
 ru  - air, gas
 re - need

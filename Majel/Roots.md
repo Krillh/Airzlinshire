@@ -3,8 +3,8 @@
 
 pa  - quality
 pi  - water
-pu - sharing, giving, receiving
-pe
+pu - sharing, giving
+pe - receiving
 po
 ba - help
 bi - trust
@@ -30,7 +30,7 @@ ta
 ti  - you
 tu
 te  - aspect
-to
+to - place
 da
 di - life
 du - death

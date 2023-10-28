@@ -10,13 +10,13 @@ ba
 bi
 bu
 be
-bo
+bo - agreement
 fa
 fi  - safety
 fu  - fire
 fe - 
-fo
-va
+fo - following, obeying, listening
+va - leading
 vi
 vu
 ve
@@ -76,7 +76,7 @@ ki  - light
 ku  - cold
 ke  - hot
 ko  - amount
-ga  - 
+ga  - power
 gi  - 
 gu  - container
 ge  - body

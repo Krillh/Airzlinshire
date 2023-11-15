@@ -2,16 +2,16 @@
 
 
 pa  - quality
-pi  - water
+pi  - water, liquid
 pu - sharing, giving
 pe - receiving
-po
+po - food
 ba - help
 bi - trust
-bu
-be
+bu - pointy, sharp
+be - rounded
 bo - agreement
-fa
+fa - tool
 fi  - safety
 fu  - fire
 fe - ownership
@@ -19,12 +19,12 @@ fo - following, obeying, listening
 va - leading
 vi - left
 vu - right
-ve
+ve - ground
 vo  - action
 ma  - majik
 mi  - me, the self
-mu
-me
+mu - few, small
+me - 
 mo - us, ourselves
 ta
 ti  - you

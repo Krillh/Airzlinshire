@@ -16,7 +16,7 @@ sticker: lucide//book-key
 | ba   | help            | bavo      | to help           | bate      | helpful         |
 | bi   | trust           | bivo      | to trust          | bite      | trustworthy     |
 | bu   | point, needle   | buvo      | to puncture       | bute      | pointy, sharp   |
-| be   | round           | bevo      |                   |           |                 |
+| be   | round           | bevo      | to                   |           |                 |
 
 
 

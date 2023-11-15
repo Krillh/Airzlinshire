@@ -24,18 +24,18 @@ vo  - action
 ma  - majik
 mi  - me, the self
 mu - few, small
-me - 
+me - many, big
 mo - us, ourselves
-ta
+ta - and
 ti  - you
-tu
+tu - or
 te  - aspect
 to - place
-da
+da - length
 di - life
 du - death
 de  - existence
-do
+do - material
 sa  - position
 si - front
 su - back
@@ -49,9 +49,9 @@ zo - a group of groups
 na  - thing
 ni  - positive
 nu  - negative
-ne
-no
-la
+ne - cooking
+no - powder
+la - with, using
 li  - emotion
 lu  - understanding
 le  - meaning
@@ -64,7 +64,7 @@ ro - want
 qa  - solid, rock
 qi  - up
 qu  - down
-qe  - 
+qe  - part
 qo  - sense
 ja  - sight
 ji  - sound
@@ -73,16 +73,16 @@ je  - taste
 jo  - touch(sense)
 ka  - size
 ki  - light
-ku  - cold
-ke  - hot
-ko  - amount
+ku  - if
+ke  - heat
+ko  - amount, level
 ga  - power
 gi  - person
 gu  - container
 ge  - body
 go - top
-ha - question
-hi - a joke, sarcasm
-hu - being serious
-he - isn't it
+ha - question (particle)
+hi - a joke, sarcasm (particle)
+hu - being serious (particle)
+he - isn't it (particle)
 ho

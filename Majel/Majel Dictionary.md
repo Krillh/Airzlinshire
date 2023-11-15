@@ -93,9 +93,13 @@ sticker: lucide//book-key
 
 
 
-| romanization | IPA | noun def. | verb form | verb def. | 
-| ------------ | --- | --------- | --------- | --------- |
-| pa           | 'pɑ | quality   |           |           |
+| rom. | noun def.       | verb form | verb def.         | adj. form | adj. def.       |
+| ---- | --------------- | --------- | ----------------- | --------- | --------------- |
+| pa   | quality         |           |                   |           |                 |
+| pi   | water; liquid   |           |                   | pite      | wet; liquid     |
+| pu   | sharing, giving | puvo      | to share, to give | pute      | gifted (a gift) |
+| pe   | receiving       | pevo      | to receive        |           |                 |
+| po   | food            | povo      | to eat            | pote      | notricous       | 
 
 
 

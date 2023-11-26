@@ -40,7 +40,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | mu            | few; small         |                              | small                 |             |
 | me            | many; big          |                              | big                   |             |
 | mo            | us, ourselves      |                              |                       |             |
-| ta            |                    |                              |                       | and         |
+| ta            |                    |                              |                       | and; then   |
 | ti            | you                |                              |                       |             |
 | tu            |                    |                              |                       | or          |
 | te            | aspect             |                              |                       | make A form |
@@ -111,8 +111,10 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | nufifa        | weapon             |                              |                       |             |
 | bunufifa      | spear              |                              |                       |             |
 | benufifa      | club               |                              |                       |             |
-| putape        | trading            | to trade                     |                       |             |
-| putapebo      | a trade            |                              |                       |             |
+| putape        | buying             | to buy                       | bought                |             |
+| petapu        | selling            | to sell                      | sold                  |             |
+| petaputo      | shop               |                              |                       |             |
+| petapuna      | money              |                              |                       |             |
 
 
 

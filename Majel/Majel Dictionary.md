@@ -115,7 +115,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | petapu        | selling             | to sell                      | sold                  |             |
 | petaputo      | shop                |                              |                       |             |
 | putapena      | money               |                              |                       |             |
-|               | building, structure |                              |                       |             |
+|           | building, structure |                              |                       |             |
 
 
 

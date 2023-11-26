@@ -40,7 +40,16 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | mu            | few, small         |               |                    | mute          | small           |           |
 | me            | many, big          |               |                    | mete          | big             |           |
 | mo            | us, ourselves      |               |                    |               |                 |           |
-| ta            |                    |               |                    |               |                 |           |
+| ta            |                    |               |                    |               |                 | and       |
+| ti            | you                |               |                    |               |                 |           |
+| tu            |                    |               |                    |               |                 | or        |
+| te            | aspect             |               |                    |               |                 | A form    |
+| to            | place, location    | tovo          | to find, to locate |               |                 |           |
+| da            | length             | davo          | to measure length  | date          | long            |           |
+| di            | life               | divo          | to live            | dite          | living          |           |
+| du            | death              | duvo          | to die             | dute          | dead            |           |
+| de            | existence          | devo          | to be              | dete          | real            | V: is     |
+| do            | material           | dovo          | to create          | dote          |                 |           |
 
 
 

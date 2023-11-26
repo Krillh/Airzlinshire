@@ -49,7 +49,15 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | di            | life               | divo          | to live            | dite          | living          |           |
 | du            | death              | duvo          | to die             | dute          | dead            |           |
 | de            | existence          | devo          | to be              | dete          | real            | V: is     |
-| do            | material           | dovo          | to create          | dote          |                 |           |
+| do            | material           | dovo          | to create          | dote          | artificial      |           |
+| sa            | position           | savo          | to position        |               |                 |           |
+| si            | front              |               |                    | site          | forward-facing  |           |
+| su            | back               |               |                    | sute          | backward-facing |           |
+| se            | movement           | sevo          | to move            | sete          | moving          |           |
+| so            | direction          | sovo          | to turn            | sote          | turning         |           |
+| za            | hardness           |               |                    | zate          | hard            |           |
+| zi            | plural             |               |                    |               |                 | plural    |
+| su            | single             |               |                    |               |                 | single    | 
 
 
 

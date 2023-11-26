@@ -95,6 +95,12 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | gu            | container          |               |                     |               |                    |             |
 | ge            | body               |               |                     |               |                    |             |
 | go            | top                |               |                     | gote          | on top             |             |
+| nibo          |                    |               |                     |               |                    | yes         |
+| nubo          |                    |               |                     |               |                    | no          |
+| qigu          | outside            |               |                     | qigute        | outer              |             |
+| qugu          | inside             |               |                     | qugute        | inner              |             |
+| bufa          | knife              | bufavo        | to cut              | bufate        | cut                |             |
+| bebufa        | dull knife         | bebufavo      | to separate         |               |                    |             |
 
 
 

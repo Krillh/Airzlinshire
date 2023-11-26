@@ -3,9 +3,11 @@ sticker: lucide//book-key
 ---
 ## Word Forms
 #### 'R' Form
-The 'R' form is the root form of the word. It is the form used in nouns and has no ending. In compound words, the root form can act as any part of speech.
+The 'R' form is the root form of the word. It is the form used in nouns and has no extra ending. Compound words are made using root forms. In compound words, the root form can act as any part of speech. Particles are also in root form.
 #### 'V' Form
-The 'V' form is the verb form. It is made by adding 'vo' (meaning: action) to the end of a word. The verb form of a root is often the action associated with it's root, but not always/
+The 'V' form is the verb form. It is made by adding 'vo' (meaning: action) to the end of a root. The verb form of a root is often the action associated with it's root, but not always.
+#### 'A' Form
+The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) to the end of a root. The verb form is often derived from the verb form of that root, usually describing the main aspect of the verb form's action.
 
 
 

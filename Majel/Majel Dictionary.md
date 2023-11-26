@@ -72,7 +72,16 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | lo            | time               |               |                    |               |                 |             |
 | ra            | importance         |               |                    | rate          | important       |             |
 | ri            | difference         |               |                    | rite          | different       |             |
-|               |                    |               |                    |               |                 |             |
+| ru            | air, gas           | ruvo          | to make into gas   | rute          | in gas state    |             |
+| re            | need               | revo          | to need            | rete          | needed          |             |
+| ro            | want               | rovo          | to want            | rote          | sought after    |             |
+| qa            | solid, rock        | qavo          | to make into solid | qate          | in solid state  |             |
+| qi            | up                 |               |                    |               |                 |             |
+| qu            | down               |               |                    |               |                 |             |
+| qe            | part               | qevo          | to seperate        | qete          | broken          |             |
+| qo            | sense              | qovo          | to sense           | qote          | sensitive       |             |
+| ja            | sight              | javo          | to see             |               |                 |             |
+| ji            | sound              |               |                    |               |                 |             |
 
 
 

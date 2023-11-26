@@ -107,6 +107,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | seqi          | upwards movement   | to open; to raise            | open; raised          |             |
 | pese          | approach; arrive   | to come; to approach, arrive | approaching, arriving |             |
 | dido          | plant              | to grow                      |                       |             |
+| nufili        | fear               | to fear                      | fearful               |             |
 
 
 

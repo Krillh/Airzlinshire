@@ -89,7 +89,12 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | ki            | light              | kivo          | to glow             | kite          | illuminating       |             |
 | ku            |                    |               |                     |               |                    | if          |
 | ke            | heat               | kevo          | to heat             | kete          | warm               |             |
-| ko            | amount, level      | kovo          | to measure amount   | kote          |                    |             |
+| ko            | amount, level      | kovo          | to measure amount   |               |                    |             |
+| ga            | power              |               |                     | gate          | powerful           |             |
+| gi            | person             |               |                     |               |                    |             |
+| gu            | container          |               |                     |               |                    |             |
+| ge            | body               |               |                     |               |                    |             |
+| go            | top                |               |                     | gote          | on top             |             |
 
 
 

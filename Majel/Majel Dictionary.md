@@ -63,7 +63,16 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | na            | thing              |               |                    |               |                 |             |
 | ni            | positive           |               |                    | nite          | positive        |             |
 | nu            | negative           |               |                    | nute          | negative        |             |
-| ne            | cooking            |               |                    |               |                 |             |
+| ne            | cooking            | nevo          | to cook            | nete          | home cooked     |             |
+| no            | powder             | novo          | to powder          | note          | powdered        |             |
+| la            |                    |               |                    |               |                 | with; using |
+| li            | emotion            | livo          | to feel (emotion)  | lite          | emotional       |             |
+| lu            | understanding      | luvo          | to understand      | lute          | well known      |             |
+| le            | meaning            | levo          | to tell            | lete          | meaningful      |             |
+| lo            | time               |               |                    |               |                 |             |
+| ra            | importance         |               |                    | rate          | important       |             |
+| ri            | difference         |               |                    | rite          | different       |             |
+|               |                    |               |                    |               |                 |             |
 
 
 

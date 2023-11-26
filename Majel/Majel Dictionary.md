@@ -28,7 +28,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | fa            | tool               | to use                       | tool-like             |             |
 | fi            | safety             | to be safe                   | safe                  |             |
 | fu            | fire               | to set alight                | burning               |             |
-| fe            | ownership          | to own                       |                       |             |
+| fe            | ownership          | to own; have; hold           |                       |             |
 | fo            | following; obeying | to follow; to obey           |                       |             |
 | va            | leading            | to lead                      | good leader           |             |
 | vi            | left               |                              | on the left           |             |
@@ -108,6 +108,11 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | pese          | approach; arrive   | to come; to approach, arrive | approaching, arriving |             |
 | dido          | plant              | to grow                      |                       |             |
 | nufili        | fear               | to fear                      | fearful               |             |
+| nufifa        | weapon             |                              |                       |             |
+| bunufifa      | spear              |                              |                       |             |
+| benufifa      | club               |                              |                       |             |
+| putape        | trading            | to trade                     |                       |             |
+| putapebo      | a trade            |                              |                       |             |
 
 
 

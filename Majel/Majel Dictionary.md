@@ -114,7 +114,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | putape        | buying             | to buy                       | bought                |             |
 | petapu        | selling            | to sell                      | sold                  |             |
 | petaputo      | shop               |                              |                       |             |
-| petapuna      | money              |                              |                       |             |
+| putapena      | money              |                              |                       |             |
 
 
 

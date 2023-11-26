@@ -30,7 +30,17 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | fu            | fire               | fuvo          | to set alight      | fute          | burning         |           |
 | fe            | ownership          | fevo          | to own             |               |                 |           |
 | fo            | following, obeying | fovo          | to follow, to obey |               |                 |           |
-| va            | leading            | vavo          | to lead            | vate          | leader                |           |
+| va            | leading            | vavo          | to lead            | vate          | good leader     |           |
+| vi            | left               |               |                    | vite          | on the left     |           |
+| vu            | right              |               |                    | vute          | on the right    |           |
+| ve            | ground             |               |                    |               |                 |           |
+| vo            | action             |               |                    |               |                 | V form    |
+| ma            | majik              | mavo          | to use majik       | mate          | magical         |           |
+| mi            | the self           |               |                    |               |                 |           |
+| mu            | few, small         |               |                    | mute          | small           |           |
+| me            | many, big          |               |                    | mete          | big             |           |
+| mo            | us, ourselves      |               |                    |               |                 |           |
+| ta            |                    |               |                    |               |                 |           |
 
 
 

@@ -102,7 +102,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | bufa          | knife               | to cut                       | cut                   |             |
 | bebufa        | dull knife          | to separate; break up        |                       |             |
 | bapa          | quality of help     |                              |                       |             |
-| guqe          | wall                |                              |                       |             |
+| guqe          | wall of building    | to block                     | walled                |             |
 | ruguqe        | hole; door          |                              |                       |             |
 | seqi          | upwards movement    | to open; to raise            | open; raised          |             |
 | pese          | approach; arrive    | to come; to approach, arrive | approaching, arriving |             |
@@ -115,7 +115,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | petapu        | selling             | to sell                      | sold                  |             |
 | petaputo      | shop                |                              |                       |             |
 | putapena      | money               |                              |                       |             |
-|           | building, structure |                              |                       |             |
+| dotogu        | building, structure | to build                     |                       |             |
 
 
 

@@ -13,51 +13,57 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 
 
 
-| R (root) form | noun def.          | V (verb) form | verb def.          | A (adj.) form | adj. def.       | other def |
-| ------------- | ------------------ | ------------- | ------------------ | ------------- | --------------- | --------- |
-| pa            | quality            |               |                    |               |                 |           |
-| pi            | water; liquid      |               |                    | pite          | wet; liquid     |           |
-| pu            | sharing, giving    | puvo          | to share, to give  | pute          | gifted (a gift) |           |
-| pe            | receiving          | pevo          | to receive         |               |                 |           |
-| po            | food               | povo          | to eat             | pote          | nutritious      |           |
-| ba            | help               | bavo          | to help            | bate          | helpful         |           |
-| bi            | trust              | bivo          | to trust           | bite          | trustworthy     |           |
-| bu            | point, needle      | buvo          | to puncture        | bute          | pointy, sharp   |           |
-| be            | round              |               |                    | bete          | rounded         |           |
-| bo            | agreement          | bovo          | to agree           | bote          | agreed upon     |           |
-| fa            | tool               | favo          | to use             | fate          | tool-like       |           |
-| fi            | safety             | fivo          | to be safe         | fite          | safe            |           |
-| fu            | fire               | fuvo          | to set alight      | fute          | burning         |           |
-| fe            | ownership          | fevo          | to own             |               |                 |           |
-| fo            | following, obeying | fovo          | to follow, to obey |               |                 |           |
-| va            | leading            | vavo          | to lead            | vate          | good leader     |           |
-| vi            | left               |               |                    | vite          | on the left     |           |
-| vu            | right              |               |                    | vute          | on the right    |           |
-| ve            | ground             |               |                    |               |                 |           |
-| vo            | action             |               |                    |               |                 | V form    |
-| ma            | majik              | mavo          | to use majik       | mate          | magical         |           |
-| mi            | the self           |               |                    |               |                 |           |
-| mu            | few, small         |               |                    | mute          | small           |           |
-| me            | many, big          |               |                    | mete          | big             |           |
-| mo            | us, ourselves      |               |                    |               |                 |           |
-| ta            |                    |               |                    |               |                 | and       |
-| ti            | you                |               |                    |               |                 |           |
-| tu            |                    |               |                    |               |                 | or        |
-| te            | aspect             |               |                    |               |                 | A form    |
-| to            | place, location    | tovo          | to find, to locate |               |                 |           |
-| da            | length             | davo          | to measure length  | date          | long            |           |
-| di            | life               | divo          | to live            | dite          | living          |           |
-| du            | death              | duvo          | to die             | dute          | dead            |           |
-| de            | existence          | devo          | to be              | dete          | real            | V: is     |
-| do            | material           | dovo          | to create          | dote          | artificial      |           |
-| sa            | position           | savo          | to position        |               |                 |           |
-| si            | front              |               |                    | site          | forward-facing  |           |
-| su            | back               |               |                    | sute          | backward-facing |           |
-| se            | movement           | sevo          | to move            | sete          | moving          |           |
-| so            | direction          | sovo          | to turn            | sote          | turning         |           |
-| za            | hardness           |               |                    | zate          | hard            |           |
-| zi            | plural             |               |                    |               |                 | plural    |
-| su            | single             |               |                    |               |                 | single    | 
+| R (root) form | noun def.          | V (verb) form | verb def.          | A (adj.) form | adj. def.       | other def   |
+| ------------- | ------------------ | ------------- | ------------------ | ------------- | --------------- | ----------- |
+| pa            | quality            |               |                    |               |                 |             |
+| pi            | water; liquid      |               |                    | pite          | wet; liquid     |             |
+| pu            | sharing, giving    | puvo          | to share, to give  | pute          | gifted (a gift) |             |
+| pe            | receiving          | pevo          | to receive         |               |                 |             |
+| po            | food               | povo          | to eat             | pote          | nutritious      |             |
+| ba            | help               | bavo          | to help            | bate          | helpful         |             |
+| bi            | trust              | bivo          | to trust           | bite          | trustworthy     |             |
+| bu            | point, needle      | buvo          | to puncture        | bute          | pointy, sharp   |             |
+| be            | round              |               |                    | bete          | rounded         |             |
+| bo            | agreement          | bovo          | to agree           | bote          | agreed upon     |             |
+| fa            | tool               | favo          | to use             | fate          | tool-like       |             |
+| fi            | safety             | fivo          | to be safe         | fite          | safe            |             |
+| fu            | fire               | fuvo          | to set alight      | fute          | burning         |             |
+| fe            | ownership          | fevo          | to own             |               |                 |             |
+| fo            | following, obeying | fovo          | to follow, to obey |               |                 |             |
+| va            | leading            | vavo          | to lead            | vate          | good leader     |             |
+| vi            | left               |               |                    | vite          | on the left     |             |
+| vu            | right              |               |                    | vute          | on the right    |             |
+| ve            | ground             |               |                    |               |                 |             |
+| vo            | action             |               |                    |               |                 | V form      |
+| ma            | majik              | mavo          | to use majik       | mate          | magical         |             |
+| mi            | the self           |               |                    |               |                 |             |
+| mu            | few, small         |               |                    | mute          | small           |             |
+| me            | many, big          |               |                    | mete          | big             |             |
+| mo            | us, ourselves      |               |                    |               |                 |             |
+| ta            |                    |               |                    |               |                 | and         |
+| ti            | you                |               |                    |               |                 |             |
+| tu            |                    |               |                    |               |                 | or          |
+| te            | aspect             |               |                    |               |                 | A form      |
+| to            | place, location    | tovo          | to find, to locate |               |                 |             |
+| da            | length             | davo          | to measure length  | date          | long            |             |
+| di            | life               | divo          | to live            | dite          | living          |             |
+| du            | death              | duvo          | to die             | dute          | dead            |             |
+| de            | existence          | devo          | to be              | dete          | real            |             |
+| do            | material           | dovo          | to create          | dote          | artificial      |             |
+| sa            | position           | savo          | to position        |               |                 |             |
+| si            | front              |               |                    | site          | forward-facing  |             |
+| su            | back               |               |                    | sute          | backward-facing |             |
+| se            | movement           | sevo          | to move            | sete          | moving          |             |
+| so            | direction          | sovo          | to turn            | sote          | turning         |             |
+| za            | hardness           |               |                    | zate          | hard            |             |
+| zi            | plural             | zivo          | to make more of    |               |                 | R: plural   |
+| zu            | single             |               |                    |               |                 | R: singular |
+| ze            | group              | zevo          | to group           | zete          | grouped         |             |
+| zo            | group of groups    |               |                    |               |                 |             |
+| na            | thing              |               |                    |               |                 |             |
+| ni            | positive           |               |                    | nite          | positive        |             |
+| nu            | negative           |               |                    | nute          | negative        |             |
+| ne            | cooking            |               |                    |               |                 |             |
 
 
 

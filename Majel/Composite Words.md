@@ -1,8 +1,7 @@
 ---
 sticker: lucide//whole-word
 ---
-
+## Making New Words
 When making new words, other composite words or roots are smashed together. They are ordered like English, where you would say 'Italian person', rather than 'person of Italy'. The adjective-acting part will go before the object. When combining parts into a composite word, only use the root forms. Even if you intend for it to act like a verb or adjective, drop the suffix. Sometimes, roots will end up acting like both an object and the adjective for the next object. This is called accumulating. This mostly happens in poly-composites.
-
 ### Composite Order & Poly-Composites
-A first order composite is one that was constructed solely with the meanings of the original [[Root]] words. It wasn't made of any other composites. A second order composite is one that was made with at least one first order composite and only roots other than that. A third order composite is made with at least one second order composite and first order composites and roots otherwise. This pattern continues on. 
+A first order composite is one that was constructed solely with the meanings of the original [[Root]] words. It wasn't made of any other composites. A second order composite is one that was made with at least one first order composite and only roots other than that. A third order composite is made with at least one second order composite and first order composites and roots otherwise. This pattern continues on. Composites that are second order or higher are called poly-composites.

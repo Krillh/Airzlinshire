@@ -3,10 +3,8 @@ sticker: lucide//book-key
 ---
 ## Word Forms
 
-^2c45b9
-
 #### 'R' Form
-The 'R' form is the root form of the word. It is the form used in nouns and has no extra ending [[Composite Words]] are made using root forms.
+The 'R' form is the root form of the word. It is the form used in nouns and has no extra ending [[Composite Words]] are made using root forms. In the dictionary, only the root form is spelled out. Only the other forms' definitions are given because they 
 #### 'V' Form
 The 'V' form is the verb form. It is made by adding 'vo' (meaning: action) to the end of a root. The verb form of a root is often the action associated with it's root, but not always.
 #### 'A' Form

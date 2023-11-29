@@ -1,4 +1,4 @@
 ---
-sticker: lucide//smile
+sticker: lucide//person-standing
 ---
 people

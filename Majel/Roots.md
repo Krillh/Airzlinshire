@@ -1,3 +1,6 @@
+---
+sticker: lucide//git-branch
+---
 
 
 
@@ -85,4 +88,4 @@ ha - question (particle)
 hi - a joke, sarcasm (particle)
 hu - being serious (particle)
 he - isn't it (particle)
-ho
+ho - N/A

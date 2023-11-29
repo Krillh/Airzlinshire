@@ -2,4 +2,4 @@
 sticker: lucide//whole-word
 ---
 
-When 
+When making new words, other composite words or roots are smashed together. 

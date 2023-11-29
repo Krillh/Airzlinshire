@@ -2,10 +2,18 @@
 sticker: lucide//git-branch
 ---
 
+|     | P   | B   | F   | V   | M   | T   | D   | S   | Z   | N   | L   | R   | Q   | J   |     | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A   | pa  | ba  | fa  | va  | ma  | ta  | da  | sa  | za  | na  | la  |     |     |     |     |
+| I   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| U   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| E   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| O   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+
 
 
 `pa` - quality
-`pi`  - water, liquid
+`pi` - water, liquid
 `pu` - sharing, giving
 `pe` - receiving
 `po` - food
@@ -15,36 +23,36 @@ sticker: lucide//git-branch
 `be` - rounded
 `bo` - agreement
 `fa` - tool
-`fi`  - safety
-`fu`  - fire
+`fi` - safety
+`fu` - fire
 `fe` - ownership
 `fo` - following, obeying, listening
 `va` - leading
 `vi` - left
 `vu` - right
 `ve` - ground
-`vo`  - action
-`ma`  - majik
-`mi`  - me, the self
+`vo` - action
+`ma` - majik
+`mi` - me, the self
 `mu` - few, small
 `me` - many, big
 `mo` - us, ourselves
 `ta` - and
-`ti`  - you
+`ti` - you
 `tu` - or
-`te`  - aspect
+`te` - aspect
 `to` - place
 `da` - length
 `di` - life
 `du` - death
-`de`  - existence
+`de` - existence
 `do` - material
-`sa`  - position
+`sa` - position
 `si` - front
 `su` - back
 `se` - movement
-`so`  - direction
-`za`  - hardness
+`so` - direction
+`za` - hardness
 `zi` - plural
 `zu` - specifically singular
 `ze` - a group
@@ -55,34 +63,34 @@ sticker: lucide//git-branch
 `ne` - cooking
 `no` - powder
 `la` - with, using
-`li`  - emotion
-`lu`  - understanding
-`le`  - meaning
-`lo`  - time
+`li` - emotion
+`lu` - understanding
+`le` - meaning
+`lo` - time
 `ra` - important
-`ri`  - difference
-`ru`  - air, gas
+`ri` - difference
+`ru` - air, gas
 `re` - need
 `ro` - want
-`qa`  - solid, rock
-`qi`  - up
-`qu`  - down
-`qe`  - part
-`qo`  - sense
-`ja`  - sight
-`ji`  - sound
-`ju`  - temperature
-`je`  - taste
-`jo`  - touch(sense)
-`ka`  - size
-`ki`  - light
-`ku`  - if
-`ke`  - heat
-`ko`  - amount, level
-`ga`  - power
-`gi`  - person
-`gu`  - container
-`ge`  - body
+`qa` - solid, rock
+`qi` - up
+`qu` - down
+`qe` - part
+`qo` - sense
+`ja` - sight
+`ji` - sound
+`ju` - temperature
+`je` - taste
+`jo` - touch(sense)
+`ka` - size
+`ki` - light
+`ku` - if
+`ke` - heat
+`ko` - amount, level
+`ga` - power
+`gi` - person
+`gu` - container
+`ge` - body
 `go` - top
 `ha` - question (particle)
 `hi` - a joke, sarcasm (particle)

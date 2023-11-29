@@ -116,6 +116,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | petaputo      | shop                |                              |                       |             |
 | putapena      | money               |                              |                       |             |
 | dotogu        | building, structure | to build                     |                       |             |
+| dedotogu      | house               | to be at home                | home-like             |             |
 
 
 

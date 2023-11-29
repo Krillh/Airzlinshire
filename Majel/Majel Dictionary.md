@@ -122,6 +122,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | panu          | bad                 |                              | bad                   |             | 1     | pa nu     |
 | nipa          |                     |                              | good quality          |             | 1     | ni pa     |
 | nupi          |                     |                              | bad quality           |             | 1     | nu pa     |
+| majile        | Majel               |                              | written in Majel      |             | 1     | ma ji le  | 
 
 
 

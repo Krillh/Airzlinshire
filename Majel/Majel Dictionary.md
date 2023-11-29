@@ -119,9 +119,11 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | petaputo      | shop                |                              |                       |             | 2     | petapu to |
 | putapena      | money               |                              |                       |             | 2     | putape na |
 | dotogu        | building, structure | to build                     |                       |             | 1     | do to gu  |
-| dedotogu      | house               | to be at home                | home-like             |             | 2     | de dotogu |
-| pani          | good                | to to be                              |                       |             |       |           |
-| panu          |                     |                              |                       |             |       |           |
+| dedotogu      | house               | to stay at home              | home-like             |             | 2     | de dotogu |
+| pani          | good                |                              | good                  |             | 1     | pa ni     |
+| panu          | bad                 |                              | bad                   |             | 1     | pa nu     |
+| nipa          |                     |                              | good quality          |             | 1     | ni pa     |
+| nupi          |                     |                              | bad quality           |             | 1     | nu pa     |
 
 
 

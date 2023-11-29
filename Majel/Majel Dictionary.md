@@ -2,8 +2,11 @@
 sticker: lucide//book-key
 ---
 ## Word Forms
+
+^2c45b9
+
 #### 'R' Form
-The 'R' form is the root form of the word. It is the form used in nouns and has no extra ending. Compound words are made using root forms. In compound words, the root form can act as any part of speech. Particles are also in root form.
+The 'R' form is the root form of the word. It is the form used in nouns and has no extra ending [[Composite Words]] are made using root forms.
 #### 'V' Form
 The 'V' form is the verb form. It is made by adding 'vo' (meaning: action) to the end of a root. The verb form of a root is often the action associated with it's root, but not always.
 #### 'A' Form
@@ -13,110 +16,110 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 
 
 
-| R (root) form | noun def.           | verb def.                    | adj. def.             | other def   | order |
-| ------------- | ------------------- | ---------------------------- | --------------------- | ----------- | ----- |
-| pa            | quality             |                              |                       |             | 0     |
-| pi            | water; liquid       |                              | wet; liquid           |             | 0     |
-| pu            | sharing, giving     | to share, to give            | gifted (a gift)       |             | 0     |
-| pe            | receiving           | to receive                   |                       |             | 0     |
-| po            | food                | to eat                       | nutritious            |             | 0     |
-| ba            | help                | to help                      | helpful               |             | 0     |
-| bi            | trust               | to trust                     | trustworthy           |             | 0     |
-| bu            | point, needle       | to puncture                  | pointy, sharp         |             | 0     |
-| be            | round               | to make dull / round         | rounded, dull         |             | 0     |
-| bo            | agreement           | to agree                     | agreed upon           |             | 0     |
-| fa            | tool                | to use                       | tool-like             |             | 0     |
-| fi            | safety              | to be safe                   | safe                  |             | 0     |
-| fu            | fire                | to set alight                | burning               |             | 0     |
-| fe            | ownership           | to own; have; hold           |                       |             | 0     |
-| fo            | following; obeying  | to follow; to obey           |                       |             | 0     |
-| va            | leading             | to lead                      | good leader           |             | 0     |
-| vi            | left                |                              | on the left           |             | 0     |
-| vu            | right               |                              | on the right          |             | 0     |
-| ve            | ground              |                              |                       |             | 0     |
-| vo            | action              |                              |                       | make V form | 0     |
-| ma            | majik               | to use majik                 | magical               |             | 0     |
-| mi            | the self            |                              |                       |             | 0     |
-| mu            | few; small          |                              | small                 |             | 0     |
-| me            | many; big           |                              | big                   |             | 0     |
-| mo            | us, ourselves       |                              |                       |             | 0     |
-| ta            |                     |                              |                       | and; then   | 0     |
-| ti            | you                 |                              |                       |             | 0     |
-| tu            |                     |                              |                       | or          | 0     |
-| te            | aspect              |                              |                       | make A form | 0     |
-| to            | place; location     | to find; to locate           |                       |             | 0     |
-| da            | length              | to measure length            | long                  |             | 0     |
-| di            | life                | to live                      | living                |             | 0     |
-| du            | death               | to die                       | dead                  |             | 0     |
-| de            | existence           | to be                        | real                  |             | 0     |
-| do            | material            | to create                    | artificial            |             | 0     |
-| sa            | position            | to position                  |                       |             | 0     |
-| si            | front               |                              | forward-facing        |             | 0     |
-| su            | back                |                              | backward-facing       |             | 0     |
-| se            | movement            | to move; to travel, go       | moving; traveling     |             | 0     |
-| so            | direction           | to turn                      | turning               |             | 0     |
-| za            | hardness            |                              | hard                  |             | 0     |
-| zi            | plural              | to make more of              |                       | R: plural   | 0     |
-| zu            | single              |                              |                       | R: singular | 0     |
-| ze            | group               | to group                     | grouped               |             | 0     |
-| zo            | group of groups     |                              |                       |             | 0     |
-| na            | thing               |                              |                       |             | 0     |
-| ni            | positive            |                              | positive              |             | 0     |
-| nu            | negative            |                              | negative              |             | 0     |
-| ne            | cooking             | to cook                      | home cooked           |             | 0     |
-| no            | powder              | to powder                    | powdered              |             | 0     |
-| la            |                     |                              |                       | with; using | 0     |
-| li            | emotion             | to feel (emotion)            | emotional             |             | 0     |
-| lu            | understanding       | to understand                | well known            |             | 0     |
-| le            | meaning             | to tell                      | meaningful            |             | 0     |
-| lo            | time                |                              |                       |             | 0     |
-| ra            | importance          |                              | important             |             | 0     |
-| ri            | difference          |                              | different             |             | 0     |
-| ru            | air; gas            | to make into gas             | in gas state          |             | 0     |
-| re            | need                | to need                      | needed                |             | 0     |
-| ro            | want                | to want                      | sought after          |             | 0     |
-| qa            | solid; rock         | to make into solid           | in solid state        |             | 0     |
-| qi            | up                  |                              |                       |             | 0     |
-| qu            | down                |                              |                       |             | 0     |
-| qe            | part                | to separate                  | broken                |             | 0     |
-| qo            | sense               | to sense                     | sensitive             |             | 0     |
-| ja            | sight               | to see                       |                       |             | 0     |
-| ji            | sound               | to hear                      |                       |             | 0     |
-| ju            | temperature         | to feel temperature          |                       |             | 0     |
-| je            | taste               | to taste                     |                       |             | 0     |
-| jo            | touch               | to touch                     |                       |             | 0     |
-| ka            | size                | to measure size              | of reasonable size    |             | 0     |
-| ki            | light               | to glow                      | illuminating          |             | 0     |
-| ku            |                     |                              |                       | if          | 0     |
-| ke            | heat                | to heat                      | warm                  |             | 0     |
-| ko            | amount, level       | to measure amount            |                       |             | 0     |
-| ga            | power               |                              | powerful              |             | 0     |
-| gi            | person              |                              |                       |             | 0     |
-| gu            | container           |                              |                       |             | 0     |
-| ge            | body                |                              |                       |             | 0     |
-| go            | top                 |                              | on top                |             | 0     |
-| nibo          |                     |                              |                       | yes         | 1     |
-| nubo          |                     |                              |                       | no          | 1     |
-| qigu          | outside             |                              | outer                 |             | 1     |
-| qugu          | inside              |                              | inner                 |             | 1     |
-| bufa          | knife               | to cut                       | cut                   |             | 1     |
-| bebufa        | dull knife          | to separate; break up        |                       |             | 1     |
-| bapa          | quality of help     |                              |                       |             | 1     |
-| guqe          | wall of building    | to block                     | walled                |             | 1     |
-| ruguqe        | hole; door          |                              |                       |             | 1     |
-| seqi          | upwards movement    | to open; to raise            | open; raised          |             | 1     |
-| pese          | approach; arrive    | to come; to approach, arrive | approaching, arriving |             | 1     |
-| dido          | plant               | to grow                      |                       |             | 1     |
-| nufili        | fear                | to fear                      | fearful               |             | 1     |
-| nufifa        | weapon              |                              |                       |             | 1     |
-| bunufifa      | spear               |                              |                       |             | 2     |
-| benufifa      | club                |                              |                       |             | 2     |
-| putape        | buying              | to buy                       | bought                |             | 1     |
-| petapu        | selling             | to sell                      | sold                  |             | 1     |
-| petaputo      | shop                |                              |                       |             | 2     |
-| putapena      | money               |                              |                       |             | 2     |
-| dotogu        | building, structure | to build                     |                       |             | 1     |
-| dedotogu      | house               | to be at home                | home-like             |             | 2     | 
+| R (root) form | noun def.           | verb def.                    | adj. def.             | other def   | order | roots   |
+| ------------- | ------------------- | ---------------------------- | --------------------- | ----------- | ----- | ------- |
+| pa            | quality             |                              |                       |             | 0     |         |
+| pi            | water; liquid       |                              | wet; liquid           |             | 0     |         |
+| pu            | sharing, giving     | to share, to give            | gifted (a gift)       |             | 0     |         |
+| pe            | receiving           | to receive                   |                       |             | 0     |         |
+| po            | food                | to eat                       | nutritious            |             | 0     |         |
+| ba            | help                | to help                      | helpful               |             | 0     |         |
+| bi            | trust               | to trust                     | trustworthy           |             | 0     |         |
+| bu            | point, needle       | to puncture                  | pointy, sharp         |             | 0     |         |
+| be            | round               | to make dull / round         | rounded, dull         |             | 0     |         |
+| bo            | agreement           | to agree                     | agreed upon           |             | 0     |         |
+| fa            | tool                | to use                       | tool-like             |             | 0     |         |
+| fi            | safety              | to be safe                   | safe                  |             | 0     |         |
+| fu            | fire                | to set alight                | burning               |             | 0     |         |
+| fe            | ownership           | to own; have; hold           |                       |             | 0     |         |
+| fo            | following; obeying  | to follow; to obey           |                       |             | 0     |         |
+| va            | leading             | to lead                      | good leader           |             | 0     |         |
+| vi            | left                |                              | on the left           |             | 0     |         |
+| vu            | right               |                              | on the right          |             | 0     |         |
+| ve            | ground              |                              |                       |             | 0     |         |
+| vo            | action              |                              |                       | make V form | 0     |         |
+| ma            | majik               | to use majik                 | magical               |             | 0     |         |
+| mi            | the self            |                              |                       |             | 0     |         |
+| mu            | few; small          |                              | small                 |             | 0     |         |
+| me            | many; big           |                              | big                   |             | 0     |         |
+| mo            | us, ourselves       |                              |                       |             | 0     |         |
+| ta            |                     |                              |                       | and; then   | 0     |         |
+| ti            | you                 |                              |                       |             | 0     |         |
+| tu            |                     |                              |                       | or          | 0     |         |
+| te            | aspect              |                              |                       | make A form | 0     |         |
+| to            | place; location     | to find; to locate           |                       |             | 0     |         |
+| da            | length              | to measure length            | long                  |             | 0     |         |
+| di            | life                | to live                      | living                |             | 0     |         |
+| du            | death               | to die                       | dead                  |             | 0     |         |
+| de            | existence           | to be                        | real                  |             | 0     |         |
+| do            | material            | to create                    | artificial            |             | 0     |         |
+| sa            | position            | to position                  |                       |             | 0     |         |
+| si            | front               |                              | forward-facing        |             | 0     |         |
+| su            | back                |                              | backward-facing       |             | 0     |         |
+| se            | movement            | to move; to travel, go       | moving; traveling     |             | 0     |         |
+| so            | direction           | to turn                      | turning               |             | 0     |         |
+| za            | hardness            |                              | hard                  |             | 0     |         |
+| zi            | plural              | to make more of              |                       | R: plural   | 0     |         |
+| zu            | single              |                              |                       | R: singular | 0     |         |
+| ze            | group               | to group                     | grouped               |             | 0     |         |
+| zo            | group of groups     |                              |                       |             | 0     |         |
+| na            | thing               |                              |                       |             | 0     |         |
+| ni            | positive            |                              | positive              |             | 0     |         |
+| nu            | negative            |                              | negative              |             | 0     |         |
+| ne            | cooking             | to cook                      | home cooked           |             | 0     |         |
+| no            | powder              | to powder                    | powdered              |             | 0     |         |
+| la            |                     |                              |                       | with; using | 0     |         |
+| li            | emotion             | to feel (emotion)            | emotional             |             | 0     |         |
+| lu            | understanding       | to understand                | well known            |             | 0     |         |
+| le            | meaning             | to tell                      | meaningful            |             | 0     |         |
+| lo            | time                |                              |                       |             | 0     |         |
+| ra            | importance          |                              | important             |             | 0     |         |
+| ri            | difference          |                              | different             |             | 0     |         |
+| ru            | air; gas            | to make into gas             | in gas state          |             | 0     |         |
+| re            | need                | to need                      | needed                |             | 0     |         |
+| ro            | want                | to want                      | sought after          |             | 0     |         |
+| qa            | solid; rock         | to make into solid           | in solid state        |             | 0     |         |
+| qi            | up                  |                              |                       |             | 0     |         |
+| qu            | down                |                              |                       |             | 0     |         |
+| qe            | part                | to separate                  | broken                |             | 0     |         |
+| qo            | sense               | to sense                     | sensitive             |             | 0     |         |
+| ja            | sight               | to see                       |                       |             | 0     |         |
+| ji            | sound               | to hear                      |                       |             | 0     |         |
+| ju            | temperature         | to feel temperature          |                       |             | 0     |         |
+| je            | taste               | to taste                     |                       |             | 0     |         |
+| jo            | touch               | to touch                     |                       |             | 0     |         |
+| ka            | size                | to measure size              | of reasonable size    |             | 0     |         |
+| ki            | light               | to glow                      | illuminating          |             | 0     |         |
+| ku            |                     |                              |                       | if          | 0     |         |
+| ke            | heat                | to heat                      | warm                  |             | 0     |         |
+| ko            | amount, level       | to measure amount            |                       |             | 0     |         |
+| ga            | power               |                              | powerful              |             | 0     |         |
+| gi            | person              |                              |                       |             | 0     |         |
+| gu            | container           |                              |                       |             | 0     |         |
+| ge            | body                |                              |                       |             | 0     |         |
+| go            | top                 |                              | on top                |             | 0     |         |
+| nibo          |                     |                              |                       | yes         | 1     | ni bo   |
+| nubo          |                     |                              |                       | no          | 1     | nu bo   |
+| qigu          | outside             |                              | outer                 |             | 1     | qi gu   |
+| qugu          | inside              |                              | inner                 |             | 1     | qu gu   |
+| bufa          | knife               | to cut                       | cut                   |             | 1     | bu fa   |
+| bebufa        | dull knife          | to separate; break up        |                       |             | 2     | be bufa |
+| bapa          | quality of help     |                              |                       |             | 1     | ba pa   |
+| guqe          | wall of building    | to block                     | walled                |             | 1     | gu qe   |
+| ruguqe        | hole; door          |                              |                       |             | 2     |         |
+| seqi          | upwards movement    | to open; to raise            | open; raised          |             | 1     |         |
+| pese          | approach; arrive    | to come; to approach, arrive | approaching, arriving |             | 1     |         |
+| dido          | plant               | to grow                      |                       |             | 1     |         |
+| nufili        | fear                | to fear                      | fearful               |             | 1     |         |
+| nufifa        | weapon              |                              |                       |             | 1     |         |
+| bunufifa      | spear               |                              |                       |             | 2     |         |
+| benufifa      | club                |                              |                       |             | 2     |         |
+| putape        | buying              | to buy                       | bought                |             | 1     |         |
+| petapu        | selling             | to sell                      | sold                  |             | 1     |         |
+| petaputo      | shop                |                              |                       |             | 2     |         |
+| putapena      | money               |                              |                       |             | 2     |         |
+| dotogu        | building, structure | to build                     |                       |             | 1     |         |
+| dedotogu      | house               | to be at home                | home-like             |             | 2     |         |
 
 
 

@@ -8,7 +8,7 @@ The 'R' form is the root form of the word. It is the form used in nouns and has 
 #### 'V' Form
 The 'V' form is the verb form. It is made by adding 'vo' (meaning: action) to the end of a root. The verb form of a root is often the action associated with it's root, but not always.
 #### 'A' Form
-The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) to the end of a root. The verb form is often derived from the verb form of that root, usually describing the main aspect of the verb form's action. In practice, the definitions of adjectives may not match 100%, as they are used for both nouns and verbs. Though, there's sometimes two definitions to reconcile this. And when it still doesn't make sense, it usually means that the subject was/is in a state whi
+The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) to the end of a root. The verb form is often derived from the verb form of that root, usually describing the main aspect of the verb form's action. In practice, the definitions of adjectives may not match 100%, as they are used for both nouns and verbs. Though, there's sometimes two definitions to reconcile this. And when it still doesn't make sense, it usually means that the subject was/is in a state while performing the verb.
 
 
 
@@ -125,5 +125,5 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 
 
 
-
+(note to self: sort the dictionary by Majel's alphabet)
 ....?;

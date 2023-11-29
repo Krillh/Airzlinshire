@@ -2,14 +2,26 @@
 sticker: lucide//git-branch
 ---
 
-|     | P   | B   | F   | V   | M   | T   | D   | S   | Z   | N   | L   | R   | Q   | J   |     | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A   | pa  | ba  | fa  | va  | ma  | ta  | da  | sa  | za  | na  | la  |     |     |     |     |
-| I   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| U   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| E   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| O   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
+
+|     | A            | I                  | U                    | E              | O              |
+| --- | ------------ | ------------------ | -------------------- | -------------- | -------------- |
+| P   | (pa) quality | (pi) water, liquid | (pu) sharing, giving | (pe) receiving | (po) food      |
+| B   | (ba) help    | (bi) trust         | (bu) sharpness       | (be) roundness | (bo) agreement |
+| F   | (fa) tool    | (fi)               | ()                     |                |                |
+| M   |              |                    |                      |                |                |
+| T   |              |                    |                      |                |                |
+| D   |              |                    |                      |                |                |
+| S   |              |                    |                      |                |                |
+| Z   |              |                    |                      |                |                |
+| N   |              |                    |                      |                |                |
+| L   |              |                    |                      |                |                |
+| R   |              |                    |                      |                |                |
+| Q   |              |                    |                      |                |                |
+| J   |              |                    |                      |                |                |
+| K   |              |                    |                      |                |                |
+| G   |              |                    |                      |                |                |
+| H   |              |                    |                      |                |                |
 
 
 `pa` - quality

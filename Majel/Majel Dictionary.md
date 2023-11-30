@@ -23,7 +23,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | po            | food                | to eat                       | nutritious            |             | 0     |           |
 | ba            | help                | to help                      | helpful               |             | 0     |           |
 | bi            | trust               | to trust                     | trustworthy           |             | 0     |           |
-| bu            | point, needle       | to puncture                  | pointy, sharp         |             | 0     |           |
+| bu            | point, needle       | to puncture; to sharpen      | pointy, sharp         |             | 0     |           |
 | be            | round               | to make dull / round         | rounded, dull         |             | 0     |           |
 | bo            | agreement           | to agree                     | agreed upon           |             | 0     |           |
 | fa            | tool                | to use                       | tool-like             |             | 0     |           |
@@ -122,7 +122,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | panu          | bad                 |                              | bad                   |             | 1     | pa nu     |
 | nipa          |                     |                              | good quality          |             | 1     | ni pa     |
 | nupi          |                     |                              | bad quality           |             | 1     | nu pa     |
-| majile        | Majel               |                              | written in Majel      |             | 1     | ma ji le  | 
+| majile        | Majel               |                              | written in Majel      |             | 1     | ma ji le  |
 
 
 

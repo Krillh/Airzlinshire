@@ -43,7 +43,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | mo            | us, ourselves       |                              | together              |             | 0     |             |
 | ta            |                     |                              |                       | and; then   | 0     |             |
 | ti            | you                 |                              |                       |             | 0     |             |
-| tai           | it / that           |                              |                       |             |       |             |
+| tai           | it / that           |                              |                       |             | 0     |             |
 | tu            |                     |                              |                       | or          | 0     |             |
 | te            | aspect              |                              |                       | make A form | 0     |             |
 | to            | place; location     | to find; to locate           |                       |             | 0     |             |
@@ -67,13 +67,13 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | nu            | negative            | to not have fun              | negative; boring      |             | 0     |             |
 | ne            | cooking             | to cook                      | home cooked           |             | 0     |             |
 | no            | powder              | to powder                    | powdered              |             | 0     |             |
-| la            |                     |                              |                       |             | 0     |             |
+| la            | the present         | to be present                | in the present        |             | 0     |             |
 | li            | emotion             | to feel (emotion)            | emotional             |             | 0     |             |
 | lu            | understanding       | to understand                | well known            |             | 0     |             |
 | le            | meaning             | to tell                      | meaningful            |             | 0     |             |
 | lo            | time                |                              |                       |             | 0     |             |
-| loi           | future              |                              | in the future         |             |       |             |
-| lou           | past                |                              | in the past           |             |       |             |
+| loi           | future              |                              | in the future         |             | 0     |             |
+| lou           | past                |                              | in the past           |             | 0     |             |
 | ra            | importance          |                              | important             |             | 0     |             |
 | ri            | difference          |                              | different             |             | 0     |             |
 | ru            | air; gas            | to make into gas             | in gas state          |             | 0     |             |
@@ -162,7 +162,10 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | muqu          | small hole          | to dig a little              | dug                   |             | 2     | mu qu       |
 | mequ          | cave; pit           | to mine                      | mined                 |             | 2     | me qu       |
 | regi          | someone in need     | to be in need of             | needy person          |             | 2     | re gi       |
-| jabe          | visual agreement    | to agree vusially            |                       |             |       |             |
+| jabe          | visual agreement    | to agree visually            |                       |             | 2     | ja be       |
+| fugu          | firepit             | to cover a fire              |                       |             | 2     | fu gu       |
+| nina          | something good      |                              |                       |             | 2     | ni na       |
+|               |                     |                              |                       |             |       |             |
 
 
 

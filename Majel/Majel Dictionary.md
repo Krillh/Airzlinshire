@@ -156,7 +156,13 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | jugeqe        | skin                |                              |                       |             | 2     | ju geqe     |
 | gogeqe        | head                |                              |                       |             | 2     | go geqe     |
 | josegeqese    | walk                |                              |                       |             | 4     | josegeqe se |
-|               |                     |                              |                       |             |       |             |
+| segeqese      | run                 |                              |                       |             | 3     | segeqe se   |
+| meqi          |                     |                              | tall                  |             | 2     | me qi       |
+| muqi          |                     |                              | short                 |             | 2     | mu qi       |
+| muqu          | small hole          | to dig a little              | dug                   |             | 2     | mu qu       |
+| mequ          | cave; pit           | to mine                      | mined                 |             | 2     | me qu       |
+| regi          | someone in need     | to be in need of             | needy person          |             | 2     | re gi       |
+| jabe          | visual agreement    | to agree vusially            |                       |             |       |             |
 
 
 

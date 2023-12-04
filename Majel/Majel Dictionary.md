@@ -72,8 +72,8 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | lu            | understanding       | to understand                | well known            |             | 0     |            |
 | le            | meaning             | to tell                      | meaningful            |             | 0     |            |
 | lo            | time                |                              |                       |             | 0     |            |
-| loi           | future              |                              |                       |             |       |            |
-| lou           | past                |                              |                       |             |       |            |
+| loi           | future              |                              | in the future         |             |       |            |
+| lou           | past                |                              | in the past           |             |       |            |
 | ra            | importance          |                              | important             |             | 0     |            |
 | ri            | difference          |                              | different             |             | 0     |            |
 | ru            | air; gas            | to make into gas             | in gas state          |             | 0     |            |
@@ -145,6 +145,9 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | nuqa          | softness            | to brush (hair)              | soft                  |             | 1     | nu qa      |
 | nuqagau       | fabric              |                              |                       |             | 2     | nuqa gau   |
 | nuqagaugu     | bag                 |                              |                       |             | 3     | nuqagau gu |
+| geqe          | body part           |                              |                       |             | 1     | ge qe      |
+| jogeqe        | hand                |                              |                       |             | 2     | jo geqe    |
+|               |                     |                              |                       |             |       |            |
 
 
 

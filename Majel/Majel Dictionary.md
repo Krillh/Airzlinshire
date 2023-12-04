@@ -71,6 +71,8 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | lu            | understanding       | to understand                | well known            |             | 0     |           |
 | le            | meaning             | to tell                      | meaningful            |             | 0     |           |
 | lo            | time                |                              |                       |             | 0     |           |
+| loi           | future              |                              |                       |             |       |           |
+| lou           | past                |                              |                       |             |       |           |
 | ra            | importance          |                              | important             |             | 0     |           |
 | ri            | difference          |                              | different             |             | 0     |           |
 | ru            | air; gas            | to make into gas             | in gas state          |             | 0     |           |
@@ -94,6 +96,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | ga            | power               |                              | powerful              |             | 0     |           |
 | gi            | person              |                              |                       |             | 0     |           |
 | gu            | container           |                              |                       |             | 0     |           |
+| gau           | wall                |                              |                       |             |       |           |
 | ge            | body                |                              |                       |             | 0     |           |
 | go            | top                 |                              | on top                |             | 0     |           |
 | nibo          |                     |                              |                       | yes         | 1     | ni bo     |
@@ -137,7 +140,9 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | nijiriro      | healthy debate      | to healthily debate          | healthily debated     |             | 3     | ni jiriro |
 | niriro        | competition         |                              |                       |             |       |           |
 | nuba          | impediment          | to impede                    | impeding              |             | 1     | nu ba     |
-| neno          | flour               |                              |                       |             |       |           |
+| neno          | flour               |                              |                       |             | 1     | ne no     |
+| nuqagau       | fabric              |                              |                       |             |       |           |
+| nuqagaugu     | bag                 |                              |                       |             |       |           |
 
 
 

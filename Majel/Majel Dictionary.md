@@ -26,7 +26,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | bu            | point, needle       | to puncture; to sharpen      | pointy, sharp         |             | 0     |           |
 | be            | round               | to make dull / round         | rounded, dull         |             | 0     |           |
 | bo            | agreement           | to agree                     | agreed upon           |             | 0     |           |
-| fa            | tool                | to use                       | tool-like             |             | 0     |           |
+| fa            | tool                | to use                       | using                 |             | 0     |           |
 | fi            | safety              | to be safe                   | safe                  |             | 0     |           |
 | fu            | fire                | to set alight                | burning               |             | 0     |           |
 | fe            | ownership           | to own; have; hold           |                       |             | 0     |           |
@@ -40,9 +40,10 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | mi            | the self            |                              |                       |             | 0     |           |
 | mu            |                     |                              | few; small            |             | 0     |           |
 | me            |                     |                              | many; big             |             | 0     |           |
-| mo            | us, ourselves       |                              |                       |             | 0     |           |
+| mo            | us, ourselves       |                              | together              |             | 0     |           |
 | ta            |                     |                              |                       | and; then   | 0     |           |
 | ti            | you                 |                              |                       |             | 0     |           |
+| tai           | it / that           |                              |                       |             |       |           |
 | tu            |                     |                              |                       | or          | 0     |           |
 | te            | aspect              |                              |                       | make A form | 0     |           |
 | to            | place; location     | to find; to locate           |                       |             | 0     |           |
@@ -66,7 +67,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | nu            | negative            | to not have fun              | negative; boring      |             | 0     |           |
 | ne            | cooking             | to cook                      | home cooked           |             | 0     |           |
 | no            | powder              | to powder                    | powdered              |             | 0     |           |
-| la            |                     |                              |                       | with; using | 0     |           |
+| la            |                     |                              |                       |             | 0     |           |
 | li            | emotion             | to feel (emotion)            | emotional             |             | 0     |           |
 | lu            | understanding       | to understand                | well known            |             | 0     |           |
 | le            | meaning             | to tell                      | meaningful            |             | 0     |           |
@@ -99,8 +100,8 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | gau           | wall                |                              |                       |             |       |           |
 | ge            | body                |                              |                       |             | 0     |           |
 | go            | top                 |                              | on top                |             | 0     |           |
-| nibo          |                     |                              |                       | yes         | 1     | ni bo     |
-| nubo          |                     |                              |                       | no          | 1     | nu bo     |
+| boni          |                     |                              |                       | yes         | 1     | bo ni     |
+| bonu          |                     |                              |                       | no          | 1     | no nu     |
 | qigu          | outside             |                              | outer                 |             | 1     | qi gu     |
 | qugu          | inside              |                              | inner                 |             | 1     | qu gu     |
 | bufa          | knife               | to cut                       | cut                   |             | 1     | bu fa     |

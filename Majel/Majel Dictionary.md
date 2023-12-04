@@ -62,8 +62,8 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | ze            | group               | to group                     | grouped               |             | 0     |           |
 | zo            | group of groups     |                              |                       |             | 0     |           |
 | na            | thing               |                              |                       |             | 0     |           |
-| ni            | positive            | to have fun                  | positive              |             | 0     |           |
-| nu            | negative            | to not have fun              | negative              |             | 0     |           |
+| ni            | positive            | to have fun                  | positive; fun         |             | 0     |           |
+| nu            | negative            | to not have fun              | negative; boring      |             | 0     |           |
 | ne            | cooking             | to cook                      | home cooked           |             | 0     |           |
 | no            | powder              | to powder                    | powdered              |             | 0     |           |
 | la            |                     |                              |                       | with; using | 0     |           |
@@ -137,6 +137,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | nijiriro      | healthy debate      | to healthily debate          | healthily debated     |             | 3     | ni jiriro |
 | niriro        | competition         |                              |                       |             |       |           |
 | nuba          | impediment          | to impede                    | impeding              |             | 1     | nu ba     |
+| neno          | flour               |                              |                       |             |       |           |
 
 
 

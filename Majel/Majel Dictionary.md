@@ -123,6 +123,10 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | nipa          |                     |                              | good quality          |             | 1     | ni pa     |
 | nupi          |                     |                              | bad quality           |             | 1     | nu pa     |
 | majile        | Majel               |                              | written in Majel      |             | 1     | ma ji le  |
+| nili          | happy; doing well   | to make happy/feel good      | happy; doing well     |             | 1     | ni li     |
+| nuli          | sad; doing bad      | to make sad/feel bad         | sad; doing bad        |             | 1     | nu li     |
+| lena          | syllable            |                              |                       |             | 1     | le na     |
+| jina          | phoneme             |                              |                       |             |       |           |
 
 
 

@@ -74,7 +74,7 @@ sticker: lucide//git-branch
 `nu` - negative
 `ne` - cooking
 `no` - powder
-`la` - with, using
+`la` - the present
 `li` - emotion
 `lu` - understanding
 `le` - meaning

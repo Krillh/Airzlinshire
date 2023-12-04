@@ -140,6 +140,7 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | nujiriro      | argument            | to argue                     | argued/argumentative  |             | 3     | nu jiriro   |
 | nijiriro      | healthy debate      | to healthily debate          | healthily debated     |             | 3     | ni jiriro   |
 | niriro        | competition         |                              |                       |             | 2     | ni riro     |
+| nuriro        | fight               | to fight                     | fighting              |             | 2     | nu riro     | 
 | nuba          | impediment          | to impede                    | impeding              |             | 1     | nu ba       |
 | neno          | flour               |                              |                       |             | 1     | ne no       |
 | nuqa          | softness            | to brush (hair)              | soft                  |             | 1     | nu qa       |

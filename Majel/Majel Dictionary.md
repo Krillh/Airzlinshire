@@ -126,7 +126,14 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | nili          | happy; doing well   | to make happy/feel good      | happy; doing well     |             | 1     | ni li     |
 | nuli          | sad; doing bad      | to make sad/feel bad         | sad; doing bad        |             | 1     | nu li     |
 | lena          | syllable            |                              |                       |             | 1     | le na     |
-| jina          | phoneme             |                              |                       |             |       |           |
+| jina          | phoneme             |                              |                       |             | 1     | ji na     |
+| jilena        | word                |                              |                       |             | 2     | ji lena   |
+| najilena      | noun                |                              |                       |             | 3     | na jilena |
+| vojilena      | verb                |                              |                       |             | 3     | vo jilena |
+| tejilena      | adjective           |                              |                       |             | 3     | te jilena |
+| riro          | dispute (neutral)   | to dispute (neutral)         | disputed (neutrally)  |             | 1     | ri ro     |
+| jiriro        | debate              | to debate                    | highly debated        |             | 2     | ji riro   |
+| nujiriro      | argument            | to argure                    |                       |             |       |           |
 
 
 

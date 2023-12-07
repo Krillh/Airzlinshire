@@ -131,7 +131,9 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | nuli          | sad; doing bad      | to make sad/feel bad         | sad; doing bad        |             | 1     | nu li       |
 | lena          | syllable            |                              |                       |             | 1     | le na       |
 | jina          | phoneme             |                              |                       |             | 1     | ji na       |
-| jilena        | word                |                              |                       |             | 2     | ji lena     |
+| jilena        | word (spoken)       | to speak                     | spoken                |             | 2     | ji lena     |
+| jalena        | word (written)      | to write                     | written               |             | 2     | ja lena     |
+| zijalena      | writing             | to write a lot               |                       |             | 3     | zi jalena   |
 | najilena      | noun                |                              |                       |             | 3     | na jilena   |
 | vojilena      | verb                |                              |                       |             | 3     | vo jilena   |
 | tejilena      | adjective           |                              |                       |             | 3     | te jilena   |
@@ -158,16 +160,17 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | gogeqe        | head                |                              |                       |             | 2     | go geqe     |
 | josegeqese    | walk                |                              |                       |             | 4     | josegeqe se |
 | segeqese      | run                 |                              |                       |             | 3     | segeqe se   |
-| meqi          |                     |                              | tall                  |             | 2     | me qi       |
-| muqi          |                     |                              | short                 |             | 2     | mu qi       |
-| muqu          | small hole          | to dig a little              | dug                   |             | 2     | mu qu       |
-| mequ          | cave; pit           | to mine                      | mined                 |             | 2     | me qu       |
-| regi          | someone in need     | to be in need of             | needy person          |             | 2     | re gi       |
-| jabe          | visual agreement    | to agree visually            |                       |             | 2     | ja be       |
-| fugu          | firepit             | to cover a fire              |                       |             | 2     | fu gu       |
-| nina          | something good      |                              |                       |             | 2     | ni na       |
-| pipa          | quality of water    |                              |                       |             | 2     | pi pa       |
-| pofe          | ownership by food   | to own by means of food      | owned by food         |             | 2     | po fe       |
+| meqi          |                     |                              | tall                  |             | 1     | me qi       |
+| muqi          |                     |                              | short                 |             | 1     | mu qi       |
+| muqu          | small hole          | to dig a little              | dug                   |             | 1     | mu qu       |
+| mequ          | cave; pit           | to mine                      | mined                 |             | 1     | me qu       |
+| regi          | someone in need     | to be in need of             | needy person          |             | 1     | re gi       |
+| jabe          | visual agreement    | to agree visually            |                       |             | 1     | ja be       |
+| fugu          | firepit             | to cover a fire              |                       |             | 1     | fu gu       |
+| nina          | something good      |                              |                       |             | 1     | ni na       |
+| pipa          | quality of water    |                              |                       |             | 1     | pi pa       |
+| pofe          | ownership by food   | to own by means of food      | owned by food         |             | 1     | po fe       |
+| louto         | place of origin     | to origionate                | origional             |             | 1     | lou to      |
 
 
 

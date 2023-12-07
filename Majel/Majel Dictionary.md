@@ -16,8 +16,8 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 
 | R (root) form | noun def.           | verb def.                    | adj. def.             | other def   | order | roots       |
 | ------------- | ------------------- | ---------------------------- | --------------------- | ----------- | ----- | ----------- |
-| pa            | quality             |                              |                       |             | 0     |             |
-| pi            | water; liquid       |                              | wet; liquid           |             | 0     |             |
+| pa            | quality             | to assess                    |                       |             | 0     |             |
+| pi            | water; liquid       | to drink                     | wet; liquid           |             | 0     |             |
 | pu            | sharing, giving     | to share, to give            | gifted (a gift)       |             | 0     |             |
 | pe            | receiving           | to receive                   |                       |             | 0     |             |
 | po            | food                | to eat                       | nutritious            |             | 0     |             |
@@ -166,7 +166,8 @@ The 'A' form is the adjective form. It is made by adding 'to' (meaning: aspect) 
 | jabe          | visual agreement    | to agree visually            |                       |             | 2     | ja be       |
 | fugu          | firepit             | to cover a fire              |                       |             | 2     | fu gu       |
 | nina          | something good      |                              |                       |             | 2     | ni na       |
-|               |                     |                              |                       |             |       |             |
+| pipa          | quality of water    |                              |                       |             | 2     | pi pa       |
+| pofe          | ownership by food   | to own by means of food      | owned by food         |             | 2     | po fe       |
 
 
 

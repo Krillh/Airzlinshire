@@ -1,16 +1,19 @@
 ---
 sticker: lucide//star
 ---
-## Overview
+# Overview
 In [[Airzlinshire]], majik is unique (and complicated). After reading a bit of fantasy, you find that magic often falls into some categories. These are the familiar ways that magic works. Things like magic through incantation (a phrase that initiates a spell) like in Harry Potter, or sorcery. There are some 'methods' of magic that don't fit into any of the categories typically seen. This was my goal with magic in Airzlinshire. I wanted a completely unique and interesting system of magic. This started by calling it majik, said the same as magic but spelled different. I will be using the term 'majik' to refer to magic in Airzlinshire and 'other magic' to refer to any common systems of magic seen in other fantasy. The ins and outs of majik's uniqueness are described in this page while the details of it's function have been split up as they're quite lengthy and detailed.
 
-## The Ins and Outs
+# The Ins and Outs
 To start, majik is element based. There are 10 primary elements: [[Light Majik]], [[Dark Majik]], [[Life Majik]], [[Air Majik]], [[Water Majik]], [[Earth Majik]], [[Empath Majik]], [[Cronus Majik]], [[Material Majik]], [[Conversion Majik]], and [[Weaving Majik]]. Some of these may seem familiar, but even those are not the norm.
 
-### It's All About Energy
+# It's All About Energy
 Each element has it's own form of majik energy. All majik is is the manipulation of majik energy. Unlike many types of magic, majik follows the law of conservation of mass and energy. In Airzlinshire, majik energy is the basis of everything. If you take the majik energy out of something, it becomes [[Plain Matter]]. But, depleting all of the majik energy from something is nearly impossible. For example if something is living, it has life energy. Once it loses all it's life energy, it is dead. In this case, life energy has a way of turning into other types of majik energy with time. That's why things die of old age.
 
-### How do People Use it
+## Measuring Majik Energy
+In order to measure majik, there are a few units. 
+
+## How do People Use it
 People in Airzlinshire can have connections to elements. If someone has a weak connection to light majik for example, they will be able to manipulate a small amount of light energy with a low level of precision. With practice they can strengthen their connection to light majik and the stronger the connection, the more majik energy they can control at once and with more precision. The one big drawback is that the stronger connection you have with on type of majik, the more difficult it is to make and improve your connection with other elements.
 
 ### Mixing Elements

@@ -8,6 +8,7 @@ _sort:
   group: false
 _template: ""
 _templateName: ""
+sticker: lucide//sun
 ---
 #Kingdoms #Solus
 

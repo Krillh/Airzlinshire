@@ -13,7 +13,7 @@ Tomes are categorized by power based on their calculated power index. This class
 ### Tome Capacity (CP)
 The capacity of a tome is very simple, it is the expected number of uses at it's full charge capacity. This is calculated by dividing the actual total majik capacity, measured in gako, by the power used in each casting, also measured in gako. The number must, by law, contain only 2 significant digits rounded *down*. For example, 1493.42 calculated uses would have to be displayed as 1400 uses.
 #### Tome Majik Efficiency (ME)
-The majik efficiency is a measu
+The majik efficiency is a measure of how much majik is used to cast the spell and how much is lost in each casting. 
 ## Uses for Tomes  
 Tomes are used for all sorts of purposes, including as weapons, for transportation as engines, as portable light sources, to accelerate crop growth, and much, much more. Anything that can be achieved by use of Majik can be achieved with a tome.  
   

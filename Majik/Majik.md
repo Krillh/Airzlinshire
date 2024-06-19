@@ -25,3 +25,6 @@ Obviously one major use for majik is for combat, but there's much more to it tha
 - A combination of light and air majik is used for lighting fires. The air majik increases the oxygen content and the light majik provides heat for combustion.
 - Air energy can be used to create a wall of a vacuum so that no sound can pass though. This is a trick that requires a strong connection to air majik though.
 That was just a few of the simple ones, nearly anything you can think of can be done with enough skill and power.
+
+## Casting Skill
+Not only does one have to increase their affiliation with an element to increase the amount of power they can use, they also have to work on their casting skill. This is the ability to cast precisely and efficiently. One must develop the skill of manipulation of majik to be more precise. The more precise you are, the more control you have over your majik and the smaller you can manipulate things. The more efficient you are, the less majik energy loss you have when you maniplulate.

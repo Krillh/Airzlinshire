@@ -1,5 +1,8 @@
+---
+sticker: lucide//loader
+---
 ## What is a Tome?  
-Tomes are a powerful way for someone to use Majik that they normally wouldn't be able to. They often come in the form of certain cut stones, but not necessarily. They also come in many different sizes and power levels, and range from mildly expensive to some of the most valuable relics in history. Essentially, a tome is a container with a set of Majik procedures preset into it, this is known as a [[Spell]]. This container also has some amount of Majik energy stored within it that it uses to execute, or cast, the preset procedures. This does mean that anyone can cast a tome's spell if it has sufficient charge, even if the spell requires Majik energy elements that they don't have enough, or any, affiliation with if they wanted to do the same thing themselves.
+Tomes are a powerful way for someone to use Majik that they normally wouldn't be able to. They often come in the form of certain cut stones, but not necessarily. They also come in many different sizes and power levels, and range from mildly expensive to some of the most valuable relics in history. Essentially, a tome is a container with a set of Majik procedures preset into it, this is known as a [[Spells|Spell]]. This container also has some amount of Majik energy stored within it that it uses to execute, or cast, the preset procedures. This does mean that anyone can cast a tome's spell if it has sufficient charge, even if the spell requires Majik energy elements that they don't have enough, or any, affiliation with if they wanted to do the same thing themselves.
 
 Before diving into tomes, it's important to mention something. The specifics of how tomes work and how they're made is a heavily guarded secret of the Monus Tome Monks. Everything in this document is unclassified information that is open to the public people of Airzlinshire. But, it is inherently incomplete.
 ## Tome Classification

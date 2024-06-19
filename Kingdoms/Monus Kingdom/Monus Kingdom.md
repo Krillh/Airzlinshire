@@ -23,8 +23,8 @@ By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry
 ## Natural Resources
 - land is not suitable for growing food as they have very high population density
 ## Imports
-- Main export: [[Tomes]]
-## Exports
 - Main import: food
+## Exports
+- Main export: [[Tomes]]
 # Relations
 - have an ancient grudge with [[Solus Kingdom|Solus]]

@@ -3,15 +3,15 @@
 
 **Department of Tome Regulation**
 
-**Document No.**: TR-2024-06-18
+**Document No.**: TR-100-00-01
 
 **Subject**: Disclosure of Tome Information for Public Sale
 
-In accordance with the Kingdom of Monus' commitment to transparency and fair trade, this document outlines the information that will be disclosed on the data sheets accompanying each Tome sold in the market. This information is intended to provide potential buyers with a comprehensive understanding of the Tome's capabilities while preserving the secrecy of the Tome creation process.
+In accordance with the Kingdom of Monus' commitment to transparency and fair trade, this document outlines the information that will be included on the data sheets accompanying each Tome sold in the market. This information is intended to provide potential buyers with a comprehensive understanding of the Tome's capabilities while preserving the secrecy of the Tome creation process.
 
-**1. Tome Power (PW)**: The calculated power index of the Tome, based on the amount of Majik energy used in each casting, will be disclosed. This is measured in gako.
+**1. Tome Power (PW)**: The calculated power index of the Tome, based on the amount of Majik energy used in each casting, will be included. This is measured in gako.
 
-**2. Tome Capacity (CP)**: The expected number of uses at the Tome's full charge capacity will be disclosed. This is calculated by dividing the actual total Majik capacity, measured in gako, by the power used in each casting, also measured in gako.
+**2. Tome Capacity (CP)**: The expected number of uses at the Tome's full charge capacity will be included. This is calculated by dividing the actual total Majik capacity, measured in gako, by the power used in each casting, also measured in gako.
 
 **3. Tome Majik Efficiency (ME)**: A measure of how much Majik is used to cast the spell and how much is lost in each casting. Specifics of how this is calculated are classified.
 
@@ -28,8 +28,6 @@ In accordance with the Kingdom of Monus' commitment to transparency and fair tra
 This document is intended to provide a balance between transparency for buyers and the protection of the Kingdom of Monus' proprietary Tome creation process. Any attempt to reverse-engineer the process of Tome creation from this disclosed information is strictly prohibited and punishable by law.
 
 **Signed**,
-
-**[Name]**
 
 **Director, Department of Tome Regulation**
 

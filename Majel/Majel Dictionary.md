@@ -1,6 +1,11 @@
 ---
 sticker: lucide//book-key
 ---
+#Majel
+
+> [!NOTE]
+> EVERYTHING HERE NEEDS TO BE REDONE. There have been *major* shifts in the language.
+
 ## Word Forms
 
 #### 'R' Form

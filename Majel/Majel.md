@@ -1,6 +1,8 @@
 ---
 sticker: lucide//languages
 ---
+#Majel
+
 #### Resources
 * [[Majel Dictionary]]
 * [[Colors in Majel]]

@@ -11,4 +11,4 @@ _templateName: ""
 sticker: lucide//files
 ---
 
-#Monus #Document
+#Monus #Documents

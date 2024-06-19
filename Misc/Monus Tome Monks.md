@@ -15,7 +15,11 @@ The capacity of a tome is very simple, it is the expected number of uses at it's
 ### Tome Majik Efficiency (ME)
 The majik efficiency is a measure of how much majik is used to cast the spell and how much is lost in each casting. The same way a person can be more or less efficient ([[Majik# Casting Skill]]). Though, tomes tend to be much less efficient than people are. This is because of how they are made *(CLASSIFIED)*.
 ### Tome Size Efficiency (SE)
-The size eff
+The size efficiency of a tome is just the density of the majik when the tome is fully charged, measured in diako.
+### Tome Casting Time (CT)
+The casting time is the amount of time it takes for a tome to expend a full cast's worth of energy. The time it takes is usually quite small unless you have very high power tomes. It's calculated by dividing the majik power of a cast, measured in gako, by the majik flow rate of the tome, measured in seko. The majik flow rate is dependent on both the material the tome is made of and classified factors of the manufacturing process.
+### Tome Spell Complexity (SP)
+The spell complexity of a tome is one of the more, ironically, complex measurements.
 ## Uses for Tomes  
 Tomes are used for all sorts of purposes, including as weapons, for transportation as engines, as portable light sources, to accelerate crop growth, and much, much more. Anything that can be achieved by use of Majik can be achieved with a tome.  
 # Who are the Monus Tome Monks?  

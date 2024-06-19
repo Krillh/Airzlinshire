@@ -8,7 +8,7 @@ _sort:
   group: false
 _template: ""
 _templateName: ""
-sticker: lucide//file-bar-chart-2
+sticker: lucide//files
 ---
 
 #Monus #Document

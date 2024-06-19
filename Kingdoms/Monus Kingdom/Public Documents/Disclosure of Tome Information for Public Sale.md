@@ -27,7 +27,7 @@ In accordance with the Kingdom of Monus' commitment to transparency and fair tra
 
 This document is intended to provide a balance between transparency for buyers and the protection of the Kingdom of Monus' proprietary Tome creation process. Any attempt to reverse-engineer the process of Tome creation from this disclosed information is strictly prohibited and punishable by law.
 
-**Signed**,
+**Signed**
 
 **Director, Department of Tome Regulation**
 

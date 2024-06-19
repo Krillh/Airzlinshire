@@ -8,7 +8,7 @@ _sort:
   group: false
 _template: ""
 _templateName: ""
-sticker: lucide//file-lock
+sticker: lucide//files
 ---
 
 #Monus #Document

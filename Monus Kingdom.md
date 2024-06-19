@@ -6,6 +6,7 @@ sticker: lucide//moon
 The Monus Kingdom is the smallest kingdom of the 7 by land. But are the 4th most populace.
 
 # Industry
+By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry. The method for fabricating tomes and nearly everything about them is held secret by the kingdom as to maintain a monopoly. There have been many attempts to steal the secret from them, but to no avail.
 ## Natural Resources
 - land is not suitable for growing food as they have very high population density
 ## Imports & Exports

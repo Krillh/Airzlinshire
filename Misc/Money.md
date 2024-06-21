@@ -1,0 +1,1 @@
+In Airzlinshire, there is one unified currency among all the large kingdoms, pexena (peh-NGEH-nah)

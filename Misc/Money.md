@@ -2,11 +2,10 @@ In Airzlinshire, there is one unified currency among all the large kingdoms, pex
 ## Ledgers
 When dealing with very large transactions, one might opt to make it not with coins, but with a ledger. Especially if you make large transactions often. Ledgers are more of a transaction of money on paper, and are proctored by someone from a bank, and for both partied to sign a receipt that logs the transaction. To have a ledger, you much make a down payment to a bank. A ledger acts like a debit card in one sense, or a checkbook. The party getting paid can take out the money, or just log the transfer to their own account if they use the same bank. Or if the bank they use and the payer's bank have an agreement, the banks can transfer the money.
 
-A bank may be government controlled or public, depending on the kingdom.
-The largest banks:
+A bank may be government controlled or public, depending on the kingdom and it's government policies.
 
-| Kingdom | Bank |
-| ------- | ---- |
-| Monus   |      |
-| Solus   |      |
-|         |      |
+| Kingdom | Bank            | Gov. |
+| ------- | --------------- | ---- |
+| Monus   | Pexenato' pupei | YES  |
+| Solus   |                 | NO   |
+|         |                 |      |

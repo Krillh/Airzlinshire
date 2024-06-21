@@ -30,4 +30,6 @@ By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry
 - Main export: [[Tomes]]
 # Relations
 - have an ancient grudge with [[Solus Kingdom|Solus]]
+# Bank Policies
+Banks in Monus are mandated to be government controlled. The largest bank in Monus is Pexenato Pupei. 
 

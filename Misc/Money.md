@@ -1,1 +1,1 @@
-In Airzlinshire, there is one unified currency among all the large kingdoms, pexena (peh-NGEH-nah)
+In Airzlinshire, there is one unified currency among all the large kingdoms, pexena (pehNGEHnah). Coins of various value are in circulation, the 1p, 10p, 100p, 1kp, 10kp, and 100kp. There is the occasional 1Mp coin too, but those are not only quite valuable, but there are few of them in circulation. There is no denomination smaller than the pexena, so 

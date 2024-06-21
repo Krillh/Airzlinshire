@@ -1,7 +1,7 @@
 ---
 sticker: lucide//loader
 ---
-# What is a Tome?  
+# What is a Tome?
 Tomes are a powerful way for someone to use Majik that they normally wouldn't be able to. They often come in the form of certain cut stones, but not necessarily. They also come in many different sizes and power levels, and range from mildly expensive to some of the most valuable relics in history. Essentially, a tome is a container with a set of Majik procedures preset into it, this is known as a [[Spells|Spell]]. This container also has some amount of Majik energy stored within it that it uses to execute, or cast, the preset procedures. This does mean that anyone can cast a tome's spell if it has sufficient charge, even if the spell requires Majik energy elements that they don't have enough, or any, affiliation with if they wanted to do the same thing themselves.
 
 Before diving into tomes, it's important to mention something. The specifics of how tomes work and how they're made is a heavily guarded secret of the Monus Tome Monks. Everything in this document is unclassified information that is open to the public people of Airzlinshire. But, it is inherently incomplete.
@@ -23,7 +23,7 @@ The size efficiency of a tome is just the density of the majik when the tome is 
 The casting time is the amount of time it takes for a tome to expend a full cast's worth of energy. The time it takes is usually quite small unless you have very high power tomes. It's calculated by dividing the majik power of a cast, measured in gako, by the majik flow rate of the tome, measured in seko. The majik flow rate is dependent on both the material the tome is made of and classified factors of the manufacturing process.
 ### Tome Spell Complexity (SP)
 The spell complexity of a tome is one of the more, ironically, complex measurements. It is calculated by multiplying together one more than the square root of the majik power for each element. Along with being the most complicated to calculate, it is also the least used measurement. Monus insists that it is useful, and claims that it is used internally, but refuses to share what for.
-# Uses for Tomes  
+# Uses for Tomes
 Tomes are used for all sorts of purposes, including as weapons, for transportation as engines, as portable light sources, to accelerate crop growth, and much, much more. Anything that can be achieved by use of Majik can be achieved with a tome.
 ## Limitations
 Because of what tomes are, and how they function, they have limitations. A majik user is going to be more versatile than a tome. For one, a tome has a *set* spell that it can perform. This means that it is preset, and can't adapt. This also limits what it can accomplish with majik. For example, it can't affect an object in a way that is variable, like repairing clothing all at once. There's to much variation in how clothes are damaged that it can't possibly be preset. What a tome *could* do to assist clothes repair is to to form a single stitch in clothes. An action like that can follow a set of steps and produce a reliable result. Another limitation of tomes is that they cast a spell instantaneously, and ([[#Tomes with Extended Time Casting|typically]]) don't cast a spell slowly. good example is food preservation. One way to preserve foods is to keep them cold, and this can be done with a tome. But most tomes cannot cast a spell to continuously keep the food cold. Usually what is done is the box is insulated and the tome is periodically activated to keep the temperature down.

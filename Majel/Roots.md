@@ -105,7 +105,7 @@ sticker: lucide//git-branch
 `ge` - body
 `go` - top
 `ha` - question (particle)
-`hi` - a joke, sarcasm (particle)
-`hu` - being serious (particle)
-`he` - isn't it (particle)
-`ho` - N/A
+`hi` - 
+`hu` - 
+`he` - 
+`ho` - 

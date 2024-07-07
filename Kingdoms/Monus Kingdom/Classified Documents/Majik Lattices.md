@@ -1,0 +1,1 @@
+Majik Lattices are structures made of Majik Threads. They are harnessed to cause Majik Manipulation in tomes.

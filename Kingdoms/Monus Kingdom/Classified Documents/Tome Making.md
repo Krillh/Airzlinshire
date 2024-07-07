@@ -1,2 +1,2 @@
 
-Tomes are vessels that contain a Majik Lattice and Majik energy. The lattice has an entry point, and the orientation of the various interlocking threads react to the energy that propagates 
+Tomes are vessels that contain a Majik Lattice and Majik energy. The lattice has an entry point, and the orientation of the various interlocking threads react to the energy that propagates from the entry point. When they react, they cause reproducable and Majik Manipulations in their surroundings.

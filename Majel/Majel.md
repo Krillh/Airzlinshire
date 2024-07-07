@@ -15,3 +15,9 @@ Majel is the written language of the world of Airzlinshire. It differs from the 
 
 Majel has had no sound changes to speak of (pun intended). It also has remained fast in it's grammar, and the letter forms have not changed much at all. This is, since contemporary Majel. There have been a lot of changes since the very little documented Old Majel.
 
+# Grammar
+> [!note] 
+> I dont know what to put here 😢
+> loll
+
+

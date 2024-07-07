@@ -8,5 +8,5 @@ _sort:
   group: false
 _template: ""
 _templateName: ""
-sticker: lucide//locate-fixed
+sticker: lucide//calendar
 ---

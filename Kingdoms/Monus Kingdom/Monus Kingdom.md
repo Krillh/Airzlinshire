@@ -37,9 +37,8 @@ By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry
 # Bank Policies
 Banks in Monus are mandated to be government controlled. The largest bank in Monus is Pexenato' bipei.
 # Government
-## Government Departments
+## Departments
 | Department      | Tag | Function                                                                                                                                                                               |
 | --------------- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tome Regulation | TR  | Manages and controls the tome business. Tome related imports, exports, regulations, information, etc. They also are the primary body that negotiates with the Order of the Tome Monks. |
-|                 |     |                                                                                                                                                                                        |
-|                 |     |                                                                                                                                                                                        |
+

@@ -21,10 +21,7 @@ Hi, my name is Kirill. Airzlinshire is a passion project of mine that started ro
 
 Sometime in 2022, I thought about what the point of making the world was. I was stumped. I warily decided that I would publish it as writing material, letting authors use it as inspiration. But, then i thought about how it was a passion project after all, and didn't need a reason. But then I invited a friend who was just as passionate about it as I was to help me make it. His name is Clel. He suggested writing a book, and I wasn't too keen on the idea at first because I wasn't confident in my writing skills and I wasn't sure if that's what i wanted the project to be: just a book. Despite this, I figured it would only help the world, attempting to write a book would act as a sort of devil's advocate and would show us all the things that needed thinking about. After all, coming up with a whole world from scratch is no small task and we were bound to miss things. Either way, the idea of actually writing a book grew on me ([[Book 1]]). Now, we were coming up with characters and timelines and all that jazz.
 
-After a while of occasionally coming back to work on this project in snippets, I decided something very large. I decided to turn this project into something way bigger. I decided to expand the project, turn it into something much much bigger.
-
-Writing [[Book 1]] has really developed the [[Kingdoms]], [[Geography]], and [[People]]. These are all very important things in stories. But it also heavily developed [[Majik]] too.
-
+After a while of occasionally coming back to work on this project in snippets, I decided something very large in 2024. I decided to expand the project, turn it into something much much bigger. The book being written on the back burners of our school life would be one part of a much larger project rather than the main content. I wanted to go big, not go home. With the idea of a world in my head, and the vision for this world that I like to call a sculpture, I set out looking for people to help. This new scale made me realize that there was no way I could do it on my own.
 
 
 ## Other Reads

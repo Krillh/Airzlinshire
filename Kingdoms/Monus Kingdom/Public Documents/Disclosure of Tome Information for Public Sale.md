@@ -29,7 +29,7 @@ This document is intended to provide a balance between transparency for buyers a
 
 **Signed**
 
-**Director, Department of Tome Regulation**
+**Department of Tome Regulation**
 
 **Kingdom of Monus**
 ```

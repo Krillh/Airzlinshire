@@ -1,13 +1,15 @@
 ```
-**CLASSIFICATION LEVEL: 2 (VERY SECURE)**
+**CLASSIFICATION LEVEL: [ 2 ] (VERY SECURE)**
 
-**DEPARTMENTS: MAJIK LATTICE RESEARCH**
+**Order of the Tome Monks**
 
-**TO: The Royal Order of the Monus Tome Monks**
-**FROM: The Department of Majik Lattice Research**
-**SUBJECT: Tome Making / Weaving Process and Expectations**
+**Department of Majik Lattice Research**
 
-This document serves to outline the expectations and general process of your role in Tome Making / Weaving.
+**Document No.**: LR-100-00-01
+
+**Subject**: General Process and Expectations of a Tome Monk
+
+This document serves to outline the expectations and general process of a Monk's role in Tome Making / Weaving.
 
 **Majik Lattices and Threads**
 
@@ -29,8 +31,9 @@ The Order of the Tome Monks has a high bar for Monks and the Tomes they produce.
 
 We trust in your abilities and dedication to uphold the standards of the Order. Your role is crucial in the creation and manipulation of Majik Lattices, and we appreciate your commitment to this craft.
 
-Best Regards,
+**Signed**
 
-[Your Name]
-[Your Position]
+** Department of Majik Lattice Research**
+
+**Order of the Tome Monks**
 ```

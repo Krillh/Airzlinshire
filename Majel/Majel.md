@@ -13,5 +13,5 @@ sticker: lucide//languages
 * [[Sentences in Majel]]
 
 # What is it?
-
+Majel is the written language of the world of Airzlinshire. It differs from the spoken language considerably. Much like how Latin was the written language over much of Europe 
 

@@ -1,1 +1,3 @@
 Majik Lattices are structures made of Majik Threads. They are harnessed to cause Majik Manipulation in tomes.
+
+When a Thread is agitated by Majik energy, it will produce Majik Manipulations. The element of, shape, orientation of the Thread, along with how it is connected to other Threads in the Lattice determine the type and location of the Majik Manipulation it causes. [[Royal Order of the Monus Tome Monks|Tome Monks]] are those who hold the secrets of how to form and 

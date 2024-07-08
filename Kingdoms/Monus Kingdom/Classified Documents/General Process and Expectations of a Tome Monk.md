@@ -3,7 +3,7 @@
 
 **Order of the Tome Monks**
 
-**Department of Majik Lattice Research**
+**Majik Lattice Research Department**
 
 **Document No.**: LR-100-00-01
 
@@ -33,7 +33,7 @@ We trust in your abilities and dedication to uphold the standards of the Order. 
 
 **Signed**
 
-** Department of Majik Lattice Research**
+**Majik Lattice Research Department**
 
 **Order of the Tome Monks**
 ```

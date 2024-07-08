@@ -1,6 +1,3 @@
----
-sticker: lucide//person-standing
----
 
 > [!attention] 
 > Needs to be made into a more professional format, and Natrels need to be renamed.

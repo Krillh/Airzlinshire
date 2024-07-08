@@ -1,8 +1,3 @@
----
-sticker: lucide//baseline
----
-
-# Airzlinshire: A Journey into the Realm of Fantasy
 Welcome to **Airzlinshire**, a meticulously crafted fantasy world teeming with its own unique people, geography, flora, fauna, languages, kingdoms, history, social norms, magic, money, sciences, and much more. 
 ## Our Vision:
 Airzlinshire is not just a fantasy world; it's an immersive experience that doesn't hand-wave at details. It's a realm that feels complete and congruent, offering endless opportunities for exploration and discovery.

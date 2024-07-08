@@ -1,5 +1,2 @@
----
-sticker: lucide//dog
----
 #Fauna
 

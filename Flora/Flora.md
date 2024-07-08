@@ -1,4 +1,1 @@
----
-sticker: lucide//leaf
----
 #Flora 

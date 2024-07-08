@@ -1,6 +1,3 @@
----
-sticker: lucide//loader
----
 #Monus 
 
 # Who are the Monus Tome Monks?

@@ -1,6 +1,3 @@
----
-sticker: lucide//ruler
----
 
 The common units to measure majik-related things are listed in this table.
 

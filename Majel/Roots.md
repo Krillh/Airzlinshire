@@ -1,6 +1,3 @@
----
-sticker: lucide//git-branch
----
 #Majel
 
 

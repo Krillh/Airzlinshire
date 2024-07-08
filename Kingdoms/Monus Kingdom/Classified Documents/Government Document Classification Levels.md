@@ -1,4 +1,3 @@
-
 ```
 **Kingdom of Monus**
 

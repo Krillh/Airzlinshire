@@ -30,4 +30,7 @@ Banks in Monus are mandated to be government controlled. The largest bank in Mon
 | ---------------------- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tome Regulation        | TR  | Manages and controls the tome business. Tome related imports, exports, regulations, information, etc. They also are the primary body that negotiates with the Order of the Tome Monks. |
 | Information Regulation | IR  | Regulates the flow of information, and keeps track of government documents. They also manage access to class 1 information.                                                            |
+# History
 
+> [!Note]
+> Monus constructed mountains around itself when it was formed to isolate itself from attacks. this has resulted in Upper Monus to become fairly dry in terms of rainfall. Though these mountains have created many new rivers both in and out of the kingdom.

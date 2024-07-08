@@ -1,7 +1,7 @@
 ```
 **Kingdom of Monus**
 
-**Department of Tome Regulation**
+**Tome Regulation Department**
 
 **Document No.**: TR-100-00-02
 
@@ -21,6 +21,6 @@ Let this incident serve as a stern warning to those who dare to threaten our kin
 
 **Signed**
 
-**Director, Department of Tome Regulation**
+**Director, Tome Regulation Department**
 
 **Kingdom of Monus**

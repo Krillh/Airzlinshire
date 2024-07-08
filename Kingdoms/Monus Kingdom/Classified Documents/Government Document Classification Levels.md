@@ -23,6 +23,12 @@ This document outlines the classification levels for official government documen
 **Classification Level 0: CRITICAL** Class 0 information is only available to a very small group of people, and access can only be granted by the Ruler or their Second in Command. This information is top secret.
 
 This classification system is designed to protect the Kingdom of Monus’s sensitive information and ensure it is handled appropriately. All government employees are expected to adhere to these guidelines to maintain the integrity and security of our kingdom’s information.
+
+**Signed**
+
+**Information Regulation Department**
+
+**Kingdom of Monus**
 ```
 
 #Monus #Documents

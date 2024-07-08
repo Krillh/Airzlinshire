@@ -1,7 +1,7 @@
 ```
 **Kingdom of Monus**
 
-**Department of Tome Regulation**
+**Tome Regulation Department**
 
 **Document No.**: TR-100-00-01
 
@@ -29,7 +29,7 @@ This document is intended to provide a balance between transparency for buyers a
 
 **Signed**
 
-**Department of Tome Regulation**
+**Tome Regulation Department**
 
 **Kingdom of Monus**
 ```

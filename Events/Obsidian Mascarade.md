@@ -1,4 +1,4 @@
 > [!NOTE]
-> Details like dates, and 
+> Details like a date need to be added
 
-The Obsidian Mascarade was 
+The Obsidian Mascarade was an event that wiped out every leader of the 7 kingdoms all at once. It was Varen's attempt to reverse death.

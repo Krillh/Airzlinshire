@@ -12,7 +12,7 @@ This is a list of the largest banks in each kingdom:
 | Solus   | Pexenato' meke  | NO   |
 |         |                 |      |
 ## Seals
-As a form of signature, something called a seal is used. It is not a wax seal used on envelopes, but a small cylindrical stamp with an intricate design. Each registered person must have at least one seal, along with each entity that has the right to sign a paper (for example, a family may have a seal that indicates that the paper is signed by the family as an entity. another example is a government department). One entity may normally have up to 4 unique seals. Exceptions can be made with sufficient reasoning. To apply for a new seal 
+As a form of signature, something called a seal is used. It is not a wax seal used on envelopes, but a small cylindrical stamp with an intricate design. Each registered person must have at least one seal, along with each entity that has the right to sign a paper (for example, a family may have a seal that indicates that the paper is signed by the family as an entity. another example is a government department). One entity may normally have up to 4 unique seals. Exceptions can be made with sufficient reasoning. To apply for a new seal, you can fill out a seal application from your government and submit it to wherever your government accepts them. To apply for extra seals (over 4), 
 
 Many rich organizations or families have a ritual
 

@@ -5,7 +5,7 @@ When dealing with very large transactions, one might opt to make it not with coi
 A bank may be government controlled or public, depending on the kingdom and it's government policies. But, all banks work for the government and are regulated by them to ensure they aren't being fraudulent.
 
 ## Seals
-As a form of signature, something called a seal is used. It is not a wax seal used on envalopes, but a small cylindrical stamp with a 
+As a form of signature, something called a seal is used. It is not a wax seal used on envelopes, but a small cylindrical stamp with an intricate design. Each registered person must have at least one seal, along with each entity that has the right to sign a paper (for example, a family may have a seal that indicates that the paper is signed by the family as an entity. another example is a government department).
 
 This is a list of the largest banks in each kingdom:
 

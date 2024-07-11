@@ -18,10 +18,11 @@ There are some sub-elements that can be created by mixing two (or rarely, more t
 People in Airzlinshire can have connections to elements. If someone has a weak connection to light majik for example, they will be able to manipulate a small amount of light energy with a low level of precision. With practice they can strengthen their connection to light majik and the stronger the connection, the more majik energy they can control at once and with more precision. The one big drawback is that the stronger connection you have with on type of majik, the more difficult it is to make and improve your connection with other elements.
 
 Obviously one major use for majik is for combat, but there's much more to it than that. Unlike some types of magic that use spells, majik merely manipulation of energy. The possibilities are practically endless. As mentioned in Mixing Elements, death majik can be used for pest control. A few other examples are:
-- Air and water majik are commonly used to propel sail boats. Air majik can push air into the sail, and water majik is used as 
+- Air and water majik are commonly used to propel sail boats. Air majik can push air into the sail, and water majik can be used as steering or propelling aid.
 - Light majik is used to heat houses and other buildings. Dark majik is used for cooling.
 - A combination of light and air majik is used for lighting fires. The air majik increases the oxygen content and the light majik provides heat for combustion. It's also possible to use earth majik to levitate some some fuel to create a "fireball". 
 - Air energy can be used to create a wall of a vacuum so that no sound can pass though. This is a trick that requires a strong connection to air majik.
+- Empath majik can be used to soothe someone's emotions, or break up fights. 
 That was just a few of the simple ones, nearly anything you can think of can be done with enough skill and power.
 
 ## Casting Skill

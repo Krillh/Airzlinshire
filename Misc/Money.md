@@ -10,11 +10,9 @@ This is a list of the largest banks in each kingdom:
 | ------- | --------------- | ---- |
 | Monus   | Pexenato' bipei | YES  |
 | Solus   | Pexenato' meke  | NO   |
-|         |                 |      |
 ## Seals
 As a form of signature, something called a seal is used. It is not a wax seal used on envelopes, but a small cylindrical stamp with an intricate design. Each registered person must have at least one seal, along with each entity that has the right to sign a paper (for example, a family may have a seal that indicates that the paper is signed by the family as an entity. another example is a government department). One entity may normally have up to 4 unique seals. Exceptions can be made with sufficient reasoning. To apply for a new seal, you can fill out a seal application from your government and submit it to wherever your government accepts them. To apply for extra seals (over 4), contact your government.
 
-If your seal is stolen, you may apply to have it discontinued. You may submit a seal discontinuation application to your government. These require you to sign with 2 registered seals, to prevent fraud. It is highly recommended that an entity has at least 3 seals registered for this reason, and 
+If your seal is stolen, you may apply to have it discontinued. You may submit a seal discontinuation application to your government. These require you to sign with 2 registered seals, to prevent fraud. It is highly recommended that an entity has at least 3 seals registered for this reason, and to fill out a seal discontinuation form as soon as you can after a seal's integrity has been compromised.
 
-Many rich organizations or families have a ritual of burning or branding an individual's seal onto the thenar of the hand. This makes it impossible to steal. This process usually includes making the area raised. Learning how to keep the ink off the rest of the hand and off the paper is a skill that is learned by these people when they are children. The process is extremely painful, and the 
-
+Many rich organizations or families have a ritual of burning or branding an individual's seal onto the thenar of the hand. This makes it impossible to steal. This process usually includes making the area raised. Learning how to keep the ink off the rest of the hand and off the paper is a skill that is learned by these people when they are children. The process is extremely painful, and the raised are on the palm is often a nuisance. These factors are mitigated by doing the operation while the child is still developing: they learn how to live with it with no trouble.

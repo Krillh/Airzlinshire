@@ -22,7 +22,7 @@ This is a list of the largest banks in each kingdom:
 ## Seals
 As a form of signature, something called a seal is used. It is not a wax seal used on envelopes, but a small cylindrical stamp with an intricate design. Each registered person must have at least one seal, along with each entity that has the right to sign a paper (for example, a family may have a seal that indicates that the paper is signed by the family as an entity. another example is a government department). One entity may normally have up to 4 unique seals. Exceptions can be made with sufficient reasoning. To apply for a new seal, you can fill out a seal application from your government and submit it to wherever your government accepts them. To apply for extra seals (over 4), contact your government.
 
-Most seals are made of wood and have a met
+Most seals are made of wood and have a metal stamping head. The metal head is required to keep the small details from degrading with use. To get a seal, one must go to their government. Most governments have a department for managing seals. They would also manage their production. When this is the case, you must 
 
 If your seal is stolen, you may apply to have it discontinued. You may submit a seal discontinuation application to your government. These require you to sign with 2 registered seals, to prevent fraud. It is highly recommended that an entity has at least 3 seals registered for this reason, and to fill out a seal discontinuation form as soon as you can after a seal's integrity has been compromised.
 

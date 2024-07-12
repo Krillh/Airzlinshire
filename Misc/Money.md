@@ -26,6 +26,6 @@ Most seals are made of wood and have a metal stamping head. The metal head is re
 
 If your seal is stolen, you may apply to have it discontinued. You may submit a seal discontinuation application to your government. These require you to sign with 2 registered seals, to prevent fraud. It is highly recommended that an entity has at least 3 seals registered for this reason, and to fill out a seal discontinuation form as soon as you can after a seal's integrity has been compromised.
 
-You should also fill out a seal discontinuation form if your seal is starting to degrade. If the stamp isn't clear enough, it may be rejected upon validation.
+You should also fill out a seal discontinuation form if your seal is starting to degrade. If the stamp isn't clear enough, it may be rejected upon validation. Along with this, you cannot be issued a replacement. The same seal isn't allowed to be made at all, ever. Allowing for this could facilitate easy fraud and muddy investigation.
 
 Many rich organizations or families have a ritual of burning or branding an individual's seal onto the thenar of the hand. This makes it impossible to steal. This process usually includes making the area raised. Learning how to keep the ink off the rest of the hand and off the paper is a skill that is learned by these people when they are children. The process is extremely painful, and the raised are on the palm is often a nuisance. These factors are mitigated by doing the operation while the child is still developing: they learn how to live with it with no trouble.

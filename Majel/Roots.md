@@ -1,26 +1,5 @@
 #Majel
 
-
-|     | A            | I                  | U                    | E              | O              |
-| --- | ------------ | ------------------ | -------------------- | -------------- | -------------- |
-| P   | (pa) quality | (pi) water, liquid | (pu) sharing, giving | (pe) receiving | (po) food      |
-| B   | (ba) help    | (bi) trust         | (bu) sharpness       | (be) roundness | (bo) agreement |
-| F   | (fa) tool    | (fi) safety        | (fu) fire            | (fe) ownership | (fo) following |
-| M   | (ma)         | (mi)               | (mu)                 | (me)           | (mo)           |
-| T   |              |                    |                      |                |                |
-| D   |              |                    |                      |                |                |
-| S   |              |                    |                      |                |                |
-| Z   |              |                    |                      |                |                |
-| N   |              |                    |                      |                |                |
-| L   |              |                    |                      |                |                |
-| R   |              |                    |                      |                |                |
-| Q   |              |                    |                      |                |                |
-| J   |              |                    |                      |                |                |
-| K   |              |                    |                      |                |                |
-| G   |              |                    |                      |                |                |
-| H   |              |                    |                      |                |                |
-
-
 `pa` - quality
 `pi` - water, liquid
 `pu` - sharing, giving

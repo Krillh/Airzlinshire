@@ -11,6 +11,6 @@ The Royal Order of the Tome Monks is a partner organization of the [[Monus King
 The Order is comprised of monks and their purpose is to make [[Tomes]] for the [[Monus Kingdom]]. Monus' power comes from the making of tomes, and being the only kingdom that can make them. The process of fabricating tomes is a heavily guarded secret by the Order. Tomes are an extremely [[Monus Kingdom#Exports|important industry]] for Monus.
 ### Monk Training
 > [!NOTE]
-> All ages are adjusted to their equivalent in human terms. It is their developmental age. Different peoples will have different maturity curves (rates)
+> All ages are adjusted to their equivalent in human terms. It is their developmental age. Different peoples will have different maturity curves (rates).
 
-Tome Monks are trained from a young age. They usually start around 12 years old. They
+Tome Monks are trained from a young age, they usually start around 12 years old. They

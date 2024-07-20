@@ -10,6 +10,9 @@ All decorations are replicated in each of the 3 sections, and all of them are ra
 ## Storage
 As mentioned before, all coins have a hole in them for storage on a string. This is a very common way to store coins for easy access. One common method is a wallet of sorts, with multiple strings for easy access to different denominations of coins. These usually come with anywhere from 4 to 10 separate strings. Many people, especially people with less money, will make their own.
 Another way people store money, usually for long term storage, is in a box with a bunch of vertical rods. The coins fit nicely on these rods, ideally, and stay neatly stacked. This idea is used for merchants' change. Many merchants have a rack of rods so they can quickly and easily grab the change needed.
+
+## Minting
+Coins are minted using tomes that press metal blanks into shape. This enables them to have very precise designs. This also means there are practically no 
 # Ledgers
 When dealing with very large transactions, one might opt to make it not with coins, but with a ledger. Especially if you make large transactions often. Ledgers are more of a transaction of money on paper, and are required to be proctored by someone from a bank, and for both parties to sign a receipt that logs the transaction. To have a ledger, you much make a down payment to a bank. A ledger acts like a debit card in one sense, or a checkbook. The party getting paid can take out the money by going to the payer's bank, or log the transfer to their own account if they use the same bank. Or if the bank they use and the payer's bank have a transferal agreement, the banks can transfer the money between themselves, and the user doesn't have to transfer the money themselves.
 

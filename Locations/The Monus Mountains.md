@@ -1,0 +1,1 @@
+The Monus Mountains were made by the founders of the kingdom to protect it from the outside world. They are by far the tallest mountains in the world reaching 9,873 meters above tall. 

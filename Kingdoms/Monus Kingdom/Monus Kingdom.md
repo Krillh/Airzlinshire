@@ -15,7 +15,7 @@ The next class, tome merchants, make up nearly 13% of the population. They often
 # Industry
 By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry. The method for fabricating tomes and nearly everything about them is held secret by the kingdom as to maintain a monopoly. There have been many attempts to steal the secret from them, but to no avail.
 ## Tome Monopoly
-To maintain a monopoly on [[Tomes]], Monus has 2 tricks. They keep the manufacturing of it a secret, and they 
+To maintain a monopoly on [[Tomes]], Monus has 2 tricks. They keep the manufacturing of it a secret, and they have the only known source of the primary material for making tomes. They have multiple ways that they keep the manufacturing a secret: they have a culture of honor and the idea of leaving something that you dedicate to is preposterous, they keep their [[The Royal Order of the Monus Tome Monks|tome monks]] in Upper Monus under surveillance like a prison, and they keep those who are trained to be pp
 ## Natural Resources
 - land is not suitable for growing food as they have very high population density
 ## Imports

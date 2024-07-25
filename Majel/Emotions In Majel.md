@@ -1,0 +1,2 @@
+anger - kili
+shyness - keili

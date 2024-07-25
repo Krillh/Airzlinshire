@@ -8,3 +8,5 @@ The north river is the smallest of the three with a flow rate of 43,000 cubic me
 ## The East River
 ## The Lower River
 The lower river is the largest as it is the combination of the two upper rivers. It has a flow rate of 128,000 meters per second and 
+### Lower Monus River Expansion
+At some point, the lower river was dug to decrease it's width. This was largely to reclaim land as it was extremely wide before. The project took almost 2 years, but it exceeded expectations. The river was deepened and banks were sloped up. This made it so the river took up less space, and 

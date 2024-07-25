@@ -14,6 +14,8 @@ In Monus, there is an extremely large wealth and power gap. The lowest class mak
 The next class, tome merchants, make up nearly 13% of the population. They often don't have much in terms of real estate in the actual borders of Monus, maybe only a High House. They usually live primarily near their sale location of choice. Many live in [[Solus Kingdom|Solus]] as Solus is the largest importer of tomes. For a most merchants, selling takes much more time, as most don't sell to another distributer. Specifically when selling to Solus. The Solus Kingdom has very specific laws on the importing of goods.
 # Industry
 By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry. The method for fabricating tomes and nearly everything about them is held secret by the kingdom as to maintain a monopoly. There have been many attempts to steal the secret from them, but to no avail.
+## Tome Monopoly
+To maintain a monopoly on [[Tomes]], Monus has 2 tricks. They keep the manufacturing of it a secret, and they 
 ## Natural Resources
 - land is not suitable for growing food as they have very high population density
 ## Imports

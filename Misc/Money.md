@@ -6,7 +6,7 @@ The coins are 3 cm in diameter. are pretty thin, coming in at about 1.4 mm, incl
 
 The outer rim being raised is to make it so that the majority of the wear from other coins is on that outer rim rather than the inner rim or decorations. The inner rim is shorter so that when the coins are strung up, the string doesn't get pinched between the coins.
 ### Older Designs
-There are older designs for coins, but these are usually ancient coins and have no direct monetary value. They are usually collectors' items. Many can fetch quite high prices, and 
+There are older designs for coins, but these are usually ancient coins and have no direct monetary value. They are usually collectors' items. Many can fetch quite high prices, and their price in the market fluctuates.
 ## Decorations
 All decorations are replicated in each of the 3 sections, and all of them are raised from the coin's surface by 0.15 mm with ideally square edges. There is "pexena" (money), written in the [[Writing Systems And Phonemes#Writing Systems|Majel abugida]], it is written with the "x" syllable written out by itself, rather than part of the syllable for "pexe". The text is centered, and not curved to fit. The denomination amount is written above the text, in Majel, and is curved along the coin's edge. There is small symbol on the right side of the section, along the ridge. It is roughly 2-4 mm from the outer lip, and 1-2 mm from the ridge. Across from that there are tally marks with dots above them in fashion of the symbol for zero in Majel. There is one tally for each zero in the denomination. This means 1p will have none, 10p will have one tally, 100p: 2, 1kp: 3, 10kp: 4, etc.
 ## Storage

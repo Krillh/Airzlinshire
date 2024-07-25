@@ -1,0 +1,1 @@
+The Great Monus River is a river that runs through the whole of [[Monus Kingdom|Monus]]. It is extremely large, having a flow rate of 128,000 cubic meters per second.

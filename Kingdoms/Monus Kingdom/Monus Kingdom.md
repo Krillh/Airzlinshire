@@ -17,7 +17,7 @@ By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry
 ## Tome Monopoly
 To maintain a monopoly on [[Tomes]], Monus has 2 tricks. They keep the manufacturing of it a secret, and they have the only known source of the primary material for making tomes. They have multiple ways that they keep the manufacturing a secret: they have a culture of honor and the idea of leaving something that you dedicate to is preposterous, they keep their [[The Royal Order of the Monus Tome Monks|tome monks]] in Upper Monus under surveillance like a prison, and they keep those who are trained to be [[The Royal Order of the Monus Tome Monks|tome monks]] uneducated about the outside world.
 ## Natural Resources
-There are few natural resources for the Monus Kingdom to collect as the kingdom occupies a very small space, geographically, and had a very high population density. They are surrounded by extremely tall mountains and so they cannot expand their land. They do get fish from the Great Monus River that runs through the whole kingdom. It is rich in fish as it has a high concentration of [[Life Majik]], 
+There are few natural resources for the Monus Kingdom to collect as the kingdom occupies a very small space, geographically, and had a very high population density. They are surrounded by extremely tall mountains and so they cannot expand their land. They do get fish from the Great Monus River that runs through the whole kingdom. It is rich in fish as it has a high concentration of [[Life Majik]], roughly *?* diako on average.
 
 The land is not suitable for growing food as they have very high population density
 ## Imports

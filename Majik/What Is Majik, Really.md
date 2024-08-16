@@ -11,8 +11,8 @@ Majik has the capacity to materialize into a matter form under some circumstance
 >ethyr → gas (*materialization*)
 >gas → ethyr (*ethyrization*)
 
-| Phase change                      | Temp @ 1 atm                        | pressure @ 273 K |
-| --------------------------------- | ----------------------------------- | ---------------- |
-| materialization /<br>ethyrization | -38.720 C<br>-37.696 F<br>234.430 K |                  |
-| evaporation /<br>condensation     | -54.091 C<br>-65.364 F<br>219.059 K |                  |
-| melting /<br>freezing             | -62.306 C<br>-80.151 F<br>210.844 K |                  |
+| Phase change                      | Temp @ 1 atm                        | pressure @ 273.15 K |
+| --------------------------------- | ----------------------------------- | ------------------- |
+| materialization /<br>ethyrization | -38.720 C<br>-37.696 F<br>234.430 K |                     |
+| evaporation /<br>condensation     | -54.091 C<br>-65.364 F<br>219.059 K |                     |
+| melting /<br>freezing             | -62.306 C<br>-80.151 F<br>210.844 K |                     |

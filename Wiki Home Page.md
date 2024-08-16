@@ -1,0 +1,5 @@
+Welcome to the [[Airzlinshire]] wiki! Here is all the information about the world of [[Airzlinshire]]
+
+> [!important] 
+> All pages in this wiki contain information that the people of the world of Airzlinshire know unless stated otherwise. Some information is yet undiscovered by the people from this world.
+

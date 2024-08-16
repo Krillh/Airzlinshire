@@ -1,4 +1,4 @@
-
+⇒ [[Wiki Home Page]] ⇐
 
 Welcome to **Airzlinshire**, a meticulously crafted fantasy world teeming with its own unique people, geography, flora, fauna, languages, kingdoms, history, social norms, magic, money, sciences, and much more. 
 ## Our Vision:

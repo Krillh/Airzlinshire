@@ -1,4 +1,4 @@
 > [!warning] 
 > The information on this page is not known in full by anyone in the world of Airzlinshire. Some research indicates to some of this information but only very little.
 
-Majik has the capacity to materialize into a matter form under some circumstances.
+Majik has the capacity to materialize into a matter form under some circumstances. It can exist in the 3 basic states of matter, solid, liquid, & gas. It typically exists in a 4th state called ethyr (EH-thr).

@@ -17,3 +17,4 @@ Majik has the capacity to materialize into a matter form under some circumstance
 | materialization /<br>ethyrization | -38.720 C<br>-37.696 F<br>234.430 K | 7.2603 atm<br>0.7357 MPa<br>106.6976 psi  |
 | evaporation /<br>condensation     | -54.091 C<br>-65.364 F<br>219.059 K | 10.1729 atm<br>1.0308 MPa<br>149.5004 psi |
 | melting /<br>freezing             | -62.306 C<br>-80.151 F<br>210.844 K | <br>`unknown`                             |
+Materialized majik is very uncommon in nature except in the coldest environments or places under extreme pressure. The tops of [[The Monus Mountains]] is one of the few places where majik is nearly always ethyrized into a gaseous state and occasionally into a mist.

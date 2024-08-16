@@ -1,5 +1,5 @@
 ## Introduction
-The Drazdun Institute Majik Research (DIMR) has been investigating the origins of majik, focusing on the hypothesis that majik can be extracted from the air under high pressure. This research is inspired by the phenomenon known as the Colored Mist observed at the tops of the Monus Mountains, where majik condenses into a mist when it gets cold enough. The current working theory suggests that we are surrounded by gaseous majik, which could potentially be harnessed or used to power majik manipulations.
+The Drazdun Institute of Majik Research (DIMR) has been investigating the origins of majik, focusing on the hypothesis that majik can be extracted from the air under high pressure. This research is inspired by the phenomenon known as the Colored Mist observed at the tops of the Monus Mountains, where majik condenses into a mist when it gets cold enough. The current working theory suggests that we are surrounded by gaseous majik, which could potentially be harnessed or used to power majik manipulations.
 ## Objectives
 1. To design and construct a machine capable of compressing air to unprecedented levels.
 2. To test the hypothesis that majik can be extracted from the air under high pressure.

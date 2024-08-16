@@ -15,4 +15,10 @@ The Tome Monks are also in charge of researching tomes. They have put a lot of r
 > [!NOTE]
 > All ages are adjusted to their equivalent in human terms. It is their developmental age. Different peoples will have different maturity curves (rates).
 
-Tome Monks are trained from a young age, they usually start around 12 years old. They
+Tome Monks are trained from a young age, they usually start around 12 years old.
+
+# Culture
+The Tome Monks have a culture that is a subset of [[Monus Kingdom|Monus]] culture.
+## Special Events
+There are some natural events and holidays that are important to the Tome Monks' culture.
+### The Night of Colored Mist

@@ -22,4 +22,4 @@ Majik has the capacity to materialize into a matter form under some circumstance
 Materialized majik is very uncommon in nature except in the coldest environments or places under extreme pressure.
 
 ## Gaseous Majik And The Tome Monks
-The [[The Royal Order of the Monus Tome Monks|Tome Monks]] live at the top of [[The Monus Mountains]], a place where majik is constantly materialized into a gas. The monks breathe in the 
+The [[The Royal Order of the Monus Tome Monks|Tome Monks]] live at the top of [[The Monus Mountains]], a place where majik is constantly materialized into a gas. The monks breathe in the gaseous majik and it ethyrizes in their bodies, causing them to absorb the majik energy. Even sometimes it gets so cold that the majik condenses into a mist. 

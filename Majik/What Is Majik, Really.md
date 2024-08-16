@@ -19,8 +19,8 @@ Majik has the capacity to materialize into a matter form under some circumstance
 | materialization /<br>ethyrization | -38.720 C<br>-37.696 F<br>234.430 K | 7.2603 atm<br>0.7357 MPa<br>106.6976 psi  |
 | evaporation /<br>condensation     | -54.091 C<br>-65.364 F<br>219.059 K | 10.1729 atm<br>1.0308 MPa<br>149.5004 psi |
 | melting /<br>freezing             | -62.306 C<br>-80.151 F<br>210.844 K | <br>`unknown`                             |
-Materialized majik is very uncommon in nature except in the coldest environments or places under extreme pressure.
+Materialized majik is not found in nature except in the coldest environments or places under extreme pressure.
 
 ## Gaseous Majik And The Tome Monks
 The [[The Royal Order of the Monus Tome Monks|Tome Monks]] live at the top of [[The Monus Mountains]], a place where majik is constantly materialized into a gas. The monks breathe in the gaseous majik and it ethyrizes in their bodies, causing them to absorb the majik energy. Even sometimes it gets so cold that the majik condenses into a mist. This is what makes [[The Royal Order of the Monus Tome Monks#The Night of Colored Mist|The Night of Colored Mist]].
-When someone breathes in gaseous majik, 
+When someone breathes in gaseous majik, the higher temperature inside the body makes it ethyrize and absorb into the person.

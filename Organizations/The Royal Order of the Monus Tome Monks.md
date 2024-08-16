@@ -18,7 +18,9 @@ The Tome Monks are also in charge of researching tomes. They have put a lot of r
 Tome Monks are trained from a young age, they usually start around 12 years old.
 
 # Culture
-The Tome Monks have a culture that is a subset of [[Monus Kingdom|Monus]] culture.
+The Tome Monks have a culture that is a subset of [[Monus Kingdom|Monus]] culture. There are some traditions and rituals that are specific to them, though as all Tome Monks are citizens of [[Monus Kingdom|Monus]], most follow the typical Monus traditions as well.
 ## Special Events
 There are some natural events and holidays that are important to the Tome Monks' culture.
 ### The Night of Colored Mist
+The Night of Colored Mist is a naturally occurring event on the tops of [[The Monus Mountains]]. When it gets cold enough, majik mist will form at the peaks of the mountains. This only ever happens at night. Though there is a story of the Colored Mist appearing during the midday, an occurrence of this has not been reliably recorded.
+During this ev

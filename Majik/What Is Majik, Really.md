@@ -7,7 +7,8 @@ There are only 2 real elements (kind of) of majik: elemental majik and corrupt m
 # Majik Materialization
 Majik has the capacity to materialize into a matter form under some circumstances. It can exist in the 3 basic states of matter, solid, liquid, & gas. It typically exists in a 4th state called ethyr (EH-thr). In the ethyr state, it doesn't interact with the world itself, but it can be manipulated and the matter that is in the same physical space will be affected. That is what [[Majik#How do People Use it|majik manipulation]] is. Majik will, at a certain temperature and/or pressure, materialize into gas. Then it can undergo condensation or deposition into liquid or solid forms, respectively. When gaseous majik goes to ethyr, this is called ethyrization.
 
-> [!]
+> [!tip] 
 >ethyr → (*materialization*) → gas
->\gas → (*ethyrization*) → ethyr
+>gas → (*ethyrization*) → ethyr
 
+| Phase change | Temp @ 1 atm | 

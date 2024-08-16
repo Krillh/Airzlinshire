@@ -5,16 +5,21 @@ At the core, majik is something between matter and energy. It is both, in a way.
 # Elements
 There are only 2 real elements (kind of) of majik: elemental majik and corrupt majik. All of the elements are simply different specific frequencies of elemental majik. Even corrupt majik is just elemental majik where the oscillation is rotated 90 degrees about the x axis to oscillate in the z axis.
 # Majik Materialization
+> [!note]
+> The fact that majik can appear as matter is well known by the people of [[Airzlinshire]], but the idea of ethyr and the specifics are unknown.
+
 Majik has the capacity to materialize into a matter form under some circumstances. It can exist in the 3 basic states of matter, solid, liquid, & gas. It typically exists in a 4th state called ethyr (EH-thr). In the ethyr state, it doesn't interact with the world itself, but it can be manipulated and the matter that is in the same physical space will be affected. That is what [[Majik#How do People Use it|majik manipulation]] is. Majik will, at a certain temperature and/or pressure, materialize into gas. Then it can undergo condensation or deposition into liquid or solid forms, respectively. When gaseous majik goes to ethyr, this is called ethyrization.
 
 > [!tip] 
 >ethyr → gas (*materialization*)
 >gas → ethyr (*ethyrization*)
 
-
 | Phase Change                      | Temp @ <br>1 atm                    | pressure @ <br>273.15 K (0 C)             |
 | --------------------------------- | ----------------------------------- | ----------------------------------------- |
 | materialization /<br>ethyrization | -38.720 C<br>-37.696 F<br>234.430 K | 7.2603 atm<br>0.7357 MPa<br>106.6976 psi  |
 | evaporation /<br>condensation     | -54.091 C<br>-65.364 F<br>219.059 K | 10.1729 atm<br>1.0308 MPa<br>149.5004 psi |
 | melting /<br>freezing             | -62.306 C<br>-80.151 F<br>210.844 K | <br>`unknown`                             |
-Materialized majik is very uncommon in nature except in the coldest environments or places under extreme pressure. The tops of [[The Monus Mountains]] is one of the few places where majik is nearly always ethyrized into a gaseous state and occasionally into a mist.
+Materialized majik is very uncommon in nature except in the coldest environments or places under extreme pressure.
+
+## Gaseous Majik And The Tome Monks
+The [[The Royal Order of the Monus Tome Monks|Tome Monks]] live at the top of [[The Monus Mountains]], a place where majik is constantly materialized into a gas. The monks breathe in the 

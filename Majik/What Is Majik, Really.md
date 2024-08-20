@@ -26,4 +26,4 @@ The [[The Royal Order of the Monus Tome Monks|Tome Monks]] live at the top of [[
 When someone breathes in gaseous majik, the higher temperature inside the body makes it ethyrize and absorb into the person.
 
 # Majik Manipulations
-As mentioned earlier, majik manipulations are when someone manipulates the majik ethyr and it affects the mass that it is contained in. This can also be achieved with majik lattices. In fact, the brain has 
+As mentioned earlier, majik manipulations are when someone manipulates the majik ethyr and it affects the mass that it is contained in. This can also be achieved with majik lattices. In fact, the brain has majik lattices within it. These are extremely small, yet complex ones. They are programs that take in many inputs to produce some majik manipulations around them. It is through these that people are able to use majik. With neurons as entry points, they can control majik manipulations with much greater flexibility. These are called "dynamic lattices", while  "static lattice"

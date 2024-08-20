@@ -31,5 +31,6 @@ Not only does one have to increase their affiliation with an element to increase
 Distance effects the amount of majik power one has to use to make majik manipulations. The amount of energy increases by some percent per meter. Majik distance efficiency is not something that is easily measured, you have to go to a majik measuring facility to get it measured.
 ## Material Efficiency
 One of the most common types of majik manipulation is movement. One of the factors that affects one's ability to move objects around is the object's majik efficiency. This is the percent efficiency of energy going into the object and kinetic energy coming out. This is based on both the majik density and the ratio of the majik element(s) in question to other elements in the object. An object with an incredibly high majik density and with no other elements in it would have a very high efficiency.
-## Hand Movements
-When casting (creating majik manipulations), people make hand or arm movements. There are a precious few people who have learned how to cast with other, more subtle movements. 
+## Movements
+When casting (creating majik manipulations), people make hand or arm movements. There are a precious few people who have learned how to cast with other, more subtle movements. The complexity of the movement usually corresponds to the complexity of the majik manipulations it's for.
+Most majik users inherit movements very like those who taught them. You can 

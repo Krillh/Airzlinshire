@@ -12,7 +12,7 @@ There are 6 species of person. Giants, Warriors, Fayons, Survivors, Humans, and 
 ### Fayons
 [[Fayons]] are very pacifist. They are about 1.4 meters (4.5 feet) tall and live for roughly 170 years. fayons often live in houses made into the ground or in tree houses. Very few fayons live in towns and cities. Although, the houses of those who do live in towns are often filled with plants and, if they can, animals. Most fayons that work are merchants of spices and rare herbs, since they have great knowledge of the forests. Fayons that do work usually chose to care for people in a hospital or become botanists. Fayons are quiet and timid, rarely speaking up. But, whenever they do, it's often important.
 
-Fayons often pick up [[Life Majik]] from a young age, not needing much instruction other than observation. Most fayons feel close to nature and don't pick up another element, sticking with life majik. Because they often le
+Fayons often pick up [[Life Majik]] from a young age, not needing much instruction other than observation. Most fayons feel close to nature and don't pick up another element, sticking with [[Life Majik]]. Because they often learn it from a young age, lots of fayons become quite adept at using [[Life Majik]].
 ### Survivors
 [[Survivors]] are neural and level-headed. Their bulky figure around 6 meters (6.5 feet) tall and lasting roughly 140 years. These guys are tough. They would be the last ones standing at the end of the world. Survivors are very logical and often live in solitude or with a significant other.
 They 

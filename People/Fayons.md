@@ -4,3 +4,4 @@ Fayons often pick up [[Life Majik]] from a young age, not needing much instructi
 
 # Maturity Curves
 Their physical maturity curve closely resembles the function $$A(x)=0.1003x+40.8013\log\left(0.2x+1\right)$$
+It's derivative being $$\frac{0.02006x+3.6442558889}{0.2x+1}$$

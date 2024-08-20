@@ -28,3 +28,5 @@ That was just a few of the simple ones, nearly anything you can think of can be 
 
 ## Casting Skill
 Not only does one have to increase their affiliation with an element to increase the amount of power they can use, they also have to work on their casting skill. This is the ability to cast precisely and efficiently. One must develop the skill of manipulation of majik to be more precise. The more precise you are, the more control you have over your majik and the smaller you can manipulate things. The more efficient you are, the less majik energy loss you have when you manipulate.
+### Distance
+Distance effects the amount of majik power one has to use to make majik manipulations. The amount of energy increases by some percent per meter. You can get your di

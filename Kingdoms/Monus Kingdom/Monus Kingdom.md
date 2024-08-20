@@ -13,9 +13,11 @@ In Monus, there is an extremely large wealth and power gap. The lowest class mak
 
 The next class, tome merchants, make up roughly 9% of the population. They often don't have much in terms of real estate in the actual borders of Monus, maybe only a High House. They usually live primarily near their sale location of choice. Many live in [[Solus Kingdom|Solus]] as it's the largest importer of [[Tomes]]. For most merchants, selling takes much more time, as most don't sell to another distributer. Specifically when selling to Solus. The Solus Kingdom has very specific laws on the importing of goods.
 
-The upper class makes up the remaining 3% of the population. Their real estate is spread out over [[Upper Monus]]
+The upper class makes up the remaining 3% of the population. Their real estate is spread out over [[Upper Monus]]. 
 ## Clothes
 People of lower status usually wear rough sewn cloaks and drapes as they are easy to make. In warmer times of year, it is common to wear a skirt-like piece and a top piece that resembles a short cloak. This usually leaves the lower middle exposed. Leather shoes are common, and most people wear hoods, not hats.
+
+People in the merchant class usually have fitted clothes, but not mad of fancy material. They do a lot of traveling around the world and that is not a clean activity. Their clothes also are frequently folded up and packed away, and so being made out of thin material is useful, so it can pack away smaller. 
 
 People from the upper classes often wear fitted clothes, as they can afford it. The 
 # Industry

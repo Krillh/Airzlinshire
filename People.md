@@ -10,9 +10,12 @@ There are 6 species of person. Giants, Warriors, Fayons, Survivors, Humans, and 
 ### Warriors
 [[Warriors]] are violent and rowdy by nature. But when duty calls, are very loyal and follow orders well. Warriors' height comes in at around 2.2 meters (7.2 feet) tall and lifespan, around 45 years. Warriors grow muscle very fast and can bulk up a lot. They aren't as strong as giants but almost all warriors would be able to overpower the strongest humans. Most warriors go into the military due to their violent tendencies. Warriors are generally feared by most people. People often avoid them on the roads and in bars. This can sometimes lead to warriors dealing with stress and finding ways to cope, like drinking and fighting.
 ### Fayons
-[[Fayons]] are very pacifist. They are about 1.4 meters (4.5 feet) tall and live for roughly 170 years. fayons often live in houses made into the ground or in tree houses. Very few fayons live in towns and cities. Although, the houses of those who do live in towns are often filled with plants and, if they can, animals. Most fayons that work are merchants of spices and rare herbs, since they have great knowledge of the forests. fayons that do work usually chose to care for people in a hospital or become botanists. fayons are quiet and timid, rarely speaking up. But, whenever they do, it's often important.
+[[Fayons]] are very pacifist. They are about 1.4 meters (4.5 feet) tall and live for roughly 170 years. fayons often live in houses made into the ground or in tree houses. Very few fayons live in towns and cities. Although, the houses of those who do live in towns are often filled with plants and, if they can, animals. Most fayons that work are merchants of spices and rare herbs, since they have great knowledge of the forests. Fayons that do work usually chose to care for people in a hospital or become botanists. Fayons are quiet and timid, rarely speaking up. But, whenever they do, it's often important.
+
+Fayons often pick up [[Life Majik]] from a young age, not needing much instruction other than observation. Most fayons feel close to nature and don't pick up another element, sticking with life majik. Because they often le
 ### Survivors
-[[Survivors]] are neural and level-headed. Their bulky figure around 6 meters (6.5 feet) tall and lasting roughly 140 years. These guys are tough. They would be the last ones standing at the end of the world. Survivors are very logical and often live in solitude or with a significant other.  ...
+[[Survivors]] are neural and level-headed. Their bulky figure around 6 meters (6.5 feet) tall and lasting roughly 140 years. These guys are tough. They would be the last ones standing at the end of the world. Survivors are very logical and often live in solitude or with a significant other.
+They 
 ### Humans
 [[Humans]] are just normal humans
 ### Leyuas

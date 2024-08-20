@@ -6,3 +6,8 @@ The physical maturity curve closely follows the function: $$A(x)=\left(\left(0.1
 
 Its derivative: $$A'(x)=0.34995 \left(0.11665x - 2.2\right)^{2} \arctan\left(x\right) + \frac{\left(0.11665x - 2.2\right)^{3} + 23.25}{x^{2} + 1}$$
 ![[warrior maturity curve derivative.png]]
+
+
+
+
+

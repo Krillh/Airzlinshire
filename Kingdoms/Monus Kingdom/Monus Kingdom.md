@@ -19,7 +19,7 @@ People of lower status usually wear rough sewn cloaks and drapes as they are eas
 
 People in the merchant class usually have fitted clothes, but not mad of fancy material. They do a lot of traveling around the world and that is not a clean activity. Their clothes also are frequently folded up and packed away, and so being made out of thin material is useful, so it can pack away smaller. This is less useful for their travel clothes, which usually consist of a loose, long skirt; a fitted top, usually long-sleeve; and a short-brimmed hat. Selling outfits often include thin fitted pants and thin suit-like tops. These are usually blue and/or purple. Swirl decorations are common.
 
-People from the upper classes often wear fitted clothes, as they can afford it. The 
+People from the upper classes often wear fitted clothes, as they can afford it. Blues, purples, and golds are the dominating colors of choice. It is common for people to wear headpieces to show their status within some family or organization. These sometimes resemble crowns or tiaras, but can be hats or other ornamental headwear.
 # Industry
 By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry. The method for fabricating tomes and nearly everything about them is held secret by the kingdom as to maintain a monopoly. There have been many attempts to steal the secret from them, but to no avail.
 ## Tome Monopoly

@@ -1,3 +1,4 @@
+#Drazdun #Research 
 ## Abstract
 The Drazdun Institute of Military Majik (DIMM) has developed a smaller and more cost-effective version of the Drazdun Institute of Majik Research (DIMR)‘s machine to produce liquid majik. This machine can be deployed at military bases to replenish soldiers’ majik energy quickly. This paper details the design, testing, and deployment of these machines.
 ## Introduction

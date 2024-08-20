@@ -6,6 +6,7 @@ The river has 3 sections. Technically, there are 3 rivers in [[Monus Kingdom|Mon
 ## The North River
 The north river is the smallest of the three with a flow rate of 43,000 cubic meters per second. It is also the fastest flowing on average at nearly 3.2 meters per second. That is dangerously fast, and people do occasionally find themselves pulled downstream.
 ## The East River
+The east river is the larger of the two upper rivers with a flow rate of 76,000 cubic meters per second. It flows at about 
 ## The Lower River
 The lower river is the largest as it is the combination of the two upper rivers. It has a flow rate of 128,000 meters per second and 
 ### Lower Monus River Expansion

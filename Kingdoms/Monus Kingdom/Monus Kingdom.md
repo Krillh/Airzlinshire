@@ -22,6 +22,8 @@ People in the merchant class usually have fitted clothes, but not mad of fancy m
 People from the upper classes often wear fitted clothes, as they can afford it. Blues, purples, and golds are the dominating colors of choice. It is common for people to wear headpieces to show their status within some family or organization. These sometimes resemble crowns or tiaras, but can be hats or other ornamental headwear.
 # Industry
 By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry. The method for fabricating tomes and nearly everything about them is held secret by the kingdom as to maintain a monopoly. There have been many attempts to steal the secret from them, but to no avail.
+
+Roughly 20% of the population is employed in tome material mining. [[The Monus Mountains]] are mined to obtain stones for [[Tomes|tome]] making. It is a low yield operation, especially when it is all done by hand.
 ## Tome Monopoly
 To maintain a monopoly on [[Tomes]], Monus has 2 tricks. They keep the manufacturing of it a secret, and they have the only known source of the primary material for making tomes. They have multiple ways that they keep the manufacturing a secret: they have a culture of honor and the idea of leaving something that you dedicate to is preposterous, they keep their [[The Royal Order of the Monus Tome Monks|Tome Monks]] in Upper Monus under surveillance like a prison, and they keep those who are trained to be [[The Royal Order of the Monus Tome Monks|Tome Monks]] uneducated about the outside world.
 

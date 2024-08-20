@@ -19,16 +19,16 @@ When someone uses majik, they are causing *majik manipulations*. This is when yo
 People in Airzlinshire can have connections to elements. If someone has a weak connection to light majik for example, they will be able to manipulate a small amount of light energy with a low level of precision. With practice they can strengthen their connection to light majik and the stronger the connection, the more majik energy they can control at once and with more precision. The one big drawback is that the stronger connection you have with on type of majik, the more difficult it is to make and improve your connection with other elements.
 
 Obviously one major use for majik is for combat, but there's much more to it than that. Unlike some types of magic that use spells, majik merely manipulation of energy. The possibilities are practically endless. As mentioned in Mixing Elements, death majik can be used for pest control. A few other examples are:
-- Air and water majik are commonly used to propel sail boats. Air majik can push air into the sail, and water majik can be used as steering or propelling aid.
+- Air and water majik are commonly used to propel sail boats. Air majik can push air into the sail, and water majik can be used as steering or propulsion aid.
 - Light majik is used to heat houses and other buildings. Dark majik is used for cooling.
 - A combination of light and air majik is used for lighting fires. The air majik increases the oxygen content and the light majik provides heat for combustion. It's also possible to use earth majik to levitate some some fuel to create a "fireball". 
 - Air energy can be used to create a wall of a vacuum so that no sound can pass though. This is a trick that requires a strong connection to air majik.
 - Empath majik can be used to soothe someone's emotions, or break up fights. 
 That was just a few of the simple ones, nearly anything you can think of can be done with enough skill and power.
-
 ## Casting Skill
 Not only does one have to increase their affiliation with an element to increase the amount of power they can use, they also have to work on their casting skill. This is the ability to cast precisely and efficiently. One must develop the skill of manipulation of majik to be more precise. The more precise you are, the more control you have over your majik and the smaller you can manipulate things. The more efficient you are, the less majik energy loss you have when you manipulate.
 ### Distance
 Distance effects the amount of majik power one has to use to make majik manipulations. The amount of energy increases by some percent per meter. Majik distance efficiency is not something that is easily measured, you have to go to a majik measuring facility to get it measured.
 ## Material Efficiency
-One of the most common types of majik manipulation is movement. One of the factors that affects one's ability to move objects around is the object's majik efficiency. This is the percent efficiency of energy going into the object a
+One of the most common types of majik manipulation is movement. One of the factors that affects one's ability to move objects around is the object's majik efficiency. This is the percent efficiency of energy going into the object and kinetic energy coming out. This is based on both the majik density and the ratio of the majik element(s) in question to other elements in the object. An object with an incredibly high majik density and with no other elements in it would have a very high efficiency.
+## Hand Movements

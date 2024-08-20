@@ -25,3 +25,5 @@ Materialized majik is not found in nature except in the coldest environments or 
 The [[The Royal Order of the Monus Tome Monks|Tome Monks]] live at the top of [[The Monus Mountains]], a place where majik is constantly materialized into a gas. The monks breathe in the gaseous majik and it ethyrizes in their bodies, causing them to absorb the majik energy. Even sometimes it gets so cold that the majik condenses into a mist. This is what makes [[The Royal Order of the Monus Tome Monks#The Night of Colored Mist|The Night of Colored Mist]].
 When someone breathes in gaseous majik, the higher temperature inside the body makes it ethyrize and absorb into the person.
 
+# Majik Manipulations
+As mentioned earlier, majik manipulations are when someone manipulates the majik ethyr and it affects the mass that it is contained in. This can also be achieved with majik lattices. In fact, the brain has 

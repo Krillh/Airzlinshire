@@ -10,8 +10,8 @@ One fateful day, a great calamity befell the kingdom. A terrible drought gripped
 
 In the midst of this crisis, Lara’s quiet majik came to light. She ventured into the heart of the kingdom, where the ground was parched and cracked. With a serene expression, she closed her eyes and reached out with her mind. The air around her shimmered with a faint, ethereal glow as she called upon the majik within her.
 
-Without a single movement, Elara summoned the rains. Dark clouds gathered overhead, and a gentle rain began to fall, soaking the earth and breathing life back into the land. The people watched in awe as the drought was lifted, their hearts filled with gratitude and wonder.
+Without a single movement, Lara summoned the rains. Dark clouds gathered overhead, and a gentle rain began to fall, soaking the earth and breathing life back into the land. The people watched in awe as the drought was lifted, their hearts filled with gratitude and wonder.
 
-From that day forward, Elara was no longer seen as an insignificant figure. Her quiet majik had saved the kingdom, and she became a symbol of hope and humility. The people of Drazdun learned that true power did not always come with grand gestures and displays, but could be found in the quiet strength of a humble heart.
+From that day forward, Lara was no longer seen as an insignificant figure. Her quiet majik had saved the kingdom, and she became a symbol of hope and humility. The people of Drazdun learned that true power did not always come with grand gestures and displays, but could be found in the quiet strength of a humble heart.
 
-And so, the legend of Elara, the majik user who cast without movement, was passed down through generations, a timeless tale of quiet strength and the power of the unseen.
+And so, the legend of Lara, the majik user who cast without movement, was passed down through generations, a timeless tale of quiet strength and the power of the unseen.

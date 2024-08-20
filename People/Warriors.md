@@ -7,7 +7,4 @@ The physical maturity curve closely follows the function: $$A(x)=\left(\left(0.1
 Its derivative: $$A'(x)=0.34995 \left(0.11665x - 2.2\right)^{2} \arctan\left(x\right) + \frac{\left(0.11665x - 2.2\right)^{3} + 23.25}{x^{2} + 1}$$
 ![[warrior maturity curve derivative.png]]
 
-
-
-
-
+Warriors age much faster than standard, slowing down after 8.6 years (time) before speeding up past standard at 30.4 years (time). They age very slowly, staying between 31 (maturity) and 39 (maturity) for 22 years (time). This is when they are most effective in war.

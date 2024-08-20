@@ -21,5 +21,6 @@ There are 6 species of person. Giants, Warriors, Fayons, Survivors, Humans, and 
 [[Humans]] are just normal humans
 
 ### Leyuas
-[[Leyuas]] are very smart yet weak. 
+[[Leyuas]] naturally have a large brain capacity. Their bodies spend more nutrients expanding their brain than their body. This mean that leyuas are not very physically adept, but they have high levels of neuroplasticity. They learn very fast and have excellent memories. They often 
+[[Leyuas]] are very smart yet weak. They 
 

@@ -17,7 +17,7 @@ The upper class makes up the remaining 3% of the population. Their real estate i
 ## Clothes
 People of lower status usually wear rough sewn cloaks and drapes as they are easy to make. In warmer times of year, it is common to wear a skirt-like piece and a top piece that resembles a short cloak. This usually leaves the lower middle exposed. Leather shoes are common, and most people wear hoods, not hats.
 
-People in the merchant class usually have fitted clothes, but not mad of fancy material. They do a lot of traveling around the world and that is not a clean activity. Their clothes also are frequently folded up and packed away, and so being made out of thin material is useful, so it can pack away smaller. 
+People in the merchant class usually have fitted clothes, but not mad of fancy material. They do a lot of traveling around the world and that is not a clean activity. Their clothes also are frequently folded up and packed away, and so being made out of thin material is useful, so it can pack away smaller. This is less useful for their travel clothes, which usually consist of a loose, long skirt; a fitted top, usually long-sleeve; and a short-brimmed hat
 
 People from the upper classes often wear fitted clothes, as they can afford it. The 
 # Industry

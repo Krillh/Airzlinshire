@@ -12,4 +12,4 @@ The lower river is the largest as it is the combination of the two upper rivers.
 ### Lower Monus River Expansion
 At some point, the lower river was dug to decrease it's width. This was largely to reclaim land as it was extremely wide before. The project took almost 2 years, but it exceeded expectations. The river was deepened and banks were sloped up. This made it so the river took up less space, and so that it would have more capacity in case of flood. It also made the river a consistent width, depth, and thus speed. Another effect of this project was the speeding up of the river's water. This caused there to be far less algae growth, as the river used to travel at a much slower speed. The river is now a leisurely spot to cool off in warm months.
 #### Details
-The river was () km wide before the expansion. That is about 8 times wider than it is now. It had a cross-sectional are of () square meters, and had a speed of 0.0956 meters per second.
+The river was 33.98 km wide before the expansion. That is about 8.12 times wider than it is now. It had a cross-sectional are of about 1,359,000 square meters, and had a speed of 0.094 meters per second.

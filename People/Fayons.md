@@ -11,4 +11,4 @@ It's derivative being: $$\frac{0.02006x+3.644256}{0.2x+1}$$
 
 Fayons age quicker than standard until 14.7 years (of time). They are 25.7 years old (maturity) at the time. Then they age slower and slower than standard, reaching 80 years (maturity) at 170 years (time).
 
-Their mental maturity curve is 
+Their mental maturity curve is the same as the physical maturity curve.

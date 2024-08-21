@@ -3,7 +3,10 @@
 > Needs to be made into a more professional format
 
 ## Overview
-There are 6 species of person. Giants, Warriors, Fayons, Survivors, Humans, and Leyuas.
+There are 6 species of person. Giants, Warriors, Fayons, Survivors, Humans, and Leyuas. Each one has it's own features, tendencies, and maturity curves.
+
+### Maturity Curves
+A maturity curve is the relative maturity (physical or mental) of a people
 
 ### Giants
 [[Giants]] are a fairly docile species of person. They are quite large reaching around 3.5 meters (11.5  feet) tall and also live around 100 years. Giants physically have less brain capacity than a human but are not dumb. Their brain capacity is on par with an average 12 year old human. Giants are known for their friendly nature but sometimes experience discrimination due to their physical size. Some giants go into the military for their brute strength, but most are too docile and can't bring themselves to hurt others. Most giants go into mining and sometimes search and rescue / debris cleanup.

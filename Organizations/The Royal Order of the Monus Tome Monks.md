@@ -22,6 +22,7 @@ The Tome Monks have a culture that is a subset of [[Monus Kingdom|Monus]] cultur
 There are some natural events and holidays that are important to the Tome Monks' culture.
 ### The Night of Colored Mist
 The Night of Colored Mist is a naturally occurring event on the tops of [[The Monus Mountains]]. When it gets cold enough, majik mist will form at the peaks of the mountains. This only ever happens at night. Though there is a story of the Colored Mist appearing during the midday, an occurrence of this has not been reliably recorded.
+
 During this event, Tome Monks usually travel as high up the mountain they can to pray and breathe in the mist. Many Monks will then dance and play with majik all night. This is one of their few breaks, and the majik mist is quite energizing. The next day is always a day off to rest from the night of play.
 ### Birthday
 On a Tome Monk's birthday, they get 3 days off work: one day before and after to go and see their family.

@@ -9,7 +9,6 @@ There are 6 species of person. Giants, Warriors, Fayons, Survivors, Humans, and 
 A maturity curve is the relative maturity (physical or mental) of a species to the "standard" (human). For example, if a maturity curve has a slope of less than 1, it is aging slower than a human, >1 is faster, exactly 1 is the same rate as a human.
 
 The age expectancy is 80 years (physical maturity), so the expected lifespan is whenever the physical maturity graph reaches 80 on the y-axis.
-
 ### Giants
 [[Giants]] are a fairly docile species of person. They are quite large reaching around 3.5 meters (11.5  feet) tall and also live around 100 years. Giants physically have less brain capacity than a human but are not dumb. Their brain capacity is on par with an average 12 year old human. Giants are known for their friendly nature but sometimes experience discrimination due to their physical size. Some giants go into the military for their brute strength, but most are too docile and can't bring themselves to hurt others. Most giants go into mining and sometimes search and rescue / debris cleanup.
 ### Warriors
@@ -24,5 +23,6 @@ Fayons often pick up [[Life Majik]] from a young age, not needing much instructi
 [[Humans]] are just normal humans 😢
 ### Leyuas
 [[Leyuas]] naturally have a large brain capacity. Their bodies spend more nutrients expanding their brain than their body. This mean that leyuas are not very physically adept, but they have high levels of neuroplasticity. They learn very fast and have excellent memories. They often are more adept at majik, but can't risk the physical afflictions of overexerting much.
+
 Leyuas are often employed as researchers or doctors. Their superior control over majik makes them good at dealing with the complexities of anatomy. They are also often employed as advisors.
 Most leyuas live in [[Elestal Kingdom|Elestal]]. Despite the harsh temperatures, they use their majik to survive. At least in Elestal, they aren't going to get raided or attacked.

@@ -35,7 +35,7 @@ The land is not suitable for growing food as they have very high population dens
 ## Imports
 - Main import: food
 ## Exports
-- Main export: [[Tomes]], majik users, 
+- Main export: [[Tomes]], majik users, artisan work.
 # Relations
 - have an ancient grudge with [[Solus Kingdom|Solus]], but nobody really takes it seriously anymore.
 # Bank Policies

@@ -7,15 +7,23 @@ This is the Majel Reference Grammar.
 > The script was inspired a lot by Korean scripts, at least in concept. They also use an abugida, though it is a bit more complicated. The idea of open syllables was from Japanese, and the idea of root words from the Chinese family of languages. The concept of suffixes is partially inspired from PIE (Proto-Indo-European).
 
 # Phonology
+Consonants:
 
 |                     | Bilabial | Alveolar | Retroflex | Velar |
 | ------------------- | -------- | -------- | --------- | ----- |
-| Plosive             | p, b     | t, d     |           |       |
+| Plosive             | p b      | t d      |           | k g   |
 | Nasal               | m        | n        |           |       |
 | Tap                 |          | ɾ        |           |       |
-| Fricative           | ɸ, β     | s, z      |           |       |
-| Lateral Approximant |          |          |           |       |
+| Fricative           | ɸ β      | s z      | ʂ ʐ       | x     |
+| Lateral Approximant |          | l        |           |       |
+Vowels:
 
+|       | Front | Mid | Back |
+| ----- | ----- | --- | ---- |
+| Close |       |     |      |
+|       |       |     |      |
+
+The romanization is fairly
 # Script
 
 The main script for Majel is simply called the Majel Script. It is a phonetic abugida. Each character is made up of 2 parts, the top part (the consonant) and the bottom (the vowel). No other consonant part is needed as all syllables in Majel are either CV or CVV (one consonant then one or two vowels). 

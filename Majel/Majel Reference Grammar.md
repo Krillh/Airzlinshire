@@ -47,7 +47,9 @@ The definitions of group 2 roots are usually fairly close to that of the mono ro
 
 ## Group 3 Roots
 Group 3 roots can be derived from either group 1 or 2 roots. Usually they differ by meaning more than group 2 to group 1 roots. They are made by adding 'xi', 'xe', or 'xo' to the end of a root. They are all 2 syllables each.
-# Suffixes & Compound Words
-Compound words are made by putting together multiple roots to make another word. They follow similar rules as making compound words in English. The thing goes last, and any words that describe it go before it. An example: "fireplace" fire place, not place (of) fire.
+# Suffixes & Composite Words
+Composite words are made by putting together multiple roots to make another word. They follow similar rules as making compound words in English. The thing goes last, and any words that describe it go before it. An example: "fireplace" fire place, not place (of) fire.
+
+Suffixes a
 # Syntax
 Majel follows a strict "Subject Verb Object" (SVO) word ordering.

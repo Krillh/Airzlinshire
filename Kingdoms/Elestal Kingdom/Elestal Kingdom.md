@@ -4,7 +4,7 @@ The Elestal Kingdom is a secluded kingdom far to the north. It sits on the [[Ele
 # Culture
 The Elestian culture is the oldest unchanged culture of any recorded kingdom in history. It is shaped heavily by the extreme cold and harsh weather of the northern continent.
 ## Food
-Food is extremely important to the Elestian people. Farmers are highly regarded, and food is *never* to be wasted. Food is also shared and 
+Food is extremely important to the Elestian people. Farmers are highly regarded, and food is *never* to be wasted. Food is seen as something to share with those who need it. Farmers don't sell their food, but give it away. People give what they can as thanks for the food, usually money, but you aren't required to pay if you cannot.
 ## Farming
 Farmers on the [[Elestian Continent]] need to use majik to maintain their crops, since it's far too harsh there. Massive greenhouses are built into the ground to benefit from ground insulation, their glass roofs are cleared from snow and ice usually multiple times a day. The rooms are heated with extra large [[Elestian Spatial Heaters]].
 # Industry

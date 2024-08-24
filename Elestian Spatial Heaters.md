@@ -1,0 +1,1 @@
+Elestian Spatial Heaters are devices designed by Elestian researchers to heat buildings. It is a heat dissipator attached to an object with a high thermal mass and a [[Tomes|tome]] that heats the mass. They usually have insulation around the mass to protect people from accidentally burning themselves on contact.

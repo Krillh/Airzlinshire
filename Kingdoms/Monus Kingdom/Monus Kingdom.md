@@ -20,8 +20,12 @@ People of lower status usually wear rough sewn cloaks and drapes as they are eas
 People in the merchant class usually have fitted clothes, but not mad of fancy material. They do a lot of traveling around the world and that is not a clean activity. Their clothes also are frequently folded up and packed away, and so being made out of thin material is useful, so it can pack away smaller. This is less useful for their travel clothes, which usually consist of a loose, long skirt; a fitted top, usually long-sleeve; and a short-brimmed hat. Selling outfits often include thin fitted pants and thin suit-like tops. These are usually blue and/or purple. Swirl decorations are common.
 
 People from the upper classes often wear fitted clothes, as they can afford it. Blues, purples, and golds are the dominating colors of choice. It is common for people to wear headpieces to show their status within some family or organization. These sometimes resemble crowns or tiaras, but can be hats or other ornamental headwear.
+## Work Ethic
+In Monus, there is a strong sense of loyalty and dedication to one's work. The expectation is always quality first. If a poor product is produced, it is thrown away as it would be an embarrassment to display such poor work.
 # Industry
 By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry. The method for fabricating tomes and nearly everything about them is held secret by the kingdom as to maintain a monopoly. There have been many attempts to steal the secret from them, but to no avail.
+
+Roughly 20% of the population is employed in tome material mining. [[The Monus Mountains]] are mined to obtain stones for [[Tomes|tome]] making. It is a low yield operation, especially when it is all done by hand.
 ## Tome Monopoly
 To maintain a monopoly on [[Tomes]], Monus has 2 tricks. They keep the manufacturing of it a secret, and they have the only known source of the primary material for making tomes. They have multiple ways that they keep the manufacturing a secret: they have a culture of honor and the idea of leaving something that you dedicate to is preposterous, they keep their [[The Royal Order of the Monus Tome Monks|Tome Monks]] in Upper Monus under surveillance like a prison, and they keep those who are trained to be [[The Royal Order of the Monus Tome Monks|Tome Monks]] uneducated about the outside world.
 
@@ -30,10 +34,8 @@ These 2 tricks would seem to be not enough to maintain a monopoly, as one leak w
 There are few natural resources for the Monus Kingdom to collect as the kingdom occupies a very small space, geographically, and had a very high population density. They are surrounded by extremely tall mountains and so they cannot expand their land. They do get fish from the Great Monus River that runs through the whole kingdom. It is rich in fish as it has a high concentration of [[Life Majik]].
 
 The land is not suitable for growing food as they have very high population density
-## Employments
-Roughly 20% of the population is employed in tome material mining. [[The Monus Mountains]] are mined to obtain stones for [[Tomes|tome]] making. It is a low yield operation, especially when it is all done by hand.
-
-There is also a large portion of the population that works as artisans. In Monus, just being an artisan is not regarded highly, and most artisans are lower class. Artisans make everything from clay pots to clothes
+## Artisans
+There is a large portion of the population that works as artisans. In Monus, just being an artisan is not regarded highly, and most artisans are lower class. Artisans make everything from clay pots to clothes, with a focus on quality over quantity. Since it is in the Monus culture to produce quality work, nearly every product from Monus is considered artesinal.
 ## Imports
 - Main import: food
 ## Exports

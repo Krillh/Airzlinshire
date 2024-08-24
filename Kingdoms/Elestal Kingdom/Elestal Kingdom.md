@@ -6,8 +6,9 @@ The Elestian culture is the oldest unchanged culture of any recorded kingdom in 
 ## Food
 Food is extremely important to the Elestian people. Farmers are highly regarded, and food is *never* to be wasted. 
 ## Farming
-Farmers on the [[Elestian Continent]] need to use majik to maintain their crops, since it's far too harsh there. Greenhouses are built into the ground to benefit from ground insulation, their glass roofs are cleared from snow and ice 
+Farmers on the [[Elestian Continent]] need to use majik to maintain their crops, since it's far too harsh there. Massive greenhouses are built into the ground to benefit from ground insulation, their glass roofs are cleared from snow and ice usually multiple times a day. 
 # Industry
 ## Imports
+- Glass
 ## Exports
 - Main exports: Minerals

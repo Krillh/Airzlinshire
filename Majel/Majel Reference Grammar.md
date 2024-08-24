@@ -24,6 +24,8 @@ Vowels (with Romanized symbols):
 | Close-mid |       |     | ɤ(u) |
 | Open-mid  | ɛ(e)  |     | ɔ(o) |
 | Open      |       |     | ɑ(a) |
+The sounds are most often ordered like so:
+P B F V M T D S Z N L R Q J K G H X A I U E O
 # Script
 
 The main script for Majel is simply called the Majel Script. It is a phonetic abugida. Each character is made up of 2 parts, the top part (the consonant) and the bottom (the vowel). No other consonant part is needed as all syllables in Majel are either CV or CVV (one consonant then one or two vowels).
@@ -32,7 +34,7 @@ With consonants that have both the voiced and unvoiced variant present in the ph
 # Parts of Speech
 There are 4 parts of speech in Majel: nouns, adjectives, verbs, and particles. Nouns are just that, people, places, things, or ideas. Pronouns are grouped in with nouns as they act the same. Adjectives are describing words, for either a noun or verb. Verbs are action words, they describe what the subject is doing. Particles are much more complicated, there being multiple types of particles. All of them give context to sentences in different ways. Sentence relation (SR) particles can be used to describe how one sentence is related to the next. Mood marking (MM) particles mark the grammatical mood of the verb in a clause.
 # Root Words
-With the 16 main consonants and 5 vowels, you can make 80 syllables of the CV format. These syllables are called the "mono root words", or simply, "mono roots". They are also called group 1 roots. Each one has a definition, and all words are derived in one way or another from these root words, except the words themselves of course.
+With the 16 main consonants (the first 16) and 5 vowels, you can make 80 syllables of the CV format. These syllables are called the "mono root words", or simply, "mono roots". They are also called group 1 roots. Each one has a definition, and all words are derived in one way or another from these root words, except the words themselves of course.
 ## Group 2 Roots
 Group 2 roots are derived from group 1 roots by means of vowel movement. Each mono root has 1 vowel, and each vowel has 2 ways it can be transformed into a group 2 root. The vowel movement rules describe which diphthongs are allowed to be derived from which vowels.
 - a -> ia | ua
@@ -42,5 +44,11 @@ Group 2 roots are derived from group 1 roots by means of vowel movement. Each mo
 - o -> oi | ou
 
 The definitions of group 2 roots are usually fairly close to that of the mono root it came from.
+
+## Group 3 Roots
+Group 3 roots can be derived from either group 1 or 2 roots. Usually they differ by meaning more than group 2 to group 1 roots. They are made by adding 'xi', 'xe', or 'xo' to the end of a root. They are all 2 syllables each.
+# Suffixes & Compound Words
+
+
 # Syntax
 Majel follows a strict "Subject Verb Object" (SVO) word ordering.

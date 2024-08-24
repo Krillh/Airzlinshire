@@ -4,7 +4,7 @@ The Elestal Kingdom is a secluded kingdom far to the north. It sits on the [[Ele
 # Culture
 The Elestian culture is the oldest unchanged culture of any recorded kingdom in history. It is shaped heavily by the extreme cold and harsh weather of the northern continent.
 ## Food
-Food is extremely important to the Elestian people. 
+Food is extremely important to the Elestian people.
 # Industry
 ## Imports
 ## Exports

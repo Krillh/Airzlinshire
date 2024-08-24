@@ -33,6 +33,13 @@ With consonants that have both the voiced and unvoiced variant present in the ph
 # Root Words
 With the 16 main consonants and 5 vowels, you can make 80 syllables of the CV format. These syllables are called the "mono root words", or simply, "mono roots". They are also called group 1 roots. Each one has a definition, and all words are derived in one way or another from these root words, except the words themselves of course.
 ## Group 2 Roots
-Group 2 roots are derived from group 1 roots by means of vowel movement. Each mono root has 1 
+Group 2 roots are derived from group 1 roots by means of vowel movement. Each mono root has 1 vowel, and each vowel has 2 ways it can be transformed into a group 2 root. The vowel movement rules describe which diphthongs are allowed to be derived from which vowels.
+- a -> ia | ua
+- i -> ai | ei
+- u -> au | iu
+- e -> ie | ue
+- o -> oi | ou
+
+The definitions of group 2 roots are usually fairly close to that of the mono root it came from.
 # Syntax
 Majel follows a strict "Subject Verb Object" (SVO) word ordering.

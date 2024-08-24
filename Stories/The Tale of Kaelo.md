@@ -1,3 +1,4 @@
+#Elestal #Myth 
 > [!note] 
 > Kaelo is pronounced ka'e'lo (ka-EH-lo)
 

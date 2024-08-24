@@ -1,3 +1,5 @@
+#Drazdun #Myth 
+
 In the ancient Kingdom of Drazdun, where the art of majik was woven into the very fabric of life, there lived a humble soul named Lara. Unlike the grand sorcerers who commanded the elements with sweeping gestures and intricate hand movements, Lara possessed a unique gift. She could cast majik without the slightest motion of her hands or arms.
 
 Lara’s life was one of simplicity and poverty. She resided in a modest hut on the outskirts of the bustling capital, eking out a living by tending to a small garden and selling herbs in the market. Her neighbors saw her as an unremarkable figure, unaware of the extraordinary power she held within.

@@ -18,12 +18,16 @@ Consonants:
 | Lateral Approximant |          | l        |           |       |
 Vowels:
 
-|       | Front | Mid | Back |
-| ----- | ----- | --- | ---- |
-| Close |       |     |      |
-|       |       |     |      |
+|           | Front | Mid | Back |
+| --------- | ----- | --- | ---- |
+| Close     | i     |     |      |
+| Close-mid |       |     | ɤ    |
+| Open-mid  | ɛ     |     | ɔ    |
+| Open      |       |     | ɑ    |
 
-The romanization is fairly
+The romanization is fairly straight forward with some unexpected consonants.
+
+The retroflex fricatives
 # Script
 
 The main script for Majel is simply called the Majel Script. It is a phonetic abugida. Each character is made up of 2 parts, the top part (the consonant) and the bottom (the vowel). No other consonant part is needed as all syllables in Majel are either CV or CVV (one consonant then one or two vowels). 

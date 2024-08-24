@@ -50,6 +50,8 @@ Group 3 roots can be derived from either group 1 or 2 roots. Usually they differ
 # Suffixes & Composite Words
 Composite words are made by putting together multiple roots to make another word. They follow similar rules as making compound words in English. The thing goes last, and any words that describe it go before it. An example: "fireplace" fire place, not place (of) fire.
 
-Suffixes a
+Suffixes are used to turn a word from a noun into another part of speech (except particles). There are multiple suffixes, like -rai that means "similar to / like". It turns a word into an adjective that describes something as similar to the root of the adjective.
+
+Though there are a few suffixes that are used commonly, artistically, any word can be used as a suffix.
 # Syntax
 Majel follows a strict "Subject Verb Object" (SVO) word ordering.

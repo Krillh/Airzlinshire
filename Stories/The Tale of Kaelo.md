@@ -1,3 +1,6 @@
+> [!note] 
+> Kaelo is pronounced ka'e'lo (ka-EH-lo)
+
 In the frosty northern Kingdom of Elestal, where the land was perpetually blanketed in snow and ice, majik was a powerful force. The people of Elestal relied on majik to survive the harsh winters, using it to warm their homes, grow food in the frozen soil, and protect themselves from the fierce creatures that roamed the icy wilderness.
 
 Among the many majik users in Elestal, there was one who stood apart, not for their grandeur or wealth, but for their unique ability. This individual was named Kaelo, an unassuming ice miner who lived a life of poverty and toil. Kaelo's gift was unlike any other; they could cast majik without the need for hand or arm movements, a feat unheard of in the kingdom.

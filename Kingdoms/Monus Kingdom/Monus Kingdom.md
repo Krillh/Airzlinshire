@@ -23,7 +23,7 @@ People from the upper classes often wear fitted clothes, as they can afford it. 
 ## Work Ethic
 In Monus, there is a strong sense of loyalty and dedication to one's work. The expectation is always quality first. If a poor product is produced, it is thrown away as it would be an embarrassment to display such poor work.
 
-It is normal, and expected, that one put work above family, except in dire situations.
+It is normal, and expected, that one put work above family, except in dire situations. Though, most work in family-run businesses, as that is the norm. Big companies never made it far in Monus, as quality over quantity is not very scalable.
 # Industry
 By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry. The method for fabricating tomes and nearly everything about them is held secret by the kingdom as to maintain a monopoly. There have been many attempts to steal the secret from them, but to no avail.
 
@@ -38,6 +38,8 @@ There are few natural resources for the Monus Kingdom to collect as the kingdom 
 The land is not suitable for growing food as they have very high population density
 ## Artisans
 There is a large portion of the population that works as artisans. In Monus, just being an artisan is not regarded highly, and most artisans are lower class. Artisans make everything from clay pots to clothes, with a focus on quality over quantity. Since it is in the Monus culture to produce quality work, nearly every product from Monus is considered artisanal.
+## Trade Model
+The primary model for trade 
 ## Imports
 - Main import: food
 ## Exports

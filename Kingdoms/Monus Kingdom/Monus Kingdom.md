@@ -35,7 +35,7 @@ There are few natural resources for the Monus Kingdom to collect as the kingdom 
 
 The land is not suitable for growing food as they have very high population density
 ## Artisans
-There is a large portion of the population that works as artisans. In Monus, just being an artisan is not regarded highly, and most artisans are lower class. Artisans make everything from clay pots to clothes, with a focus on quality over quantity. Since it is in the Monus culture to produce quality work, nearly every product from Monus is considered artesinal.
+There is a large portion of the population that works as artisans. In Monus, just being an artisan is not regarded highly, and most artisans are lower class. Artisans make everything from clay pots to clothes, with a focus on quality over quantity. Since it is in the Monus culture to produce quality work, nearly every product from Monus is considered artisanal.
 ## Imports
 - Main import: food
 ## Exports

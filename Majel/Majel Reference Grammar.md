@@ -8,13 +8,13 @@ This is the Majel Reference Grammar.
 
 # Phonology
 
-|                     | Bilabial | Alveolar |     |
-| ------------------- | -------- | -------- | --- |
-| Plosive             |          |          |     |
-| Nasal               |          |          |     |
-| Tap                 |          |          |     |
-| Fricative           |          |          |     |
-| Lateral Approximant |          |          |     |
+|                     | Bilabial | Alveolar | Retroflex | Velar |
+| ------------------- | -------- | -------- | --------- | ----- |
+| Plosive             | p, b     | t, d     |           |       |
+| Nasal               | m        | n        |           |       |
+| Tap                 |          | ɾ        |           |       |
+| Fricative           | ɸ, β     | s, z      |           |       |
+| Lateral Approximant |          |          |           |       |
 
 # Script
 

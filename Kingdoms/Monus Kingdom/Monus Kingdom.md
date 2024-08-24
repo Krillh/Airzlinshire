@@ -35,9 +35,9 @@ The land is not suitable for growing food as they have very high population dens
 ## Imports
 - Main import: food
 ## Exports
-- Main export: [[Tomes]]
+- Main export: [[Tomes]], majik users, 
 # Relations
-- have an ancient grudge with [[Solus Kingdom|Solus]]
+- have an ancient grudge with [[Solus Kingdom|Solus]], but nobody really takes it seriously anymore.
 # Bank Policies
 Banks in Monus are mandated to be government controlled. The largest bank in Monus is Pexenato' bipei.
 # Government

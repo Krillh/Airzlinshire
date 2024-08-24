@@ -39,7 +39,9 @@ The land is not suitable for growing food as they have very high population dens
 ## Artisans
 There is a large portion of the population that works as artisans. In Monus, just being an artisan is not regarded highly, and most artisans are lower class. Artisans make everything from clay pots to clothes, with a focus on quality over quantity. Since it is in the Monus culture to produce quality work, nearly every product from Monus is considered artisanal.
 ## Trade Model
-The primary model for trade in Monus is a mix of stores and weekly markets. The weekly selling market are for merchants who buy goods from people and then sell them to the rest of the world, and the weekly buying market is for merchants to sell goods from the rest of the world. The selling market is 2 days before the buying market. Both of these are all-day events, starting at 5:00 and usually going to 21:00. It is customary to send one person from the family to buy during the 
+The primary model for trade in Monus is a mix of stores and weekly markets. The weekly selling market are for merchants who buy goods from people and then sell them to the rest of the world, and the weekly buying market is for merchants to sell goods from the rest of the world. The selling market is 2 days before the buying market. Both of these are all-day events, starting at 4:00 and usually going to 22:00. It is customary to send one person from the family to buy during the buying market, but for multiple people to go and sell during the selling market. Often the buyer is a child, someone unable to work as much. Though, the contents of the market shifts throughout the day, usually: food in the morning, clothes and household items midday, and weapons in the evening. You don't see many children in the market in the evening.
+
+The markets are set up in various plazas and squares scattered around [[Lower Monus]]. 
 ## Imports
 - Main import: food
 ## Exports

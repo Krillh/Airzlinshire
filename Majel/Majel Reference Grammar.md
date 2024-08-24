@@ -26,9 +26,11 @@ Vowels (with Romanized symbols):
 | Open      |       |     | ɑ(a) |
 # Script
 
-The main script for Majel is simply called the Majel Script. It is a phonetic abugida. Each character is made up of 2 parts, the top part (the consonant) and the bottom (the vowel). No other consonant part is needed as all syllables in Majel are either CV or CVV (one consonant then one or two vowels). 
+The main script for Majel is simply called the Majel Script. It is a phonetic abugida. Each character is made up of 2 parts, the top part (the consonant) and the bottom (the vowel). No other consonant part is needed as all syllables in Majel are either CV or CVV (one consonant then one or two vowels).
 ## Voiced / Unvoiced Change
-## Vowel Movements
+With consonants that have both the voiced and unvoiced variant present in the phonology, the voiced variant of the consonant has a vertical stroke on the left side of the character. The stroke falls through the vowel section of the character, making the consonant surround the left side of the vowel along with whatever other sides are covered by the unvoiced consonant.
 # Parts of Speech
+# Root Words
+With the 16 main consonants and 5 vowels, you can make
 # Syntax
 Majel follows a strict "Subject Verb Object" (SVO) word ordering.

@@ -41,6 +41,7 @@ The land is not suitable for growing food as they have very high population dens
 # Bank Policies
 Banks in Monus are mandated to be government controlled. The largest bank in Monus is Pexenato' bipei.
 # Government
+The 
 ## Departments
 | Department             | Tag | Function                                                                                                                                                                               |
 | ---------------------- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

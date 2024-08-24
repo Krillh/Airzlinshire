@@ -4,3 +4,6 @@ The Elestal Kingdom is a secluded kingdom far to the north. It sits on the [[Ele
 # Culture
 The Elestian culture is the oldest unchanged culture of any recorded kingdom in history.
 # Industry
+## Imports
+## Exports
+- Main exports: Minerals

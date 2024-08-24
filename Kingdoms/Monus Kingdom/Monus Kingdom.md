@@ -41,7 +41,7 @@ There is a large portion of the population that works as artisans. In Monus, jus
 ## Trade Model
 The primary model for trade in Monus is a mix of stores and weekly markets. The weekly selling market are for merchants who buy goods from people and then sell them to the rest of the world, and the weekly buying market is for merchants to sell goods from the rest of the world. The selling market is 2 days before the buying market. Both of these are all-day events, starting at 4:00 and usually going to 22:00. It is customary to send one person from the family to buy during the buying market, but for multiple people to go and sell during the selling market. Often the buyer is a child, someone unable to work as much. Though, the contents of the market shifts throughout the day, usually: food in the morning, clothes and household items midday, and weapons in the evening. You don't see many children in the market in the evening.
 
-The markets are set up in various plazas and squares scattered around [[Lower Monus]]. 
+The markets are set up in various plazas and squares scattered around [[Lower Monus]]. It is busy and bustling all day long as thousands of people are trying to buy and sell goods. People carrying carts and baskets, no animals pulling them as there's no space. It is chaotic, but also everyone is friendly. You see many cases of people helping each other carry items and lots of talking and laughing. It's time for people to socialize.
 ## Imports
 - Main import: food
 ## Exports

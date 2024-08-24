@@ -52,6 +52,6 @@ Composite words are made by putting together multiple roots to make another word
 
 Suffixes are used to turn a word from a noun into another part of speech (except particles). There are multiple suffixes, like -rai that means "similar to / like". It turns a word into an adjective that describes something as similar to the root of the adjective.
 
-Though there are a few suffixes that are used commonly, artistically, any word can be used as a suffix.
+Though there are a few suffixes that are used commonly, but artistically, any word can be used as a suffix.
 # Syntax
 Majel follows a strict "Subject Verb Object" (SVO) word ordering.

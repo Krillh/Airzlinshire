@@ -10,8 +10,11 @@ Food is extremely important to the Elestian people. Farmers are highly regarded,
 ## Farming
 Farmers on the [[Elestian Continent]] need to use majik to maintain their crops, since it's far too harsh there. Massive greenhouses are built into the ground to benefit from ground insulation, their glass roofs are cleared from snow and ice usually multiple times a day. The rooms are heated with extra large [[Elestian Spatial Heaters]].
 ## Discovery
-The people of Elestal have an urge to discover new ways to make life better. As such, many people are inventors, and nearly anyone who isn't an inventor for work is one as a hobby. This culture produces many inventions, some good, and most not so good. But volume is the name of the game to make something great. Elestal sells their ideas to companies around the world who try to make money from them.
+The people of Elestal have an urge to discover new ways to make life better. As such, many people are inventors, and nearly anyone who isn't an inventor for work is one as a hobby. This culture produces many inventions, some good, and most not so good. But volume is the name of the game to make something great. Elestal sells their ideas to companies around the world who try to make money from them. Stealing would be a big problem if Elestal was on a different continent, and if they kept the details of the inventions and ideas they sold. They destroy any recorded details of a product after selling it. Only the credited inventor, it's ID number, and it's original title. The inventor is given 20% of the profits from the invention auction.
 # Industry
+Elestal has a few different industries, but not a lot of diversity.
+## Ice Mining
+The ice that 
 ## Imports
 - Glass
 - [[Tomes]]

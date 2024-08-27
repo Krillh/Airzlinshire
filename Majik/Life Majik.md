@@ -1,4 +1,5 @@
-#Majik 
+#Majik #LifeMajik
+
 Combinations:
 - Life Majik + [[Dark Majik]] => [[Death Majik]]
 

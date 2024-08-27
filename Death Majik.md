@@ -1,0 +1,1 @@
+Death Majik specializes in the imprecise release of life energy in large volumes.

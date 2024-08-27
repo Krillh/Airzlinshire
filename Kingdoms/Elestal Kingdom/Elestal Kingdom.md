@@ -9,9 +9,11 @@ The Elestian culture is the oldest unchanged culture of any recorded kingdom in 
 Food is extremely important to the Elestian people. Farmers are highly regarded, and food is *never* to be wasted. Food is seen as something to share with those who need it. Farmers don't sell their food, but give it away. People give what they can as thanks for the food, usually money, but you aren't required to pay if you cannot. You may give thanks in other ways, with objects or labor.
 ## Farming
 Farmers on the [[Elestian Continent]] need to use majik to maintain their crops, since it's far too harsh there. Massive greenhouses are built into the ground to benefit from ground insulation, their glass roofs are cleared from snow and ice usually multiple times a day. The rooms are heated with extra large [[Elestian Spatial Heaters]].
+## Discovery
+The people of Elestal have an urge to discover new ways to make life better. As such, many people are inventors, and nearly anyone who isn't an inventor for work is one as a hobby. This culture produces many inventions, some good, and most not so good. But volume is the name of the game to make something great. Elestal sells their ideas to companies around the world who try to make money from them.
 # Industry
 ## Imports
 - Glass
 - [[Tomes]]
 ## Exports
-- Main exports: Minerals
+- Main exports: Minerals, inventions.

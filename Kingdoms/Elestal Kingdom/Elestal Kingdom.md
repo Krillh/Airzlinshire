@@ -14,7 +14,7 @@ The people of Elestal have an urge to discover new ways to make life better. As 
 # Industry
 Elestal has a few different industries, but not a lot of diversity.
 ## Ice Mining
-The ice that covers the [[Elestian Continent]] has a very high majik content. The deeper ice has a higher majik content than ice near the surface, so mining of the deep ice and bringing it to the surface is an industry that keeps many people alive. Being near deep ice supports one's majik recovery. And considering most Elestian people use majik to keep from freezing, they are constantly using their majik. Elestian children learn how to do this when they are very young, and people do it subconsiously. 
+The ice that covers the [[Elestian Continent]] has a very high majik content. The deeper ice has a higher majik content than ice near the surface, so mining of the deep ice and bringing it to the surface is an industry that keeps many people alive. Being near deep ice supports one's majik recovery. And considering most Elestian people use majik to keep from freezing, they are constantly using their majik. Elestian children learn how to do this when they are very young, and people do it subconsciously. It is very difficult to learn how to do this after 19 years of maturity. That is why almost nobody moves into Elestal. The reverse is also true, it is very difficult to learn to not do this once you are 19 years of maturity. An untrained Elestian who goes to the outside world will quickly overheat and expend their majik stores, also known as [[Depletion Sickness]].
 ## Imports
 - Glass
 - [[Tomes]]

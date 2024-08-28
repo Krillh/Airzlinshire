@@ -1,1 +1,2 @@
 - Founder: Kirill H
+- Writer: McClellan H

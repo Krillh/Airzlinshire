@@ -25,7 +25,7 @@ In Monus, there is a strong sense of loyalty and dedication to one's work. The e
 
 It is normal, and expected, that one put work above family, except in dire situations. Though, most work in family-run businesses, as that is the norm. Big companies never made it far in Monus, as quality over quantity is not very scalable.
 ## Majik
-[[Dark Majik]] is the primary element in Monus, with most people having some affiliation with it. Not everyone 
+[[Dark Majik]] is the primary element in Monus, with most people having some affiliation with it.
 # Industry
 By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry. The method for fabricating tomes and nearly everything about them is held secret by the kingdom as to maintain a monopoly. There have been many attempts to steal the secret from them, but to no avail.
 
@@ -37,7 +37,7 @@ These 2 tricks would seem to be not enough to maintain a monopoly, as one leak w
 ## Natural Resources
 There are few natural resources for the Monus Kingdom to collect as the kingdom occupies a very small space, geographically, and had a very high population density. They are surrounded by extremely tall mountains and so they cannot expand their land. They do get fish from the Great Monus River that runs through the whole kingdom. It is rich in fish as it has a high concentration of [[Life Majik]].
 
-The land is not suitable for growing food as they have very high population density
+The land is not suitable for growing food as they have very high population density, so nearly all food is imported.
 ## Artisans
 There is a large portion of the population that works as artisans. In Monus, just being an artisan is not regarded highly, and most artisans are lower class. Artisans make everything from clay pots to clothes, with a focus on quality over quantity. Since it is in the Monus culture to produce quality work, nearly every product from Monus is considered artisanal.
 ## Trade

@@ -24,6 +24,8 @@ People from the upper classes often wear fitted clothes, as they can afford it. 
 In Monus, there is a strong sense of loyalty and dedication to one's work. The expectation is always quality first. If a poor product is produced, it is thrown away as it would be an embarrassment to display such poor work.
 
 It is normal, and expected, that one put work above family, except in dire situations. Though, most work in family-run businesses, as that is the norm. Big companies never made it far in Monus, as quality over quantity is not very scalable.
+## Majik
+[[Dark Majik]] is the primary element in Monus, with most people having some affiliation with it. Not everyone 
 # Industry
 By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry. The method for fabricating tomes and nearly everything about them is held secret by the kingdom as to maintain a monopoly. There have been many attempts to steal the secret from them, but to no avail.
 

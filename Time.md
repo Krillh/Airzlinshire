@@ -31,8 +31,12 @@ The year is truncated in the standard date, but more digits can be added to the 
 
 Additionally, the time format is: "(hh-mm-ss)". And in base 2:
 - "(hh hhh-mmm mmm-sss sss)"
+
 It is always put into parenthesis to differentiate it from the date format, especially when looking at the extended format: "yyyy-mm-dd:(hh-mm-ss)", and in base 2:
 - "yyyy yyyy yyyy-mmm-dd ddd:(hh hhh-mmm mmm-sss sss)"
+
 Although this looks like a lot, when in actual writing, it is much easier to read. If you know how to read binary.
 
-.l.. l... .l.l - l.l - l. .ll - (  )
+Here's an example of a date written in binary. Extra space is added since it's digital, but it is easier to read when hand written.
+- 1157-05-19:(06-43-03)
+- .l.. l... .l.l - l.l - l. .ll : ( .. ll. - l.l .ll - ... .ll )

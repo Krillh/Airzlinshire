@@ -24,8 +24,8 @@ Most time units are quite similar to Earth counterparts (see rightmost column), 
 
 The people of Airzlinshire experience a year the same as we do, with similar goals and prospects. They experience the months as decent blocks of time, and each one being something slightly different. They experience the same weekly and daily cycles of sleep and occupation.
 
-## Date Format
-The standard date format is: "yyyy-mm-dd". At least, in base 10. In base 2, it would be:
+## Date & Time Format
+The standard date format is: "yyyy-mm-dd". In base 10, at least. In base 2, it would be:
 - "yyyy yyyy yyyy-mmm-dd ddd"
 The year is truncated in the standard date, but more digits can be added to the left of the year.
 

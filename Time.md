@@ -2,4 +2,4 @@
 > [!NOTE]
 > Needs Documentaion
 
-Time in Airzlinshire is different.
+In Airzlinshire, one year is roughly the same as on Earth.

@@ -2,7 +2,7 @@
 > [!NOTE]
 > Needs Documentaion
 
-In Airzlinshire, one year is roughly the same as on Earth. It's exactly 365 days long, but the days are not quite the same length.
+In Airzlinshire, time is not quite the same as on Earth. Though the people don't experience time much different, the actual units are not the same.
 
 The second is the same, and that will be the basis of the conversions.
 
@@ -21,4 +21,8 @@ This is a table for the unit conversions.
 |        | 256 days       | 388.3615 days            |                          |
 Most time units are quite similar to Earth counterparts (see rightmost column), but are a tad longer. The units are made to fit into a [[Numbers|binary counting system]]. All these values were constructed to be perfectly in line with the rotations and revolutions of the planet around their star. Because their sky measurement technology is not quite as precise as it could be, there's a team of powerful majik users who's job it is to alter the trajectory of the planet to fit into the time system.
 
-The people of Airzlinshire experience a year the same as we do, with similar goals and prospects. They experience the months as decent blocks of time, and 
+The people of Airzlinshire experience a year the same as we do, with similar goals and prospects. They experience the months as decent blocks of time, and each one being something slightly different. They experience the same weekly and daily cycles of sleep and occupation.
+
+## Date Format
+The standard date format is: "yyyy.mm.dd". At least, in base 10. In base 2, it would be:
+"yyyy-yyyy-yyyy.mmm.d-dd-dd"

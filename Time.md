@@ -6,6 +6,7 @@ In Airzlinshire, one year is roughly the same as on Earth. It's exactly 365 days
 
 The second is the same, and that will be the basis of the conversions.
 
+This is a table for the unit conversions.
 
 | Unit   | Last Unit (Az) | Last Unit (Earth)        | Earth Unit               |
 | ------ | -------------- | ------------------------ | ------------------------ |
@@ -13,6 +14,7 @@ The second is the same, and that will be the basis of the conversions.
 | Minute | 64 second      | 64 second                | 1.0667 mins              |
 | Hour   | 64 minutes     | 68.2667 minutes          | 1.1378 hours             |
 | Day    | 32 hours       | 36.4089 hours            | 1.5170 days              |
-| Month  | 32 days        | 48.5452 days             | ~1.5411 months (31 days) |
-|        | 8 months       | 12.5277 months (31 days) |                          |
-| Year   | 256 days       | 388.3615 days            | 1.0640 years             |
+| Month  | 32 days        | 48.5452 days             | ~1.6182 months (30 days) |
+| Year   | 8 months       | 12.9454 months (30 days) | 1.0640 years             |
+|        | 256 days       | 388.3615 days            |                          |
+Most time units are quite similar to Earth counterparts (see rightmost column), but are a tad longer. The units are made to fit into a [[]]binary counting system.

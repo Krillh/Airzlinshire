@@ -1,0 +1,1 @@
+Airzlinshire uses a base 2 (binary) positional number system as the primary number system.

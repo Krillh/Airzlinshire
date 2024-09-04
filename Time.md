@@ -25,4 +25,9 @@ The people of Airzlinshire experience a year the same as we do, with similar goa
 
 ## Date Format
 The standard date format is: "yyyy.mm.dd". At least, in base 10. In base 2, it would be:
-"yyyy-yyyy-yyyy.mmm.d-dd-dd"
+- "yyyy yyyy yyyy.mmm.dd ddd"
+The year is truncated in the standard date, but more digits can be added to the left of the year.
+
+Additionally, the time format is: "(hh.mm.ss)". And in base 2:
+- "(hh hhh.mmm mmm.sss sss)"
+It is always put into parenthesis to differentiate it from the date format, especially when looking at the extended format: "yyyy.mm.dd:(hh.mm.ss)"

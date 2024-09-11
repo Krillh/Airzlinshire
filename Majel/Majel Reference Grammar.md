@@ -27,7 +27,6 @@ Vowels (with Romanized symbols):
 The sounds are most often ordered like so:
 P B F V M T D S Z N L R Q J K G H X A I U E O
 # Script
-
 The main script for Majel is simply called the Majel Script. It is a phonetic abugida. Each character is made up of 2 parts, the top part (the consonant) and the bottom (the vowel). No other consonant part is needed as all syllables in Majel are either CV or CVV (one consonant then one or two vowels).
 ## Voiced / Unvoiced Change
 With consonants that have both the voiced and unvoiced variant present in the phonology, the voiced variant of the consonant has a vertical stroke on the left side of the character. The stroke falls through the vowel section of the character, making the consonant surround the left side of the vowel along with whatever other sides are covered by the unvoiced consonant.

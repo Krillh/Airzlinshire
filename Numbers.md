@@ -50,3 +50,13 @@ Table of numbers:
 | 31      | l llll  | H 2 1 4 2 1 | H 3 4 3    |
 | 32      | l. .... | 2 H         | 2 H        |
 
+
+zero 0 - niu
+one 1 - zu
+two 2 - ba
+three 3 - dei
+four 4 - li
+
+hex 16 - ru
+
+byte 256 - kei

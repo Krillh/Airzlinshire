@@ -53,4 +53,4 @@ Suffixes are used to turn a word from a noun into another part of speech (except
 
 Though there are a few suffixes that are used commonly, but artistically, any word can be used as a suffix.
 # Syntax
-Majel follows a strict "Subject Verb Object" (SVO) word ordering. This is like what it sounds like, the subject goes first, then the verb, then the object. All verbs in Majel take only a direct object. To extend the object clause, you can add a 
+Majel follows a strict "Subject Verb Object" (SVO) word ordering. This is like what it sounds like, the subject goes first, then the verb, then the object. All verbs in Majel take only a direct object. To extend the object clause, you can add a conjunction particle (I eat food __with__ you). This comes from a simplification from older Majel where the conjunction would be placed between sentences, forming ".I eat food. with. you." (mi povo po. ;joi;. ti. -> mi povo po ;joi; ti.). To add more of these clause extensions, simply add more conjunction particles separating them.

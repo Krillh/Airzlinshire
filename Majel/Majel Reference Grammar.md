@@ -32,9 +32,8 @@ The main script for Majel is simply called the Majel Script. It is a phonetic ab
 With consonants that have both the voiced and unvoiced variant present in the phonology, the voiced variant of the consonant has a vertical stroke on the left side of the character. The stroke falls through the vowel section of the character, making the consonant surround the left side of the vowel along with whatever other sides are covered by the unvoiced consonant.
 # Parts of Speech
 There are 5 parts of speech in Majel: nouns, adjectives, verbs, prepositions, and particles. Nouns are just that, people, places, things, or ideas. Pronouns are grouped in with nouns as they act the same. Adjectives are describing words, for either a noun or verb. Verbs are action words, they describe what the subject is doing. Prepositions were derivative of SR particles and relate a noun to an action. You can eat food, and you can do that **on** the beach. Particles are much more complicated, there being multiple types of particles. All of them give context to sentences in different ways. Sentence relation (SR) particles can be used to describe how one sentence is related to the next. Mood marking (MM) particles mark the grammatical mood of the verb in a clause.
-
 ## Prepositions
-All verbs in Majel take only a direct object. To extend the object clause, you can add a preposition and a another verb or noun (I eat food __with__ you). This comes from a simplification from older Majel where the conjunction would be placed between sentences, forming ".I eat food. with. you." (mi povo po. ;joi;. ti. -> mi povo po joi ti.). To add more of these clause extensions, simply add more prepositions separating them.
+All verbs in Majel take only a direct object. To extend the object clause, you can add a preposition and a another verb or noun (I eat food __with__ you). This comes from a simplification from older Majel where the SR particle would be placed between sentences, forming ".I eat food. with. you." (mi povo po. ;joi;. ti. -> mi povo po joi ti.). To add more of these clause extensions, simply add more prepositions separating them.
 # Root Words
 With the 16 main consonants (the first 16) and 5 vowels, you can make 80 syllables of the CV format. These syllables are called the "mono root words", or simply, "mono roots". They are also called group 1 roots. Each one has a definition, and all words are derived in one way or another from these root words, except the words themselves of course.
 ## Group 2 Roots
@@ -56,4 +55,4 @@ Suffixes are used to turn a word from a noun into another part of speech (except
 
 Though there are a few suffixes that are used commonly, but artistically, any word can be used as a suffix, as long as it makes sense.
 # Syntax
-Majel follows a strict "Subject Verb Object" (SVO) word ordering. This is like what it sounds like, the subject goes first, then the verb, then the object. All [[#Prepositions]] 
+Majel follows a strict "Subject Verb Object" (SVO) word ordering. This is like what it sounds like, the subject goes first, then the verb, then the object. All [[#Prepositions]] must come after the original subject object and verb as they are additions to the sentence.

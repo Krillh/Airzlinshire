@@ -20,3 +20,4 @@ And so, the legend of Lara, the majik user who cast without movement, was passed
 
 gi lara deivo go zoxe drazdun. ma devo joi di go maito. gi rifie qorai mafavogi roi gi fievo zixerite bua. gi buavo mavo qe gese.
 
+gi larate di devo 

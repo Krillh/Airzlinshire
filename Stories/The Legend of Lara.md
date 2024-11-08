@@ -17,3 +17,6 @@ Without a single movement, Lara summoned the rains. Dark clouds gathered overhea
 From that day forward, Lara was no longer seen as an insignificant figure. Her quiet majik had saved the kingdom, and she became a symbol of hope and humility. The people of Drazdun learned that true power did not always come with grand gestures and displays, but could be found in the quiet strength of a humble heart.
 
 And so, the legend of Lara, the majik user who cast without movement, was passed down through generations, a timeless tale of quiet strength and the power of the unseen.
+
+gi lara deivo go zoxe drazdun. ma devo joi di go maito. gi rifie qorai mafavogi roi gi fievo zixerite bua. gi buavo mavo qe gese.
+

@@ -6,7 +6,12 @@ Lattice Theory is a theory of life that describes life in terms of majik manipul
 In Lattice Theory, a Majik Lattice is a collection of string, or thread, shaped pieces of ethyr that wrap and weave around each other that can cause certain Majik Manipulations when agitated by Majik energy. The specific manipulation caused depends on the nature of the contact point. The energy travels through the *threads* and is released at these connections, called *knots*.
 
 >[!note] Knot vocab:
-> - Knot behavior: shape, intensity, frequencies, and speed of the energy released from the knot, along with the amount and frequencies of energy transmitted to outgoin
+> - **Active thread**: a thread that has Majik energy flowing through it.
+> - **Inactive thread**: a thread without Majik energy flowing through it.
+> - **Reaction**: an event where a knot receives energy and may release some.
+> - **Ingoing thread**: an active thread in a knot during a reaction.
+> - **Outgoing thread**: an inactive thread in a knot during a reaction.
+> - **Knot behavior**: shape, intensity, frequencies, and speed of the energy released from the knot, along with the amount and frequencies of energy transmitted to outgoing threads.
 ## Threads
 A thread is a piece of ethyr that resembles a thread shape. It is what wraps around other threads to make *knots*. Majik energy travels through threads to different parts of a lattice. Threads can be made of different frequencies of ethyr. Different frequencies will affect how Majik energy travels through the thread and how it behaves with other threads.
 

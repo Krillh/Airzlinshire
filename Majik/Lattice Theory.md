@@ -13,15 +13,15 @@ In Lattice Theory, a Majik Lattice is a collection of string, or thread, shaped 
 > - **Outgoing thread**: an inactive thread in a knot during a reaction.
 > - **Knot behavior**: shape, intensity, frequencies, and speed of the energy released from the knot, along with the amount and frequencies of energy transmitted to outgoing threads.
 ## Threads
-A thread is a 1 dimensional piece of ethyr with a length. It is what wraps around other threads to make *knots*. Majik energy travels through threads to different parts of a lattice. Threads can be made of different frequencies of ethyr. Different frequencies will affect how Majik energy travels through the thread and how it behaves with other threads.
+A *thread* is a 1 dimensional piece of ethyr with a length. It is what wraps around other threads to make *knots*. Majik energy travels through threads to different parts of a *lattice*. *Threads* can be made of different frequencies of ethyr. Different frequencies will affect how Majik energy travels through the *thread* and how it behaves with other *threads*.
 
-With use, threads will degrade, loosen, and eventually break. Threads with more tension will degrade slower, but are more difficult to change.
+With use, *threads* will degrade, loosen, and eventually break. *Threads* with more tension will degrade slower, but are more difficult to change.
 ## Knots
-*Knots* are where *threads* interact. Because threads have no width, knots don't either. When Majik energy traveling through threads reaches a knot, it creates turbulence and the energy escapes in extremely predictable patterns, given the same input. Though, there are many variables that affect the *knot behavior*. It can be difficult to predict what the *behavior* will be by calculation for even lightly complex *knots*.
+*Knots* are where *threads* interact. Because threads have no width, *knots* don't either. When Majik energy traveling through threads reaches a *knot*, it creates turbulence and the energy escapes in extremely predictable patterns, given the same input. Though, there are many variables that affect the *knot behavior*. It can be difficult to predict what the *behavior* will be by calculation for even lightly complex *knots*.
 
-Similar to *threads*, knots' tension matters. In this case, the tension of the knot can affect it's *behavior* and has a similar effect as threads where higher tension is more robust, but less malleable. The tension of a knot is determined by the tension of the threads that make it up.
+Similar to *threads*, *knots'* tension matters. In this case, the tension of the *knot* can affect it's *behavior* and has a similar effect as *threads* where higher tension is more robust, but less malleable. The tension of a *knot* is determined by the tension of the *threads* that make it up.
 
-Knots will also repel each other proportionally to the 
+Knots will also repel each other. This repelling force is dependent on the amount of energy released by the *knot* on reaction.
 
 ## Lattice Shape
-The shape of a lattice is determined by the shape with the lowest energy during a reaction. The energy traveling though a *thread* wants to make the thread as straight as possible. This force is what causes tension in threads
+The shape of a *lattice* is determined by the shape with the lowest energy during a *reaction*. The energy traveling though a *thread* wants to make the *thread* as straight as possible. This force is what causes tension in *threads*

@@ -21,5 +21,7 @@ With use, threads will degrade, loosen, and eventually break. Threads with more 
 
 Similar to *threads*, knots' tension matters. In this case, the tension of the knot can affect it's *behavior* and has a similar effect as threads where higher tension is more robust, but less malleable. The tension of a knot is determined by the tension of the threads that make it up.
 
+Knots will also repel each other proportionally to the 
+
 ## Lattice Shape
 The shape of a lattice is determined by the shape with the lowest energy during a reaction. The energy traveling though a *thread* wants to make the thread as straight as possible. This force is what causes tension in threads

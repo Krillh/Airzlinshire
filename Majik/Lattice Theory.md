@@ -16,17 +16,17 @@ In Lattice Theory, a Majik Lattice is a collection of string, or thread, shaped 
 A thread is a 1 dimensional piece of ethyr that resembles a thread shape. It is what wraps around other threads to make *knots*. Majik energy travels through threads to different parts of a lattice. Threads can be made of different frequencies of ethyr. Different frequencies will affect how Majik energy travels through the thread and how it behaves with other threads.
 
 With use, threads will degrade, loosen, and eventually break. Threads with more tension will degrade slower, but are more difficult to change.
-
 ## Knots
 *Knots* are where *threads* interact. Because threads have no width, knots don't either. When Majik energy traveling through threads reaches a knot, it creates turbulence and the energy escapes in extremely predictable patterns, given the same input. Though, there are many variables that affect the *knot behavior*. It can be difficult to predict what the *behavior* will be by calculation for even lightly complex *knots*.
 
-Similar to *threads*, knots' tension matters. In this case, the tension of the knot can affect it's *behavior* and has a similar effect as threads where higher tension is more robust, but less malleable. The tension of a knot is determined by the tension of the threads that make it up, along with it's level of compactness.
+Similar to *threads*, knots' tension matters. In this case, the tension of the knot can affect it's *behavior* and has a similar effect as threads where higher tension is more robust, but less malleable. The tension of a knot is determined by the tension of the threads that make it up.
 
 variables that effect a knot's behavior:
-- for each of the threads coming in:
+- for each of the threads:
 	- tension
 	- frequency
 	- relative angle
 	- shape of interaction
 - knot tension
-- size
+
+## LAtt

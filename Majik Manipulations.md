@@ -1,0 +1,1 @@
+Majik Manipulations are a methodical way to describe the effect majik has on the world. They 

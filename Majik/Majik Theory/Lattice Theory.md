@@ -25,3 +25,6 @@ Knots will also repel each other. This repelling force is dependent on the amoun
 
 ## Lattice Shape
 The shape of a *lattice* is determined by the shape with the lowest energy during a *reaction*. The energy traveling though a *thread* wants to make the *thread* as straight as possible. This force is what causes tension in *threads*.
+
+## Lattices in People
+People have a majik lattice in them that dictates many things about them. They use this lattice to perform [[Majik Manipulations]] around them. It has entry points in the brain that can be activated by neurons. These lattices are extremely large and complex. They also have very little tension, making it so they can be easily affected and altered. Lattices with 

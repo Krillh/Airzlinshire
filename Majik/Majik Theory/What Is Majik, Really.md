@@ -8,7 +8,7 @@ There are only 2 real elements (kind of) of majik: elemental majik and corrupt m
 > [!note]
 > The fact that majik can appear as matter is well known by the people of [[Airzlinshire]], but the idea of ethyr and the specifics are unknown.
 
-Majik has the capacity to materialize into a matter form under some circumstances. It can exist in the 3 basic states of matter, solid, liquid, & gas. It typically exists in a 4th state called ethyr (EH-thr). In the ethyr state, it doesn't interact with the world itself, but it can be manipulated and the matter that is in the same physical space will be affected. That is what [[Majik#How do People Use it|majik manipulation]] is. Majik will, at a certain temperature and/or pressure, materialize into gas. Then it can undergo condensation or deposition into liquid or solid forms, respectively. When gaseous majik goes to ethyr, this is called ethyrization.
+Majik has the capacity to materialize into a matter form under some circumstances. It can exist in the 3 basic states of matter, solid, liquid, & gas. It typically exists in a 4th state called ethyr (EH-thr). In the ethyr state, it doesn't interact with the world itself, but it can be manipulated and the matter that is in the same physical space will be affected. That is what [[Majik Manipulations|majik manipulation]] is. Majik will, at a certain temperature and/or pressure, materialize into gas. Then it can undergo condensation or deposition into liquid or solid forms, respectively. When gaseous majik goes to ethyr, this is called ethyrization.
 
 > [!tip] 
 >ethyr → gas (*materialization*)
@@ -25,7 +25,6 @@ Materialized majik is not found in nature except in the coldest environments or 
 The [[The Royal Order of the Monus Tome Monks|Tome Monks]] live at the top of [[The Monus Mountains]], a place where majik is constantly materialized into a gas. The monks breathe in the gaseous majik and it ethyrizes in their bodies, causing them to absorb the majik energy. Even sometimes it gets so cold that the majik condenses into a mist. This is what makes [[The Royal Order of the Monus Tome Monks#The Night of Colored Mist|The Night of Colored Mist]].
 
 When someone breathes in gaseous majik, the higher temperature inside the body makes it ethyrize and absorb into the person.
-# Majik Manipulations
-As mentioned earlier, majik manipulations are when someone manipulates the majik ethyr and it affects the mass that it is contained in. This can also be achieved with majik lattices. In fact, the brain has majik lattices within it. These are extremely small, yet complex ones. They are programs that take in many inputs to produce some majik manipulations around them. It is through these that people are able to use majik. With neurons as entry points, they can control majik manipulations with much greater flexibility. These are called "dynamic lattices", while tomes contain "static lattices".
+
 ## The Problem
 If a person can only manipulate majik, and make lattices, through having a complete dynamic lattice, how did people get a lattice to begin with? This problem of origin is one yet unsolved. One theory is that there was a majik lattice that makes other lattices and that found it's way into a person at some point. It triggers when someone gives birth, putting one into the child. It is thought that it wasn't perfect and had some random variation and one time, produced a lattice that could also be controlled by the child.

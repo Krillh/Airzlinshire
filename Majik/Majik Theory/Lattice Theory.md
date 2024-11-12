@@ -24,4 +24,4 @@ Similar to *threads*, *knots'* tension matters. In this case, the tension of the
 Knots will also repel each other. This repelling force is dependent on the amount of energy released by the *knot* on reaction.
 
 ## Lattice Shape
-The shape of a *lattice* is determined by the shape with the lowest energy during a *reaction*. The energy traveling though a *thread* wants to make the *thread* as straight as possible. This force is what causes tension in *threads*
+The shape of a *lattice* is determined by the shape with the lowest energy during a *reaction*. The energy traveling though a *thread* wants to make the *thread* as straight as possible. This force is what causes tension in *threads*.

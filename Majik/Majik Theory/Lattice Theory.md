@@ -1,3 +1,5 @@
+#Majik #Lattice
+
 > [!warning] 
 > The information on this page is not known by anyone in the world of Airzlinshire.
 

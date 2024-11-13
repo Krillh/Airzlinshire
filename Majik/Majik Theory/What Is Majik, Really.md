@@ -1,9 +1,11 @@
+#Majik
+
 > [!warning] 
 > The information on this page is not known in full by anyone in the world of Airzlinshire. Some research indicates to some of this information but only very little.
 
 At the core, majik is something between matter and energy. It is both, in a way. It can be used as energy, but it can also have mass and take up space and can be moved by energy. In fact, it can be manipulated by the very energy that it is.
 # Elements
-There is only 1 real element of majik. All the "elements" are just different frequencies of majik energy. Not all types of majik corrospond to a unique f
+There is only 1 real element of majik. All the "elements" are just different frequencies of majik energy. Not all types of majik correspond to a unique frequency, either. Both [[Light Majik|light]] and [[Dark Majik|dark]] majik affect the heat and light frequency, just in different ways.
 # Majik Materialization
 > [!note]
 > The fact that majik can appear as matter is well known by the people of [[Airzlinshire]], but the idea of ethyr and the specifics are unknown.

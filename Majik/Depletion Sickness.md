@@ -1,3 +1,5 @@
+#Majik #Illness
+
 Depletion Sickness (Majik Depletion Sickness) is when someone uses all or nearly all their majik stores. Common symptoms include:
 - Loss of consciousness
 - Extreme lack of energy / tiredness

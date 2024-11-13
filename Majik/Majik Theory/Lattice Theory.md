@@ -22,10 +22,8 @@ With use, *threads* will degrade, loosen, and eventually break. *Threads* with m
 Similar to *threads*, *knots'* tension matters. In this case, the tension of the *knot* can affect it's *behavior* and has a similar effect as *threads* where higher tension is more robust, but less malleable. The tension of a *knot* is determined by the tension of the *threads* that make it up.
 
 Knots will also repel each other. This repelling force is dependent on the amount of energy released by the *knot* on reaction.
-
 ## Lattice Shape
 The shape of a *lattice* is determined by the shape with the lowest energy during a *reaction*. The energy traveling though a *thread* wants to make the *thread* as straight as possible. This force is what causes tension in *threads*.
-
 ## Lattices in People
 People have a majik *lattice* in them that dictates many things about them. They use this *lattice* to perform [[Majik Manipulations]] around them. It has entry points in the brain that can be activated by neurons. These lattices are extremely large and complex. They also have very little tension, making it so they can be easily affected and altered. *Lattices* with these low tension levels are often called "dynamic lattices" while *lattices* with higher tension levels are often considered to be "static lattices".
 

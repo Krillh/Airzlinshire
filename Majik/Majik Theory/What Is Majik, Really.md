@@ -3,7 +3,7 @@
 
 At the core, majik is something between matter and energy. It is both, in a way. It can be used as energy, but it can also have mass and take up space and can be moved by energy. In fact, it can be manipulated by the very energy that it is.
 # Elements
-There are only 2 real elements (kind of) of majik: elemental majik and corrupt majik. All of the elements are simply different specific frequencies of elemental majik. Even corrupt majik is just elemental majik where the oscillation is rotated 90 degrees about the x axis to oscillate in the z axis.
+There is only 1 real element of majik. All the "elements" are just different frequencies of majik energy. Not all types of majik corrospond to a unique f
 # Majik Materialization
 > [!note]
 > The fact that majik can appear as matter is well known by the people of [[Airzlinshire]], but the idea of ethyr and the specifics are unknown.

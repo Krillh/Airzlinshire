@@ -1,9 +1,9 @@
 > [!warning] 
-> The information on this page is not known in full by anyone in the world of Airzlinshire. Some research indicates to some of this information but only very little.
+> The information on this page is not known by anyone in the world of Airzlinshire.
 
-Lattice Theory is a theory of life that describes life in terms of majik manipulations and Majik Lattices. It is important to note that lattices are simply objects used to describe a phenomenon, and not necessarily reality the same way position isn't necessarily a vector, that's just the mathematical object used to describe it.
+Lattice Theory is a theory of life that describes life in terms of [[Majik Manipulations]] and Majik Lattices. It is important to note that *lattices* are simply objects used to describe a phenomenon, and not necessarily reality the same way position isn't necessarily a vector, that's just the mathematical object used to describe it.
 
-In Lattice Theory, a Majik Lattice is a collection of string, or thread, shaped pieces of ethyr that wrap and weave around each other that can cause certain Majik Manipulations when agitated by Majik energy. The specific manipulation caused depends on the nature of the contact point. The energy travels through the *threads* and is released at these connections, called *knots*.
+In Lattice Theory, a Majik Lattice is a collection of string, or *thread*, shaped pieces of ethyr that wrap and weave around each other that can cause certain [[Majik Manipulations]] when agitated by Majik energy. The specific manipulation caused depends on the nature of the contact point. The energy travels through the *threads* and is released at these connections, called *knots*.
 
 >[!note] Knot vocab:
 > - **Active thread**: a thread that has Majik energy flowing through it.
@@ -27,4 +27,6 @@ Knots will also repel each other. This repelling force is dependent on the amoun
 The shape of a *lattice* is determined by the shape with the lowest energy during a *reaction*. The energy traveling though a *thread* wants to make the *thread* as straight as possible. This force is what causes tension in *threads*.
 
 ## Lattices in People
-People have a majik lattice in them that dictates many things about them. They use this lattice to perform [[Majik Manipulations]] around them. It has entry points in the brain that can be activated by neurons. These lattices are extremely large and complex. They also have very little tension, making it so they can be easily affected and altered. Lattices with 
+People have a majik *lattice* in them that dictates many things about them. They use this *lattice* to perform [[Majik Manipulations]] around them. It has entry points in the brain that can be activated by neurons. These lattices are extremely large and complex. They also have very little tension, making it so they can be easily affected and altered. *Lattices* with these low tension levels are often called "dynamic lattices" while *lattices* with higher tension levels are often considered to be "static lattices".
+
+As a result of this dynamic nature, the *lattice* in a person can be affected by their actions.

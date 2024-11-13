@@ -5,7 +5,7 @@ Welcome to the [[Airzlinshire]] wiki! Here is all the information about the fant
 
 Starting Points:
 - [[Airzlinshire]]: read about the Airzlinshire Project.
-- [[People]]: read about the different species of people in Airzlinshire.
+- [[Peoples]]: read about the different species of people in Airzlinshire.
 - [[Majik]]: read about the magic system of Airzlinshire.
 - Check out some of the kingdoms:
 	- [[Drazdun Kingdom]]

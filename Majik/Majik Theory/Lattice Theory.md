@@ -29,4 +29,7 @@ The shape of a *lattice* is determined by the shape with the lowest energy durin
 ## Lattices in People
 People have a majik *lattice* in them that dictates many things about them. They use this *lattice* to perform [[Majik Manipulations]] around them. It has entry points in the brain that can be activated by neurons. These lattices are extremely large and complex. They also have very little tension, making it so they can be easily affected and altered. *Lattices* with these low tension levels are often called "dynamic lattices" while *lattices* with higher tension levels are often considered to be "static lattices".
 
+> [!note]
+>There are generally 3 stages to learning to use majik. Stage 1 is learning your lattice. You learn what neural pathways can cause what manipulations around you. Most people never leave this stage. Stage 2 is altering your majik lattice in random ways by altering yourself physically. Stage 3 is changing the way you think, your neural pathways, to optimize use of your lattice
+
 As a result of this dynamic nature, the *lattice* in a person can be affected by their actions.

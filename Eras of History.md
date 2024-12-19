@@ -16,7 +16,7 @@ The discovery of Bronze and Iron happened in quick succession, both of them arou
 A few years before [[The First Kingdom Civil War]], after the iron oppression by the Capital, a person figured out that they could make their fire hotter using their mind. They simply needed to make certain movements and imagine certain things and they could turn a simple fire into a raging blaze. They brought this to the leader of the city, claiming it could be a learned skill, and over the next few years, mastered their majik and taught some soldiers how to use it too. This was the discovery of [[Light Majik]]. Using this, they enabled the small armies of all the other cities to overpower the Capital, despite them outnumbering and out skilling them while also having much better equipment due to owning all the iron.
 
 This marked the beginning of the Early Majik Era, a time of leaps and bounds in majik discovery. The cities all constantly fought for control of the [[Windy Cliffs]] and it's iron. It kept changing hands with new discoveries in majik leading to new war strategies.
+
+Overpopulation was a major problem and there was simply not enough space to feed all the people crammed into the [[Livable Region]]. All the cities were investing in exploration, people traveling north and south to find a way around the mountain, or east, trying to go over the mountain. Not many people made it back, and those who did returned so they could survive.
 ## The Exploration Era
-The Exploration Era begins when civilization finally was able to expand past the [[Livable Region]]. The frost had thawed enough to go around the north
-## The Middle Majik Era
-The Middle Majik Era is when the use of majik became widespread. It was taught in classes run by 
+The Exploration Era begins when civilization finally was able to expand past the [[Livable Region]]. The frost had thawed enough to go over the natural mountain pass to the east side of the mountain range. This led to a mass migration as people went out to start a new life. Some time after this, a boat sails to the [[Central Continent]]

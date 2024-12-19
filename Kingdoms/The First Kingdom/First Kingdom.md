@@ -1,4 +1,4 @@
-#FirstKingdom 
+#Kingdoms #FirstKingdom #MetalsEra 
 
 The First Kingdom was, as the name implies, the first appearance of a kingdom in Airzlinshire history.
 ## Formation

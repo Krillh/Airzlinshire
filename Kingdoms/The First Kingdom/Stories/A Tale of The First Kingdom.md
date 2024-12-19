@@ -1,3 +1,5 @@
+#Myth 
+
 ```
 In the time of yore, upon a great flat rock, stood a fort, the genesis of what would become the First Kingdom. A mere 25 souls called this place home, divided into three distinct groups: the leader, the leader’s assistants, and the common folk. The leader, a being of immense majik power, was said to have formed the fort from the rock with but a flick of their wrist.
 

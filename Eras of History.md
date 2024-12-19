@@ -1,4 +1,4 @@
-#History #Peoples #SimpleEra #CopperEra #MetalsEra #EarlyMajikEra 
+#History #Peoples #SimpleEra #CopperEra #MetalsEra #MajikEra #ExplorationEra #GrowthEra
 
 The history of civilization has many eras, each one started by a major shift.
 
@@ -20,5 +20,5 @@ This marked the beginning of the Early Majik Era, a time of leaps and bounds in 
 Overpopulation was a major problem and there was simply not enough space to feed all the people crammed into the [[Livable Region]]. All the cities were investing in exploration, people traveling north and south to find a way around the mountain, west to see if anything's there, or east, trying to go over the mountain. Not many people made it back, and those who did returned so they could survive.
 ## The Exploration Era
 The Exploration Era begins when civilization finally was able to expand past the [[Livable Region]]. The frost had thawed enough to go over the natural mountain pass to the east side of the mountain range. This led to a mass migration as people went out to start a new life. Some time after this, a boat sails to the [[Central Continent]], sets up camp for a few days, and sails back.
-## The Reform Era
-With people spread out around the world, 
+## The Growth Era
+With people spread out around the world, many communities of different sizes formed. They eventually combined to make the kingdoms as they are today.

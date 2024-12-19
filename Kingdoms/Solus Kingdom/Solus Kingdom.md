@@ -1,4 +1,4 @@
-#Kingdoms #Solus
+#Kingdoms #Solus #GrowthEra 
 
 The Solus Kingdom is the largest kingdom by both land and population.
 

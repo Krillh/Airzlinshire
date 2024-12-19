@@ -11,4 +11,4 @@ After a few months of military rule by their capital, a craftsman from [[Lam Cit
 
 Along with the discovery of majik, a new way of writing had been taking traction outside of [[Vag City]], [[Majel]]. It was in fact a whole new language. It was easier to learn to write with and so more people could use it. This enabled more people to communicate and coordinate. Ideas and plans spread quickly. Additionally, there wasn't enough time for people from [[Vag City]] to learn how to read this new language and despite their best efforts, they didn't make sense of it soon enough.
 
-One morning, all planned out, 
+One morning, all planned out, majik using soldiers from [[Lam City]] spearheaded 2 attacks, one from the north and one from the south. They used light majik to burn Vag's soldiers' eyes and set the city ablaze with the hottest fire anyone from Vag had ever seen. They didn't leave anything left. Lam soldiers took shifts making the fire hot until the city was nearly gone by evening the next day.

@@ -7,4 +7,6 @@ There was little protest from the other cities for 2 primary reasons. First, the
 
 Tensions were high, so when [[Vag City]] started levying taxes on the other cities, people were furious. They would have fought back if they could, but they were threatened with iron swords and armor. Their bronze was no match.
 
-After a few months of military rule by their capital, a craftsman from Lam City discovered that they could use [[Light Majik]] to increase the intensity of a flame. They went to the leader and proposed that it was a lea
+After a few months of military rule by their capital, a craftsman from Lam City discovered that they could use [[Light Majik]] to increase the intensity of a flame. They went to the leader and proposed that it was a learned skill and that if they could teach the army, that might be the edge they need to win. The leader agreed to let the craftsman teach a small group of soldiers, and within 3 weeks, they could also do the same thing, and more. With hope now, those soldiers taught more, and more, until the whole army could use basic [[Light Majik]].
+
+Along with the discovery of majik, a new way of writing had been taking traction outside of [[Vag City]]. It was easier to learn and so more people could use it

@@ -1,11 +1,30 @@
 - [ ] Document [[Gar]]
+	- [ ] make a dictionary
+	- [ ] 
 - [ ] Clean up and get feedback on [[Eras of History]]
 - [ ] Make some plants for [[Flora]]
 	- [ ] 2 cereal grains
-	- [ ] 4 berry bushes
-	- [ ] 3 trees
+	- [ ] 2 edible berry bushes with
+	- [ ] 2 poisonous berry bushes
+	- [ ] 3 non-fruit trees
+	- [ ] 2 trees with fruit
 	- [ ] 1 vine
-	- [ ] 2 grasses
-	- [ ] 2 tubers
-	- [ ] 
+	- [ ] 1 tall grass
+	- [ ] 1 short grass
+	- [ ] 1 starchy tuber
+	- [ ] 2 root vegetables
+	- [ ] 4 other vegetables
 - [ ] Make some animals for [[Fauna]]
+	- [ ] 2 mouse things
+	- [ ] 2 small birds
+	- [ ] 1 medium bird
+	- [ ] 1 predatory bird
+	- [ ] 1 small fish
+	- [ ] 2 medium fish
+	- [ ] 2 cow things, maybe like bison or ox
+	- [ ] 1 cat predator
+	- [ ] 1 dog predator
+	- [ ] 1 ant thing
+	- [ ] 2 beetle things
+	- [ ] 1 worm thing
+- [ ] 

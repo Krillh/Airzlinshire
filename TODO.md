@@ -34,8 +34,11 @@
 	- [ ] 2 beetle things
 	- [ ] 1 worm thing
 - [ ] Expand information on the [[First Kingdom]]
+- [ ] Write about the [[Solus Kingdom]]
+- [ ] Expand information on the [[Monus Kingdom]]
 - [ ] Document the cities of the Copper Era (see [[Ziiv Contract]] for names)
 	- [ ] update the [[Ziiv Contract]] with city names
+	- [ ] document differing 
 - [ ] Add more terms to the [[Ziiv Contract]]
 - [ ] Document more locations
 	- [ ] Some ruins sites of the [[First Kingdom]]
@@ -55,14 +58,17 @@
 		- [ ] Leader of a city before and after the [[Ziiv Contract]]
 		- [ ] A rich person from [[Vag City]] before the [[Ziiv Contract]]
 		- [ ] A rich person from a city bordering [[Vag City]]before the [[Ziiv Contract]]
-	- [ ] Majik Era
+	- [ ] Early Growth Era
 		- [ ] One of the first to travel over the mountain pass
 		- [ ] Someone who went over the mountain pass later with family
 		- [ ] One of the sailors on the first voyage to the [[Central Continent]]
 		- [ ] One of the first settlers of the [[Central Continent]]
 		- [ ] Someone on the first voyage to the [[Star Continent]]
 		- [ ] One of the first settlers of the [[Star Continent]]
+	- [ ] Late Growth Era
+		- [ ] Letters to family from a [[The Royal Order of the Monus Tome Monks|Tome Monk]]
+		- [ ] Diary of a commoner from each kingdom
 - [ ] Religion
 	- [ ] Early religion
-	- [ ] What about today?
-- [ ] Separate 
+	- [ ] What about in the 7 kingdoms?
+- [ ] Separate all the documentation from existing at a certain point in time to future proof. maybe the 7 kingdoms will be history at some point.

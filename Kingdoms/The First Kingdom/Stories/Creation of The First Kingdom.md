@@ -1,6 +1,6 @@
 #Myth 
 
-This is a collection of short stories about the creation of [[First Kingdom]]. The authors are unknown, but these documents are expected to be from the time not long after the [[Overthrowing of The First Kingdom]].
+This is a collection of short stories about the creation of [[First Kingdom]]. The authors are unknown, but these documents are expected to be from the time not long after the [[First Kingdom Civil War]].
 
 Story 1:
 ```

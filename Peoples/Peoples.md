@@ -22,7 +22,7 @@ Fayons often pick up [[Life Majik]] from a young age, not needing much instructi
 ## Humans
 [[Humans]] are naturally very expressive and emotional beings. They can make extremely strong bonds and are some of the most versatile and (idk the word, like hardy or smth?) species of person. They can handle and adapt incredibly well. [[Humans]] are the most widespread species due to this fact. They live around 75 years and are the baseline for maturity rates.
 
-[[Humans]] appear in all sorts of jobs since they're so adaptable, but most artistic jobs 
+[[Humans]] appear in all sorts of jobs since they're so adaptable, but most artistic jobs are filled by [[Humans]].
 ## Leyuas
 [[Leyuas]] naturally have a large brain capacity. Their bodies spend more nutrients expanding their brain than their body. This mean that leyuas are not very physically adept, but they have high levels of neuroplasticity. They learn very fast and have excellent memories. They often are more adept at majik, but can't risk the physical afflictions of overexerting much.
 

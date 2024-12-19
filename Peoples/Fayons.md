@@ -1,4 +1,4 @@
-#Peoples #Fayons
+#Peoples 
 
 Fayons are very pacifist type of people. They are about 1.4 meters (4.5 feet) tall and live for roughly 170 years. fayons often live in houses made into the ground or in tree houses. Very few fayons live in towns and cities. Although, the houses of those who do live in towns are often filled with plants and, if they can, animals. Most fayons that work are merchants of spices and rare herbs, since they have great knowledge of the forests. Fayons that do work usually chose to care for people in a hospital or become botanists. Fayons are quiet and timid, rarely speaking up. But, whenever they do, it's often important.
 

@@ -80,5 +80,7 @@
 	- [ ] Survivors
 		- [ ] Rename
 	- [ ] Humans
-		- [ ] Get rid of?
+		- [ ] Rename
+		- [ ] Make more unique
 	- [ ] Leyuas
+- [ ] 

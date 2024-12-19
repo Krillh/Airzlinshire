@@ -2,6 +2,10 @@
 	- [ ] make a reference grammar
 	- [ ] make a dictionary
 	- [ ] make a writing system
+- [ ] Document the history of writing
+	- [ ] How did they write [[Gar]]?
+	- [ ] Who was able to write [[Gar]], only the rich?
+	- [ ] When was [[Majel]] made? Maybe it aided in the fall of the [[First Kingdom]]?
 - [ ] Clean up and get feedback on [[Eras of History]]
 - [ ] Make some plants for [[Flora]]
 	- [ ] 2 cereal grains
@@ -35,6 +39,9 @@
 - [ ] Document more locations
 - [ ] Make some people's diaries
 	- [ ] #MetalsEra 
-		- [ ] Supreme leader of the First Kingdom
-		- [ ] A rich person from Vag before the Ziiv Contract.
-		- [ ] A rich person from a city bordering Vag bef
+		- [ ] Supreme leader of the [[First Kingdom]]
+		- [ ] Leader of a city before and after the [[Ziiv Contract]]
+		- [ ] A rich person from [[Vag City]] before the [[Ziiv Contract]]
+		- [ ] A rich person from a city bordering [[Vag City]]before the [[Ziiv Contract]]
+	- [ ] #MajikEra 
+		- [ ] One of the first to travel over the 

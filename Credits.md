@@ -1,2 +1,5 @@
 - Founder: Kirill H
-- Writer: McClellan H
+
+## Partners
+- McClellan H
+- 

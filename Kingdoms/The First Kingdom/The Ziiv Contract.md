@@ -13,3 +13,7 @@ The Ziiv Contract was a contract that combined all the cities in [[The Livable R
 0. Farmlands shall be shared equitably among the cities to ensure everyone has enough food. Farmers will be allowed to cultivate land within reasonable distance to their city.
 1. Water locations shall be managed collectively. This includes rivers and wells. A committee shall oversee the equitable sharing and maintenance of these locations.
 2. The discovery and mining of copper and other mined resources shall be regulated to help the entire Kingdom. Profits and materials shall be distributed based on the contribution and needs of each city.
+
+**Section 2:** Trade
+0. A combined market system shall be made. This allows for easy flow of resources and help between cities. Taxes shall be made to help fair trade.
+1. Artisans and craftsmen shall be encouraged to share their skills and knowledge, fostering innovation and economic growth across the Kingdom.

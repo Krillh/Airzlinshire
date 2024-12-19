@@ -3,7 +3,9 @@
 The history of civilization has many eras, each one started by a major shift.
 
 ## The Simple Era
-The Simple Era spanned from possibly before year 0 to around year 19,968 (.l.. lll. .... ....). The planet had just begun to thaw from the [[Great Ice Age]], allowing people to live out of caves year round. People had just learned how to plant food, and made the first tribes. These peoples were located near the equator on the western coast of the Solus Continent. Over time, as the world thawed more, they migrated north and south.
+The Simple Era spanned from possibly before year 0 to around year 19,968 (.l.. lll. .... ....). The planet had just begun to thaw from the [[Great Ice Age]], allowing people to live out of caves year round. People had just learned how to plant food, and made the first tribes. These peoples were located near the equator on the western coast of the Solus Continent. Over time, as the world thawed more, they migrated north and south. Tribes' borders were very lose and for the most part, people got along well across tribes. Everyone was simply trying to survive the harsh conditions of a post-ice age.
+
+The language [[Gar]] was t
 ## The Copper Era
 The Copper Era extends from roughly 19,968 to 22016 (.l.l .ll. .... ....). The discovery of copper was groundbreaking, and altered society heavily. Over the course of 2048 (.l.. .... ....) years, copper was used to make tools, weapons, some structures, and much more.
 
@@ -13,4 +15,4 @@ The discovery of Bronze and Iron happened in quick succession, both of them arou
 ## The Early Majik Era
 A few years before [[The First Kingdom Civil War]], after the iron oppression by the Capital, a person figured out that they could make their fire hotter using their mind. They simply needed to make certain movements and imagine certain things and they could turn a simple fire into a raging blaze. They brought this to the leader of the city, claiming it could be a learned skill, and over the next few years, mastered their majik and taught some soldiers how to use it too. This was the discovery of [[Light Majik]]. Using this, they enabled the small armies of all the other cities to overpower the Capital, despite them outnumbering and out skilling them while also having much better equipment due to owning all the iron.
 
-This marked the beginning of the Early Majik Era, a time of leaps and bounds in majik discovery. The cities all constantly fought for control of the [[Windy Cliffs]] and it's iron. It kept changing hands w
+This marked the beginning of the Early Majik Era, a time of leaps and bounds in majik discovery. The cities all constantly fought for control of the [[Windy Cliffs]] and it's iron. It kept changing hands with new discoveries in majik leading to new war strategies.

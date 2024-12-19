@@ -1,7 +1,7 @@
 Welcome to the [[Airzlinshire]] wiki! Here is all the information about the fantasy world of [[Airzlinshire]].
 
 > [!important] 
-> All pages in this wiki contain information that the people of the world of Airzlinshire know unless stated otherwise. Some information is yet undiscovered by the people from this world. This can be done as a note like this, or as a classification if it's a document. It is important that as a creator to represent the knowledge of the world accurately. 
+> Nearly all information here is from the perspective of the people of Airzlinshire, and would simply be a 
 
 Starting Points:
 - [[Airzlinshire]]: read about the Airzlinshire Project as a whole.

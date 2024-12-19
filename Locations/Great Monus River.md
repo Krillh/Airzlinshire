@@ -14,4 +14,4 @@ At some point, the lower river was dug to decrease it's width. This was largely 
 #### The Lower River Before
 The river was 33.98 km wide before the expansion. That is about 8.12 times wider than it is now. It had a cross-sectional are of about 1,359,000 square meters, and had a speed of 0.094 meters per second.
 ## The Monus River Delta
-The Monus River has a pretty small delta for it's size. This is mostly due to terraforming of the delta to mak
+The Monus River has a pretty small delta for it's size. This is mostly due to gradual terraforming of the delta to make more space for living.

@@ -1,4 +1,4 @@
-#Kingdoms #Monus #GrowthEra 
+#Kingdom #Monus #GrowthEra 
 
 > [!attention] 
 > Under Construction -> *not usable yet*

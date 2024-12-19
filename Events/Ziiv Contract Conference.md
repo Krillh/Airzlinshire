@@ -1,4 +1,4 @@
-#MetalsEra #FirstKingdom #Event 
+#Event #MetalsEra #FirstKingdom
 
 **Date:** 21,778-5-18 (.l.l .l.l ...l ..l. ~ l.l ~ l. .l.)
 **Location:** Neutral territory north of [[Vag City]]

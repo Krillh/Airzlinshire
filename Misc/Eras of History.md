@@ -1,4 +1,5 @@
-#History #Peoples #SimpleEra #CopperEra #MetalsEra #MajikEra #ExplorationEra #GrowthEra
+#Peoples 
+#SimpleEra #CopperEra #MetalsEra #MajikEra #ExplorationEra #GrowthEra
 
 The history of civilization has many eras, each one started by a major shift.
 

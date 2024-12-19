@@ -1,4 +1,4 @@
-#FirstKingdom #Documents #History #MetalsEra 
+#FirstKingdom #Documents #MetalsEra 
 
 The Ziiv Contract was a contract that combined all the cities in the [[Livable Region]] into the [[First Kingdom]].
 

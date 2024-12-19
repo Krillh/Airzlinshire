@@ -20,7 +20,7 @@ Fayons often pick up [[Life Majik]] from a young age, not needing much instructi
 ## Survivors
 [[Survivors]] are neural and level-headed. Their bulky figure around 6 meters (6.5 feet) tall and lasting roughly 140 years. These guys are tough. They would be the last ones standing at the end of the world. Survivors are very logical and often live in solitude or with a significant other.
 ## Humans
-[[Humans]] are just normal humans 😢
+[[Humans]] are naturally very expressive and emotional beings. They can make extremely strong bonds and are some of the most flexible and (idk the word, like hardy or smth?) species of person.
 ## Leyuas
 [[Leyuas]] naturally have a large brain capacity. Their bodies spend more nutrients expanding their brain than their body. This mean that leyuas are not very physically adept, but they have high levels of neuroplasticity. They learn very fast and have excellent memories. They often are more adept at majik, but can't risk the physical afflictions of overexerting much.
 

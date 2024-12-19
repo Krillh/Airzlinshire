@@ -1,9 +1,10 @@
 - [ ] Document [[Gar]]
 	- [ ] make a reference grammar
 	- [ ] make a dictionary
-	- [ ] make a writing system
+	- [ ] make a writing system - logograms
 - [ ] Document the history of writing
 	- [ ] How did they write [[Gar]]?
+	- [ ] When did better writing mediums get made?
 	- [ ] Who was able to write [[Gar]], only the rich?
 	- [ ] When was [[Majel]] made? Maybe it aided in the fall of the [[First Kingdom]]?
 - [ ] Clean up and get feedback on [[Eras of History]]
@@ -44,4 +45,9 @@
 		- [ ] A rich person from [[Vag City]] before the [[Ziiv Contract]]
 		- [ ] A rich person from a city bordering [[Vag City]]before the [[Ziiv Contract]]
 	- [ ] #MajikEra 
-		- [ ] One of the first to travel over the 
+		- [ ] One of the first to travel over the mountain pass
+		- [ ] Someone who went over the mountain pass later with family
+		- [ ] One of the sailors on the first voyage to the [[Central Continent]]
+		- [ ] One of the first settlers of the [[Central Continent]]
+		- [ ] Someone on the first voyage to the [[Star Continent]]
+		- [ ] One of the first settlers of the [[Star Continent]]

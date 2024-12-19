@@ -29,17 +29,17 @@ The people of Airzlinshire experience a year the same as we do, with similar goa
 
 ## Date & Time Format
 The standard date format is: "yyyy-m-dd". In base 10, at least. In base 2, it would be:
-- "yyyy yyyy yyyy-mmm-dd ddd"
+- "yyyy yyyy yyyy ~ mmm ~ dd ddd"
 The year is truncated in the standard date, but more digits can be added to the left of the year.
 
-Additionally, the time format is: "(hh-mm-ss)". And in base 2:
-- "(hh hhh-mmm mmm-sss sss)"
+Additionally, the time format is: "hh-mm-ss". And in base 2:
+- "hh hhh ~ mmm mmm ~ sss sss"
 
-It is always put into parenthesis to differentiate it from the date format, especially when looking at the extended format: "yyyy-mm-dd:(hh-mm-ss)", and in base 2:
-- "yyyy yyyy yyyy-mmm-dd ddd:(hh hhh-mmm mmm-sss sss)"
+It is put into parenthesis to differentiate it from the date format, especially when looking at the extended format: "yyyy-mm-dd:(hh-mm-ss)", and in base 2:
+- "yyyy yyyy yyyy ~ mmm ~ dd ddd:(hh hhh ~ mmm mmm ~ sss sss)"
 
 Although this looks like a lot, when in actual writing, it is much easier to read. If you know how to read binary.
 
 Here's an example of a date written in binary. Extra space is added since it's digital, but it is easier to read when hand written.
 - 1157-05-19:(06-43-03)
-- .l.. l... .l.l - l.l - l. .ll : ( .. ll. - l.l .ll - ... .ll )
+- .l.. l... .l.l ~ l.l ~ l. .ll : ( .. ll. ~ l.l .ll ~ ... .ll )

@@ -1,4 +1,4 @@
-#FirstKingdom #Do
+#FirstKingdom #Documents #History 
 
 The Ziiv Contract was a contract that combined all the cities in the [[Livable Region]] into the [[First Kingdom]].
 

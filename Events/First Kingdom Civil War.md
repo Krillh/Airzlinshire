@@ -6,3 +6,5 @@ The Capital of the [[First Kingdom]], [[Vag City]], broke the terms of the [[Zii
 There was little protest from the other cities for 2 primary reasons. First, they didn't want to dissolve the kingdom as it was beneficial for everyone, and [[Vag City]] was upholding the rest of the contract. And Second, now that [[Vag City]] had so much iron, their military power far outstrips the rest of the cities combined. There was little use for military before this, after all.
 
 Tensions were high, so when [[Vag City]] started levying taxes on the other cities, people were furious. They would have fought back if they could, but they were threatened with iron swords and armor. Their bronze was no match.
+
+After a few months of military rule by their capital, a craftsman from Lam City discovered that they could use [[Light Majik]] to increase the intensity of a flame. They went to the leader and proposed that it was a lea

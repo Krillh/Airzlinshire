@@ -34,20 +34,35 @@
 	- [ ] 2 beetle things
 	- [ ] 1 worm thing
 - [ ] Expand information on the [[First Kingdom]]
-- [ ] Document the Cities of the #CopperEra (see [[Ziiv Contract]] for names)
+- [ ] Document the cities of the Copper Era (see [[Ziiv Contract]] for names)
 	- [ ] update the [[Ziiv Contract]] with city names
 - [ ] Add more terms to the [[Ziiv Contract]]
 - [ ] Document more locations
+	- [ ] Some ruins sites of the [[First Kingdom]]
+	- [ ] A few mountain peaks
+	- [ ] All the mountain ranges
+- [ ] Make some geography
+	- [ ] Rivers
+	- [ ] Lakes
+	- [ ] Mountains
+	- [ ] Valleys
+	- [ ] Finalize placement of continents
+- [ ] Document the migration of people out of the [[Livable Region]]
+- [ ] Rename the [[Livable Region]]
 - [ ] Make some people's diaries
-	- [ ] #MetalsEra 
+	- [ ] Metals Era
 		- [ ] Supreme leader of the [[First Kingdom]]
 		- [ ] Leader of a city before and after the [[Ziiv Contract]]
 		- [ ] A rich person from [[Vag City]] before the [[Ziiv Contract]]
 		- [ ] A rich person from a city bordering [[Vag City]]before the [[Ziiv Contract]]
-	- [ ] #MajikEra 
+	- [ ] Majik Era
 		- [ ] One of the first to travel over the mountain pass
 		- [ ] Someone who went over the mountain pass later with family
 		- [ ] One of the sailors on the first voyage to the [[Central Continent]]
 		- [ ] One of the first settlers of the [[Central Continent]]
 		- [ ] Someone on the first voyage to the [[Star Continent]]
 		- [ ] One of the first settlers of the [[Star Continent]]
+- [ ] Religion
+	- [ ] Early religion
+	- [ ] What about today?
+- [ ] Separate 

@@ -1,6 +1,7 @@
 - [ ] Document [[Gar]]
+	- [ ] make a reference grammar
 	- [ ] make a dictionary
-	- [ ] 
+	- [ ] make a writing system
 - [ ] Clean up and get feedback on [[Eras of History]]
 - [ ] Make some plants for [[Flora]]
 	- [ ] 2 cereal grains
@@ -27,4 +28,11 @@
 	- [ ] 1 ant thing
 	- [ ] 2 beetle things
 	- [ ] 1 worm thing
-- [ ] 
+- [ ] Expand information on the [[First Kingdom]]
+- [ ] Document the Cities of the #CopperEra (see [[Ziiv Contract]] for names)
+	- [ ] update the [[Ziiv Contract]] with city names
+- [ ] Add more terms to the [[Ziiv Contract]]
+- [ ] Document more locations
+- [ ] Make some people's diaries
+	- [ ] #MetalsEra 
+		- [ ] Supreme leader of the First Kingdom

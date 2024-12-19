@@ -1,4 +1,4 @@
-This is a collection of short stories about the creation of [[The First Kingdom]]. The authors are unknown, but these documents are expected to be from the time not long after the [[Overthrowing of The First Kingdom]].
+This is a collection of short stories about the creation of [[First Kingdom]]. The authors are unknown, but these documents are expected to be from the time not long after the [[Overthrowing of The First Kingdom]].
 
 Story 1:
 ```

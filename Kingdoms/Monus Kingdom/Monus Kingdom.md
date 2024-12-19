@@ -29,11 +29,11 @@ It is normal, and expected, that one put work above family, except in dire situa
 # Industry
 By far, production and exporting of [[Tomes]] is the lifeline of Monus' industry. The method for fabricating tomes and nearly everything about them is held secret by the kingdom as to maintain a monopoly. There have been many attempts to steal the secret from them, but to no avail.
 
-Roughly 20% of the population is employed in tome material mining. [[The Monus Mountains]] are mined to obtain stones for [[Tomes|tome]] making. It is a low yield operation, especially when it is all done by hand.
+Roughly 20% of the population is employed in tome material mining. The [[Monus Mountains]] are mined to obtain stones for [[Tomes|tome]] making. It is a low yield operation, especially when it is all done by hand.
 ## Tome Monopoly
 To maintain a monopoly on [[Tomes]], Monus has 2 tricks. They keep the manufacturing of it a secret, and they have the only known source of the primary material for making tomes. They have multiple ways that they keep the manufacturing a secret: they have a culture of honor and the idea of leaving something that you dedicate to is preposterous, they keep their [[The Royal Order of the Monus Tome Monks|Tome Monks]] in Upper Monus under surveillance like a prison, and they keep those who are trained to be [[The Royal Order of the Monus Tome Monks|Tome Monks]] uneducated about the outside world.
 
-These 2 tricks would seem to be not enough to maintain a monopoly, as one leak would crumble the whole operation. But, there is one more thing. Not a trick, but purely a fact of geography, the tops of [[The Monus Mountains]] have the unique feature of replenishing one's majik stores at astonishing rates. This is one of the things that the [[The Royal Order of the Monus Tome Monks|Tome Monks]] harness to make [[Tomes]].
+These 2 tricks would seem to be not enough to maintain a monopoly, as one leak would crumble the whole operation. But, there is one more thing. Not a trick, but purely a fact of geography, the tops of [[Monus Mountains]] have the unique feature of replenishing one's majik stores at astonishing rates. This is one of the things that the [[The Royal Order of the Monus Tome Monks|Tome Monks]] harness to make [[Tomes]].
 ## Natural Resources
 There are few natural resources for the Monus Kingdom to collect as the kingdom occupies a very small space, geographically, and had a very high population density. They are surrounded by extremely tall mountains and so they cannot expand their land. They do get fish from the Great Monus River that runs through the whole kingdom. It is rich in fish as it has a high concentration of [[Life Majik]].
 

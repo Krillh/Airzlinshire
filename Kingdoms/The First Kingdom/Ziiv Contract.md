@@ -1,6 +1,8 @@
-The Ziiv Contract was a contract that combined all the cities in [[The Livable Region]] into [[The First Kingdom]].
+#FirstKingdom #Do
 
-This is a translation of the Ziiv Contract as it is
+The Ziiv Contract was a contract that combined all the cities in the [[Livable Region]] into the [[First Kingdom]].
+
+This is a translation of the Ziiv Contract:
 ## The Ziiv Contract
 **Overview:** This contract is to ensure the survival, prosperity, and harmonious coexistence of the cities of Vag, Lam, Riilh, and Diim. By collectively forming The First Kingdom, we solve the need for shared resources and unified governance. Signatures are agreement to all terms below.
 

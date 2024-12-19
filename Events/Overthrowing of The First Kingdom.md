@@ -1,3 +1,3 @@
 #Event 
 
-[[The First Kingdom]] was overthrown. (see: [[A Tale of The First Kingdom]]).
+[[First Kingdom]] was overthrown. (see: [[A Tale of The First Kingdom]]).

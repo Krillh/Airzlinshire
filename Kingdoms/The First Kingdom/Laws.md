@@ -1,1 +1,0 @@
-[[The First Kingdom]] had laws that reflected what was important to them as a society.

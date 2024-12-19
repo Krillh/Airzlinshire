@@ -17,6 +17,9 @@ This is a table for the unit conversions.
 | Week   | 8 days         | 12.1363 days             | 1.7338 weeks             |
 | Month  | 4 weeks        | 6.9350 weeks             | ~1.6182 months (30 days) |
 |        | 32 days        | 48.5452 days             |                          |
+| Season | 2 months       |                          |                          |
+|        | 8 weeks        |                          |                          |
+|        | 64 days        |                          |                          |
 | Year   | 8 months       | 12.9454 months (30 days) | 1.0640 years             |
 |        | 256 days       | 388.3615 days            |                          |
 

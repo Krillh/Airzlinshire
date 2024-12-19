@@ -1,7 +1,10 @@
 - [ ] Document [[Gar]]
+	- [ ] Write a lot in [[Gar]] to flesh it out
+	- [ ] Put [[Gar]] through sound changes in Chronlang
 	- [ ] make a reference grammar
 	- [ ] make a dictionary
 	- [ ] make a writing system - logograms
+	- [ ] document [[Gar]] at different points in time
 - [ ] Document the history of writing
 	- [ ] How did they write [[Gar]]?
 	- [ ] When did better writing mediums get made?
@@ -38,13 +41,13 @@
 - [ ] Expand information on the [[Monus Kingdom]]
 - [ ] Document the cities of the Copper Era (see [[Ziiv Contract]] for names)
 	- [ ] update the [[Ziiv Contract]] with city names
-	- [ ] document differing 
+	- [ ] document the cultures
 - [ ] Add more terms to the [[Ziiv Contract]]
 - [ ] Document more locations
 	- [ ] Some ruins sites of the [[First Kingdom]]
 	- [ ] A few mountain peaks
 	- [ ] All the mountain ranges
-- [ ] Make some geography
+- [ ] Make some geography, and name it all!
 	- [ ] Rivers
 	- [ ] Lakes
 	- [ ] Mountains
@@ -72,3 +75,10 @@
 	- [ ] Early religion
 	- [ ] What about in the 7 kingdoms?
 - [ ] Separate all the documentation from existing at a certain point in time to future proof. maybe the 7 kingdoms will be history at some point.
+- [ ] Outline the rest of the species of people
+	- [ ] Giants
+	- [ ] Survivors
+		- [ ] Rename
+	- [ ] Humans
+		- [ ] Get rid of?
+	- [ ] Leyuas

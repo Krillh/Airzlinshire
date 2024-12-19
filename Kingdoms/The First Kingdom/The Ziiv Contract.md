@@ -16,4 +16,7 @@ The Ziiv Contract was a contract that combined all the cities in [[The Livable R
 
 **Section 2:** Trade
 0. A combined market system shall be made. This allows for easy flow of resources and help between cities. Taxes shall be made to help fair trade.
-1. Artisans and craftsmen shall be encouraged to share their skills and knowledge, fostering innovation and economic growth across the Kingdom.
+1. Artisans and craftsmen shall be encouraged to share their skills and knowledge. This will help invention and trade growth in the whole Kingdom.
+
+**Section 3:** Safety and Defense
+0. Each city shall contribute to a combined defense force to protect against other threats. The Supreme Leader shall manage strategic planning and deployment.

@@ -36,3 +36,5 @@
 - [ ] Make some people's diaries
 	- [ ] #MetalsEra 
 		- [ ] Supreme leader of the First Kingdom
+		- [ ] A rich person from Vag before the Ziiv Contract.
+		- [ ] A rich person from a city bordering Vag bef

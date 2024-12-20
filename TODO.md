@@ -85,4 +85,5 @@
 	- [ ] Leyuas
 - [ ] Make measurements for the [[Great Monus River#The Monus River Delta|Great Monus River Delta]]
 - [ ] Alcohol?
-- [ ] 
+- [ ] Figure out how reproduction works lol
+- [ ] Flesh out lattice theory more, specifically how it started and how corrupt majik exists

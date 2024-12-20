@@ -8,7 +8,7 @@ The second is the same, and that will be the basis of the conversions.
 
 This is a table for the unit conversions.
 
-| Unit   | Last Unit (Az) | Last Unit (Earth)        | Earth Unit               |
+| Unit   | Last Unit (Az) | Last Unit (Earth)        | Earth Equivalent         |
 | ------ | -------------- | ------------------------ | ------------------------ |
 | Second | 1 second       | 1 second                 | 1 second                 |
 | Minute | 64 second      | 64 second                | 1.0667 mins              |

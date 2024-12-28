@@ -6,5 +6,5 @@ New breakthroughs in majik combat were being made nearly every month, and the [[
 
 ## Discoveries
 
-1. The first discovery was [[Light Majik]]. It was the element that the soldiers of [[Rion City]] used to burn [[Center City]] to the ground. Only basic usage was discovered at the time like intensifying fires or making small objects glow.
-2. The discovery of [[Dark Majik]] came soon after the [[First Kingdom Civil War]] ended, and may have been discovered by one of the [[Rion City]] soldiers when burning down [[Center City]]. 
+1. The first discovery was [[Light Majik]]. It was the element that the soldiers of [[Rion City]] used to burn [[Loun City]] to the ground. Only basic usage was discovered at the time like intensifying fires or making small objects glow.
+2. The discovery of [[Dark Majik]] came soon after the [[First Kingdom Civil War]] ended, and may have been discovered by one of the [[Rion City]] soldiers when burning down [[Loun City]]. 

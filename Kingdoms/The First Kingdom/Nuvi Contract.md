@@ -1,15 +1,15 @@
 #FirstKingdom #Documents #MetalsEra 
 
-The Ziiv Contract was a contract that combined all the cities in the [[Livable Region]] into the [[First Kingdom]].
+The Nuvi Contract was a contract that combined all the cities in the [[Livable Region]] into the [[First Kingdom]].
 
-This is a translation of the Ziiv Contract:
-## The Ziiv Contract
-**Overview:** This contract is to ensure the survival, prosperity, and harmonious coexistence of the cities of Center, Valley, Hill, and Shore. By collectively forming The First Kingdom, we solve the need for shared resources and unified governance. Signatures are agreement to all terms below.
+This is a translation of the Nuvi Contract:
+## The Nuvi Contract
+**Overview:** This contract is to ensure the survival, prosperity, and harmonious coexistence of the cities of Loun, Rion, Hill, and Shore. By collectively forming The First Kingdom, we solve the need for shared resources and unified governance. Signatures are agreement to all terms below.
 
 **Section 0:** Law Independence
 0. Each city shall keep its law independence. They will maintain the right to make and enforce its own laws, provided they do not conflict with the terms in this contract.
 1. A Leader Counsel shall be made. It will be made of the leaders of each city. The Council will regularly meet to discuss problems.
-2. The leader of Vag will be the Supreme Leader of The First Kingdom and will be the executive authority of the Council of Leaders.
+2. The leader of Loun will be the Supreme Leader of The First Kingdom and will be the executive authority of the Council of Leaders.
 
 **Section 1:** Resource Sharing
 0. Farmlands shall be shared equitably among the cities to ensure everyone has enough food. Farmers will be allowed to cultivate land within reasonable distance to their city.

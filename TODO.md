@@ -41,10 +41,10 @@
 - [ ] Expand information on the [[First Kingdom]]
 - [ ] Write about the [[Solus Kingdom]]
 - [ ] Expand information on the [[Monus Kingdom]]
-- [ ] Document the cities of the Copper Era (see [[Ziiv Contract]] for names)
-	- [ ] update the [[Ziiv Contract]] with city names
+- [ ] Document the cities of the Copper Era (see [[Nuvi Contract]] for names)
+	- [ ] update the [[Nuvi Contract]] with city names
 	- [ ] document the cultures
-- [ ] Add more terms to the [[Ziiv Contract]]
+- [ ] Add more terms to the [[Nuvi Contract]]
 - [ ] Document more locations
 	- [ ] Some ruins sites of the [[First Kingdom]]
 	- [ ] A few mountain peaks
@@ -60,9 +60,9 @@
 - [ ] Make some people's diaries
 	- [ ] Metals Era
 		- [ ] Supreme leader of the [[First Kingdom]]
-		- [ ] Leader of a city before and after the [[Ziiv Contract]]
-		- [ ] A rich person from [[Center City]] before the [[Ziiv Contract]]
-		- [ ] A rich person from a city bordering [[Center City]]before the [[Ziiv Contract]]
+		- [ ] Leader of a city before and after the [[Nuvi Contract]]
+		- [ ] A rich person from [[Loun City]] before the [[Nuvi Contract]]
+		- [ ] A rich person from a city bordering [[Loun City]]before the [[Nuvi Contract]]
 	- [ ] Early Growth Era
 		- [ ] One of the first to travel over the mountain pass
 		- [ ] Someone who went over the mountain pass later with family

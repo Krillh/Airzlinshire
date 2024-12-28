@@ -1,0 +1,1 @@
+Rion was one of the cities that signed the [[Ziiv Contract]] and was part of the [[First Kingdom]].

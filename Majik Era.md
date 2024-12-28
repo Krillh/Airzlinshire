@@ -1,0 +1,1 @@
+The Majik Era is marked by the fall of the [[First Kingdom]] in the [[First Kingdom Civil War]]. The recent discovery of [[Majik]] sparked a new direction of growth for society. Public majik schools and majik research institutes were established to develop majik use. The primary focus was on military applications since all the cities were 

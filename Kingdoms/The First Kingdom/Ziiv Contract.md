@@ -4,7 +4,7 @@ The Ziiv Contract was a contract that combined all the cities in the [[Livable R
 
 This is a translation of the Ziiv Contract:
 ## The Ziiv Contract
-**Overview:** This contract is to ensure the survival, prosperity, and harmonious coexistence of the cities of Vag, Lam, Riilh, and Diim. By collectively forming The First Kingdom, we solve the need for shared resources and unified governance. Signatures are agreement to all terms below.
+**Overview:** This contract is to ensure the survival, prosperity, and harmonious coexistence of the cities of Vag, Lam, Rilh, and Dim. By collectively forming The First Kingdom, we solve the need for shared resources and unified governance. Signatures are agreement to all terms below.
 
 **Section 0:** Law Independence
 0. Each city shall keep its law independence. They will maintain the right to make and enforce its own laws, provided they do not conflict with the terms in this contract.

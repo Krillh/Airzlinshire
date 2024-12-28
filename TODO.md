@@ -1,3 +1,5 @@
+
+
 - [ ] Document [[Gar]]
 	- [ ] Write a lot in [[Gar]] to flesh it out
 	- [ ] Put [[Gar]] through sound changes in Chronlang
@@ -87,3 +89,4 @@
 - [ ] Alcohol?
 - [ ] Figure out how reproduction works lol
 - [ ] Flesh out lattice theory more, specifically how it started and how corrupt majik exists
+

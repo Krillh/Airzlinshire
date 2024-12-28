@@ -26,3 +26,5 @@ Story 5:
 ```
 Once, a mighty fort stood upon a great flat rock, formed by the leader's powerful majik. The leader, along with six assistants, resided in this fort. As the population increased, the people built houses around the fort. However, the assistants, desiring more comfort, took over these new houses, displacing the people who lived there. This led to the formation of the three classes: the rulers, the nobles, and the commoners.
 ```
+
+In all of these documents, [[Majik]] is being used to create the [[First Kingdom]]. It is generally accepted that majik wasn't discovered until just before the [[First Kingdom Civil War]], and aided in the fall of the First Kingdom. From this, 3 main theories arise. The first is that the creation of the First Kingdom, the [[Ziiv Contract]], was forgotten by peoples at the time. That would 

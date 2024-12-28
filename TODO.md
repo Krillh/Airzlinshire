@@ -61,8 +61,8 @@
 	- [ ] Metals Era
 		- [ ] Supreme leader of the [[First Kingdom]]
 		- [ ] Leader of a city before and after the [[Ziiv Contract]]
-		- [ ] A rich person from [[Vag City]] before the [[Ziiv Contract]]
-		- [ ] A rich person from a city bordering [[Vag City]]before the [[Ziiv Contract]]
+		- [ ] A rich person from [[Center City]] before the [[Ziiv Contract]]
+		- [ ] A rich person from a city bordering [[Center City]]before the [[Ziiv Contract]]
 	- [ ] Early Growth Era
 		- [ ] One of the first to travel over the mountain pass
 		- [ ] Someone who went over the mountain pass later with family

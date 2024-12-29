@@ -1,16 +1,16 @@
 
 
-- [ ] Document [[Gar]]
-	- [ ] Write a lot in [[Gar]] to flesh it out
-	- [ ] Put [[Gar]] through sound changes in Chronlang
+- [ ] Document [[Biun]]
+	- [ ] Write a lot in [[Biun]] to flesh it out
+	- [ ] Put [[Biun]] through sound changes in Chronlang
 	- [ ] make a reference grammar
 	- [ ] make a dictionary
 	- [ ] make a writing system - logograms
-	- [ ] document [[Gar]] at different points in time
+	- [ ] document [[Biun]] at different points in time
 - [ ] Document the history of writing
-	- [ ] How did they write [[Gar]]?
+	- [ ] How did they write [[Biun]]?
 	- [ ] When did better writing mediums get made?
-	- [ ] Who was able to write [[Gar]], only the rich?
+	- [ ] Who was able to write [[Biun]], only the rich?
 	- [ ] When was [[Majel]] made? Maybe it aided in the fall of the [[First Kingdom]]?
 - [ ] Clean up and get feedback on [[Eras of History]]
 - [ ] Make some plants for [[Flora]]

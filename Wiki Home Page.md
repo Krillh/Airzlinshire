@@ -10,5 +10,5 @@ Starting Points:
 	- [[Monus Kingdom]]
 	- [[Solus Kingdom]]
 - [[Majel]]: read about the world's written language.
-- Or, read about the spoken language, [[Gar]].
+- Or, read about the spoken language, [[Biun]].
 - Read some myths, like [[The Legend of Lara]].

@@ -22,7 +22,11 @@ The in-body and out-body incubation times of each species is different. These ti
 There are other traits specific to each 
 ### Giants
 
+### Warriors
+The shell of [[Warriors]]' eggs are hard, unlike most other species', and resembles a stone.
 ### Fayons
 [[Fayons]] as host parents are the most likely species to have a [[Genetic Traits#Species Trait Transfer|species trait transfer]]. This means that fayons are generally the most diverse species trait-wise. This is compounded by the fact that many fayons prefer inter-species reproduction.
+### Survivors
+Survivors have harder shells on their eggs. The shell is almost like leather.
 ### Humans
-When another species is the host parent with a [[Humans|human]], there is a random chance that the fetus will be human instead of the species of the host parent. This happens in about 4% of inceptions across the board but is most common with [[Survivors]].
+When another species is the host parent with a [[Humans|human]], there is a random chance that the fetus will be human instead of the species of the host parent. This happens in about 8% of inceptions across the board but is most common with [[Survivors]].

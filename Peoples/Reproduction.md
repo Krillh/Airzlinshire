@@ -19,7 +19,7 @@ The in-body and out-body incubation times of each species is different. These ti
 | [[Survivors]] | 4 weeks  | 5 months |
 | [[Humans]]    | 4 weeks  | 3 months |
 | [[Leyuas]]    | 9 weeks  | 6 months |
-There are other traits specific to each 
+There are other traits specific to each species.
 ### Giants
 
 ### Warriors

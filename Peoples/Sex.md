@@ -6,6 +6,6 @@
 In [[Airzlinshire]], sex is an intimate experience and is most commonly shared between 2 people in private.
 
 # Sex Biology
-[[Peoples]] have all the necessary sex organs to reproduce, but cannot reproduce on their own unless they have a condition called auto-reproductive syndrome.
+[[Peoples]] have all the necessary sex organs to reproduce, but cannot reproduce on their own unless they have a condition called [[Auto-Reproductive Syndrome]].
 ## Genitalia
-The outer sex organs 
+The outer sex organs include 

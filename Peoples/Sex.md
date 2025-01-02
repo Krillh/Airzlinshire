@@ -10,4 +10,7 @@ In [[Airzlinshire]], sex is an intimate experience and is most commonly shared b
 ## Genitalia
 The outer sex organs include 2 main ones for [[Reproduction|reproduction]] that closely resemble ones from Earth, the penis and vagina. However, each person has both, the penis sitting at the top of the vagina, where the clitoris would be on Earth. There is no scrotum.
 
-The vagina is connected to an organ that resembles a uterus without fallopian tubes. There is a small bump on the top side of the uterus that houses the gene capture organ. This organ houses some of the reproduction fluid from the non-hosting parent for use when
+The vagina is connected to an organ that resembles a uterus without fallopian tubes. There is a small bump on the top side of the uterus that houses the gene capture organ. This organ houses some of the reproduction fluid from the non-hosting parent for use when making the fetus.
+## Orgasm
+There are 3 different types of orgasms. The first is when the non-host person ejaculates their reproduction fluid. This is caused by sufficient stimulation.
+When a non-host parent ejaculates their reproduction fluid into a host parent, the host parent's body senses this and triggers a hormonal reaction. This causes a particularly pleasureful orgasm for the host. 

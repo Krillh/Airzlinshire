@@ -22,6 +22,7 @@ The in-body and out-body incubation times of each species is different. These ti
 There are other traits specific to each 
 ### Giants
 
-
+### Fayons
+[[Fayons]] as host parents are the most likely species to have a species trait transfer from the non-host parent.
 ### Humans
-When another species is the host parent with a [[Humans|human]], there is a random chance that the 
+When another species is the host parent with a [[Humans|human]], there is a random chance that the fetus will be human instead of the species of the host parent. This happens in about 4% of inceptions across the board but is most common with [[Survivors]].

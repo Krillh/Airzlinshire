@@ -9,13 +9,13 @@ In order to conceive, much like on Earth, one person needs to ejaculate a fluid 
 ## Intra-Species Reproduction
 When people of 2 different species reproduce, the fetus will be the same species of the hosting person. They will still share features from both parents, but for the most part, only the ones that are not tied up in species characteristics. Of course, some times, species traits from the non-hosting parent will come through, but show up as a non-species and mono-generational trait.
 ## Species Specific Traits
-The in-body and out-body incubation times of each species is different. These times are in [[Time|Airzlinshire Time]].
+The in-body and out-body incubation times of each species is different. These times are all rough estimates.
 
 | Species       | In-Body  | Out-Body |
 | ------------- | -------- | -------- |
 | [[Giants]]    |          |          |
-| [[Warriors]]  |          |          |
-| [[Fayons]]    |          |          |
+| [[Warriors]]  | 3 weeks  | 3 months |
+| [[Fayons]]    | 10 weeks |          |
 | [[Survivors]] |          |          |
-| [[Humans]]    | ~1 month |          |
+| [[Humans]]    | 4 weeks  | 5 months |
 | [[Leyuas]]    |          |          |

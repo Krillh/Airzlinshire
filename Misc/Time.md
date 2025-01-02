@@ -1,6 +1,6 @@
 
 > [!NOTE]
-> Needs Documentaion
+> All time mentioned in this documentation is in Airzlinshire units, not Earth Units, unless specified otherwise.
 
 In Airzlinshire, time is not quite the same as on Earth. Though the people don't experience time much different, the actual units are not the same.
 

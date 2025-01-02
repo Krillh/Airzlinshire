@@ -11,7 +11,5 @@ I decided to forge it, to see what this new metal could do. To my astonishment, 
 
 As I worked, I realized that this new metal was stronger too. It felt more solid, more durable. The knife I fashioned from it held its edge far better than any I had made from fire stone. The sensation of holding this new creation was exhilarating—like holding the future in my hands.
 
-I pondered how this could have happened. My mind raced back to the process, trying to understand. It then struck me—tin! Could it have been that the small pieces of tin that somehow found their way into the smelting had transformed my fire stone into this new marvel?
-
 I am overwhelmed with curiosity and excitement. What other wonders could be unlocked with this discovery? How will it change our ways, our tools, our lives? The world feels different now, filled with new possibilities. Tonight, I shall dream of what tomorrow will bring.
 ```

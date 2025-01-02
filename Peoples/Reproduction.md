@@ -8,3 +8,14 @@ People in [[Airzlinshire]] reproduce sexually but not in the same way as humans 
 In order to conceive, much like on Earth, one person needs to ejaculate a fluid into another person. But unlike on Earth, this fluid doesn't fertilize eggs, but triggers a hormone reaction in the receiving (hosting) person that then triggers the body to create an egg. The exact methods to this are currently unknown. After some growth time that depends on the species, the hosting person will give birth to a soft, sack-like egg containing a fetus. That will grow in the egg for another species-dependent amount of time before it breaks out and is considered a newborn.
 ## Intra-Species Reproduction
 When people of 2 different species reproduce, the fetus will be the same species of the hosting person. They will still share features from both parents, but for the most part, only the ones that are not tied up in species characteristics. Of course, some times, species traits from the non-hosting parent will come through, but show up as a non-species and mono-generational trait.
+## Species Specific Traits
+The in-body and out-body incubation times of each species is different. These times are in [[Time|Airzlinshire Time]].
+
+| Species       | In-Body  | Out-Body |
+| ------------- | -------- | -------- |
+| [[Giants]]    |          |          |
+| [[Warriors]]  |          |          |
+| [[Fayons]]    |          |          |
+| [[Survivors]] |          |          |
+| [[Humans]]    | ~1 month |          |
+| [[Leyuas]]    |          |          |

@@ -26,4 +26,7 @@ This is a non-comprehensive list of key inventions throughout the history of hum
 **~20 224** - The copper sword
 **~20 224** - The wood plank
 ## Metals Era
-**~22016** - Bronze knife
+**~22016** - Bronze
+**22 019** - Bronze tools
+**22 034** - Iron
+**22 050** - Iron tools

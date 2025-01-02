@@ -1,7 +1,7 @@
 #Peoples 
 
 > [!caution] 
-> Topics discussed on this page may not be suitable for all people.
+> Topics discussed on this page may not be suitable for all readers.
 
 People in [[Airzlinshire]] reproduce sexually but not in the same way as humans on Earth. First, biological sex does not exist among people. Every person has all the sexual organs needed for reproduction. There are some differences between the different species of people, but they are all only variations. The main method of reproduction is the same.
 
@@ -23,6 +23,6 @@ There are other traits specific to each
 ### Giants
 
 ### Fayons
-[[Fayons]] as host parents are the most likely species to have a species trait transfer from the non-host parent.
+[[Fayons]] as host parents are the most likely species to have a [[Genetic Traits#Species Trait Transfer|species trait transfer]]. This means that fayons are generally the most diverse species trait-wise. This is compounded by the fact that many fayons prefer inter-species reproduction.
 ### Humans
 When another species is the host parent with a [[Humans|human]], there is a random chance that the fetus will be human instead of the species of the host parent. This happens in about 4% of inceptions across the board but is most common with [[Survivors]].

@@ -13,9 +13,11 @@ The in-body and out-body incubation times of each species is different. These ti
 
 | Species       | In-Body  | Out-Body |
 | ------------- | -------- | -------- |
-| [[Giants]]    |          |          |
-| [[Warriors]]  | 3 weeks  | 3 months |
-| [[Fayons]]    | 10 weeks |          |
-| [[Survivors]] |          |          |
-| [[Humans]]    | 4 weeks  | 5 months |
-| [[Leyuas]]    |          |          |
+| [[Giants]]    | 12 weeks | 2 months |
+| [[Warriors]]  | 3 weeks  | 2 months |
+| [[Fayons]]    | 10 weeks | 5 months |
+| [[Survivors]] | 4 weeks  | 5 months |
+| [[Humans]]    | 4 weeks  | 3 months |
+| [[Leyuas]]    | 9 weeks  | 6 months |
+There are other traits specific to 
+### Giants

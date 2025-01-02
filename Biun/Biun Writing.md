@@ -1,0 +1,1 @@
+The primary writing system for [[Biun]] is a logogram-style system.

@@ -1,3 +1,3 @@
 #Biun 
 
-Biun is the spoken language of [[Airzlinshire]]. 
+Biun is the spoken language of [[Airzlinshire]].

@@ -22,4 +22,6 @@ This type of drug can be taken in multiple ways.
 - Pill insertion. This is very similar to the pill insertion method for the reproductive fluid type. It involves inserting a pill into the uterus through uterus opening where it dissolves in the uterus. The organ that creates orgasmic hormones is near the uterus and so when the hormones dissolve into the blood, some travels up the same paths. This method is between needle injection and pill ingestion in intensity, delay, and duration. It is much safer than needle injection, and so some people choose this option over pill ingestion for it's intensity and shorter delay of around 2 minutes while avoiding the dangers of using a needle. It can be difficult to be discreet when inserting a pill into one's uterus, so that can be a reason people don't use it.
 
 ## Addiction
-These types of drugs are of moderate-high severity to cause addiction.
+These types of drugs have an [[Drug Addiction|addiction potential]] of moderate-high to high (6-7).
+
+## Market

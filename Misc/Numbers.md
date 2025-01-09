@@ -51,12 +51,14 @@ Table of numbers:
 | 32      | l. .... | 2 H         | 2 H        |
 
 
-zero 0 - niu
-one 1 - zu
-two 2 - ba
-three 3 - dei
-four 4 - li
+zero 0 - niu, naz
+one 1 - zu, zu
+two 2 - ba, ba
+three 3 - dei, ve
+four 4 - li, li
 
-hex 16 - ru
+hex 16 - ru, jy
 
-byte 256 - kei
+byte 256 - kei, mi
+
+short 2^16 - ??, 

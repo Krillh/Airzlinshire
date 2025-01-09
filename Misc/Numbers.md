@@ -98,17 +98,17 @@ zu -> zu
 ba -> ba
 dei -> dei
 li -> li
-lizu -> lizu
-liba -> liba
-lidei -> lidei
-bali -> bali
-balizu -> balzu
-baliba -> balba
-balidei -> baldei
-deili -> deili
-deilizu -> delzu
-deiliba -> delba
-deilidei -> deldei
+lizu -> lizu -> liuz
+liba -> liba -> liab
+lidei -> lidei -> leid
+bali -> bali -> bai
+balizu -> balzu -> buz
+baliba -> balba -> bal
+balidei -> baldei -> baid
+deili -> deili -> deil
+deilizu -> delzu -> duz
+deiliba -> delba -> dab
+deilidei -> deldei -> ded
 
 23002 (.l.l l..l ll.l l.l.)
 .l.l - li zu
@@ -117,5 +117,14 @@ ll.l - ve li zu
 l.l. - ba li ba
 li zu jy ba li zu mi ve li zu jy be li ba
 twenty three thousand and two
+lizu ru balzu kei delzu ru balba -> liuz ru buz kei duz ru bal
 
-lizu ru balzu kei delzu ru balba
+19968 (.l.. lll. .... ....)
+.l.. - li
+lll. - ve li ba
+.... - 
+.... - 
+ li jy ve li ba mi
+ nineteen thousand, nine hundred sixty eight
+
+li ru delba kei

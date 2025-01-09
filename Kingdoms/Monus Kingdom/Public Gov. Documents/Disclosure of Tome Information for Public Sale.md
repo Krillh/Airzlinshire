@@ -1,10 +1,10 @@
 #Monus #Documents
 ```
-**Kingdom of Monus**
+**Monus Kingdom**
 
 **Tome Regulation Department**
 
-**Document No.**: TR-100-00-01
+**Document No.**: 100-00-01
 
 **Subject**: Disclosure of Tome Information for Public Sale
 

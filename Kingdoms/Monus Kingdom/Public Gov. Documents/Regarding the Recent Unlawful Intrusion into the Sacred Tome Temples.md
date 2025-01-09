@@ -4,7 +4,7 @@
 
 **Tome Regulation Department**
 
-**Document No.**: TR-100-00-02
+**Document No.**: 100-00-02
 
 **Regarding the Recent Unlawful Intrusion into the Sacred Tome Temples**
 

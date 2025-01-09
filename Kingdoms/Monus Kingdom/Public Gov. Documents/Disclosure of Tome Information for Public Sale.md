@@ -32,5 +32,5 @@ This document is intended to provide a balance between transparency for buyers a
 
 **Tome Regulation Department**
 
-**Kingdom of Monus**
+**Monus Kingdom**
 ```

@@ -1,10 +1,10 @@
 #Monus #Documents
 ```
-**Kingdom of Monus**
+**Monus Kingdom**
 
 **Tome Regulation Department**
 
-**Document No.**: 100-00-02
+**Document No.**: 01-01-0002
 
 **Regarding the Recent Unlawful Intrusion into the Sacred Tome Temples**
 
@@ -24,4 +24,4 @@ Let this incident serve as a stern warning to those who dare to threaten our kin
 
 **Director, Tome Regulation Department**
 
-**Kingdom of Monus**
+**Monus Kingdom**

@@ -61,6 +61,7 @@ The Monus government has a reputation for
 | Information Regulation | IR  | Regulates the flow of information, and keeps track of government documents. They also manage access to class 1 information.                                                            |
 | Banking Agency         | BA  | Manages the various government owned banks in Monus.                                                                                                                                   |
 | Seal Management        | SM  | Manages the seals of the nation, and verifies the seals on all documents submitted to the government.                                                                                  |
+|                        |     |                                                                                                                                                                                        |
 # History
 
 > [!Note]

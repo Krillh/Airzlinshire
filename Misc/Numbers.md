@@ -61,4 +61,15 @@ hex 16 - ru, jy
 
 byte 256 - kei, mi
 
-short 2^16 - ??, 
+short 2^16 - ??, ga
+
+int 2^32 - ??, no
+
+long 2^64 - ??, vu
+
+23002 (.l.l l..l ll.l l.l.)
+.l.l - li zu
+l..l - ba li zu
+ll.l - ve li zu
+l.l. - ve li ba
+li zu jy ba li zu 

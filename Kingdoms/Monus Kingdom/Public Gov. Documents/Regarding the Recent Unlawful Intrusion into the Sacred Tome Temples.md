@@ -22,6 +22,6 @@ Let this incident serve as a stern warning to those who dare to threaten our kin
 
 **Signed**
 
-**Director, Tome Regulation Department**
+(Monus Tome Regulation Department)
 
 **Monus Kingdom**

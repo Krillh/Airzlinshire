@@ -94,17 +94,21 @@ short 2^16 - ??, ga
 int 2^32 - ??, no
 long 2^64 - ??, vu
 
-zu
-ba
-dei
-li
-lizu
-liba
-lidei
-bali
-balizu
-baliba
-
+zu -> zu
+ba -> ba
+dei -> dei
+li -> li
+lizu -> lizu
+liba -> liba
+lidei -> lidei
+bali -> bali
+balizu -> balzu
+baliba -> balba
+balidei -> baldei
+deili -> deili
+deilizu -> delzu
+deiliba -> delba
+deilidei -> deldei
 
 23002 (.l.l l..l ll.l l.l.)
 .l.l - li zu
@@ -113,3 +117,5 @@ ll.l - ve li zu
 l.l. - ba li ba
 li zu jy ba li zu mi ve li zu jy be li ba
 twenty three thousand and two
+
+lizu ru balzu kei delzu ru balba

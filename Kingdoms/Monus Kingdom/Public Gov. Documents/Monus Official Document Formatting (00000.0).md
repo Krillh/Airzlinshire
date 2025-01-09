@@ -4,7 +4,7 @@
 
 **Information Regulation Department**
 
-**Document No.** 02-04-00000.0
+**Document No.** 01-04-00000.0
 
 **Regarding the Official Document Formatting of the Monus Kingdom**
 

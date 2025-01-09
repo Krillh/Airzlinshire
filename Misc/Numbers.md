@@ -71,5 +71,6 @@ long 2^64 - ??, vu
 .l.l - li zu
 l..l - ba li zu
 ll.l - ve li zu
-l.l. - ve li ba
-li zu jy ba li zu 
+l.l. - ba li ba
+
+li zu jy ba li zu mi ve li zu jy be li ba

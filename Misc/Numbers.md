@@ -94,10 +94,11 @@ short 2^16 - ??, ga
 int 2^32 - ??, no
 long 2^64 - ??, vu
 
-zu -> zu
-ba -> ba
-dei -> dei
-li -> li
+simplification of [[Majel]] number blocks
+zu -> zu -> zu
+ba -> ba -> ba
+dei -> dei -> dei
+li -> li -> li
 lizu -> lizu -> liuz
 liba -> liba -> liab
 lidei -> lidei -> leid
@@ -110,12 +111,29 @@ deilizu -> delzu -> duz
 deiliba -> delba -> dab
 deilidei -> deldei -> ded
 
+simplification of [[Biun]] number blocks
+zu -> zu
+ba -> ba
+ve -> ve
+li -> li
+lizu -> -> lizu -> liuz 
+liba -> liab
+live -> liev
+bali -> bail
+balizu -> 
+baliba -> 
+balive -> 
+veli -> 
+velizu -> 
+veliba -> 
+velive -> 
+
 23002 (.l.l l..l ll.l l.l.)
 .l.l - li zu
 l..l - ba li zu
 ll.l - ve li zu
 l.l. - ba li ba
-li zu jy ba li zu mi ve li zu jy be li ba
+lizu jy balizu mi velizu jy beliba
 twenty three thousand and two
 lizu ru balzu kei delzu ru balba -> liuz ru buz kei duz ru bal
 
@@ -124,7 +142,6 @@ lizu ru balzu kei delzu ru balba -> liuz ru buz kei duz ru bal
 lll. - ve li ba
 .... - 
 .... - 
- li jy ve li ba mi
- nineteen thousand, nine hundred sixty eight
-
-li ru delba kei
+li jy ve li ba mi
+nineteen thousand, nine hundred sixty eight
+li ru delba kei -> li ru dab kei

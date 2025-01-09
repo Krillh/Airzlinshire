@@ -11,11 +11,11 @@
 
 It is necessary to document the various types of government documents and the number associated with them.
 
-- 00 - Law: an enforceable rule with consequences
-- 01 - Regulation: 
+- 00 - Law: an enforceable rule with consequences outlined.
+- 01 - Regulation: a limitation put into place with consequences outlined.
 - 02 - Guideline: a loose set of rules that promote something but are not enforceable.
-- 04 - Documentation: a description of something to reference
-- 05 - Statement: a statement to the public by the government on some event or issue
+- 04 - Documentation: a description of something to reference.
+- 05 - Statement: a statement to the public by the government on some event or issue.
 
 **Signed**
 

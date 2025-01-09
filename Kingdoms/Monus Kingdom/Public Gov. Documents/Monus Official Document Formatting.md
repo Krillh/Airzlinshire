@@ -1,10 +1,10 @@
 #Monus #Documents 
-```
+
 **Monus Kingdom**
 
 **Information Regulation Department**
 
-**Document No.**: 02-04-000000.0
+**Document No.** 02-04-00000.0
 
 **Regarding the Official Document Formatting of the Monus Kingdom**
 
@@ -12,7 +12,14 @@ Keeping standards and consistency within the Monus Kingdom will lead to better r
 
 **Heading**
 
-The heading of each document must be titled with Monus Kingdom". This is followed by the department that is publishing the document. After this is "Document No.:" followed by the document number.
+The heading of each document must be titled with Monus Kingdom". This is followed by the department that is publishing the document. After this is "Document No." followed by the document number.
 
-The document number is made of 4 parts. The first is the classification of the number of the department that is publishing the document. The next number is the type of document. The next number is the ID of the document. Each document has a unique ID. The last number is the revision number. This increases for each revision of the document. A ducument revision has the same document ID as the origional.
-```
+The document number is made of 4 parts. The first is the classification of the number of the department that is publishing the document. The next number is the type of document. The next number is the ID of the document. Each document has a unique ID. The last number is the revision number. This increases for each revision of the document. A document revision has the same document ID as the original.
+
+**Title**
+
+The title of the document must not be verbose, while giving an accurate description of the document. It must also be unique to all other documents. Revisions have the same name.
+
+**Body**
+
+The body of the document 

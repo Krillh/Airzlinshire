@@ -1,3 +1,8 @@
+#Monus #Documents
+
+> [!important] 
+> UNFINISHED
+
 **Monus Kingdom**
 
 **Monus Counsel**
@@ -14,4 +19,5 @@ One may not cause the death of another person, and the punishment for doing so d
 
 If there is intent, the killer will be forced to work in a mine as an unpaid worker for 2 years.
 
-If there is no intent, the killer will be 
+If there is no intent, the killer will be sent to work in a mine as an unpaid worker for 2 weeks.
+

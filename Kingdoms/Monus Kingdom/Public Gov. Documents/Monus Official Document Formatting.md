@@ -4,7 +4,7 @@
 
 **Information Regulation Department**
 
-**Document No.**: 00-00-0000.0
+**Document No.**: 5-00-0000.0
 
 **Regarding the Official Document Formatting of the Monus Kingdom**
 
@@ -14,5 +14,5 @@ Keeping standards and consistency within the Monus Kingdom will lead to better r
 
 The heading of each document must be titled with Monus Kingdom". This is followed by the department that is publishing the document. After this is "Document No.:" followed by the document number.
 
-The document number is made of 4 parts. The first is
+The document number is made of 4 parts. The first is the classification of the number of the department that is publishing the document. The next number is the type of document. 
 ```

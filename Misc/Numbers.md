@@ -112,21 +112,21 @@ deiliba -> delba -> dab
 deilidei -> deldei -> ded
 
 simplification of [[Biun]] number blocks
-zu -> zu
-ba -> ba
-ve -> ve
-li -> li
-lizu -> -> lizu -> liuz 
-liba -> liab
-live -> liev
-bali -> bail
-balizu -> 
-baliba -> 
-balive -> 
-veli -> 
-velizu -> 
-veliba -> 
-velive -> 
+zu -> zu -> zu
+ba -> ba -> ba
+ve -> ve -> ve
+li -> li -> li
+lizu -> lizu -> liuz 
+liba -> liba -> liab
+live -> live -> liev
+bali -> bali -> bail
+balizu -> balzu -> buaz
+baliba -> balba -> bab
+balive -> balve -> beal
+veli -> veli -> veil
+velizu -> velzu -> vuez
+veliba -> velba -> veab
+velive -> velve -> vel
 
 23002 (.l.l l..l ll.l l.l.)
 .l.l - li zu

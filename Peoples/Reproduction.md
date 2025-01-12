@@ -29,4 +29,4 @@ The shell of [[Warriors]]' eggs are hard, unlike most other species', and resemb
 ### Survivors
 Survivors have harder shells on their eggs. The shell is almost like leather.
 ### Humans
-When another species is the host parent with a [[Humans|human]], there is a random chance that the fetus will be human instead of the species of the host parent. This happens in about 8% of inceptions across the board but is most common with [[Survivors]].
+When another species is the host parent with a [[Humans|human]], there is a random chance that the fetus will be human instead of the species of the host parent. This happens in about 0.06% of inceptions across the board but is most common with [[Survivors]].

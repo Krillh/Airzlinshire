@@ -18,7 +18,7 @@ The human age expectancy is 80 years (physical maturity), so the expected lifesp
 
 Fayons often pick up [[Life Majik]] from a young age, not needing much instruction other than observation. Most fayons feel close to nature and don't pick up another element, sticking with [[Life Majik]]. Because they often learn it from a young age, lots of fayons become quite adept at using [[Life Majik]].
 ## Survivors
-[[Survivors]] are neural and level-headed. Their bulky figure around 6 meters (6.5 feet) tall and lasting roughly 140 years. These guys are tough. They would be the last ones standing at the end of the world. Survivors are very logical and often live in solitude or with a significant other.
+[[Survivors]] are neural and level-headed. Their bulky figure around 2 meters (6.5 feet) tall and lasting roughly 140 years. These guys are tough. They would be the last ones standing at the end of the world. Survivors are very logical and often live in solitude or with a significant other.
 ## Humans
 [[Humans]] are naturally very expressive and emotional beings. They can make extremely strong bonds and are some of the most versatile and (idk the word, like hardy or smth?) species of person. They can handle and adapt incredibly well. [[Humans]] are the most widespread species due to this fact. They live around 80 years and are the baseline for maturity rates.
 

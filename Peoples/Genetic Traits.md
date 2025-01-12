@@ -2,7 +2,7 @@
 
 There are multiple different types of genetic traits that [[Peoples|people]] can have
 ## Species Trait
-A species trait is a trait that is inherent to the species of that person. These can be physical, like how [[Giants|giants]] are usually tall, but can also be mental, like how [[Warriors|warriors]] often have shorter tempers.
+A species trait is a trait that is inherent to the species of that person. These can be physical, like how [[Giants|giants]] are usually tall, but can also be mental, like how [[Mozbiin|warriors]] often have shorter tempers.
 ### Species Trait Transfer
 When 2 different species [[Reproduction|reproduce]], there is a chance that one or more species traits of the non-host parent will show up in the child as a mono-generational trait.
 ## Mono-Generational Trait

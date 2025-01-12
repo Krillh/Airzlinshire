@@ -14,7 +14,7 @@ The in-body and out-body incubation times of each species is different. These ti
 | Species       | In-Body  | Out-Body |
 | ------------- | -------- | -------- |
 | [[Giants]]    | 12 weeks | 2 months |
-| [[Warriors]]  | 3 weeks  | 2 months |
+| [[Mozbiin]]  | 3 weeks  | 2 months |
 | [[Fayons]]    | 10 weeks | 5 months |
 | [[Survivors]] | 4 weeks  | 5 months |
 | [[Humans]]    | 4 weeks  | 3 months |
@@ -23,7 +23,7 @@ There are other traits specific to each species.
 ### Giants
 
 ### Warriors
-The shell of [[Warriors]]' eggs are hard, unlike most other species', and resembles a stone.
+The shell of [[Mozbiin]]' eggs are hard, unlike most other species', and resembles a stone.
 ### Fayons
 [[Fayons]] as host parents are the most likely species to have a [[Genetic Traits#Species Trait Transfer|species trait transfer]]. This means that fayons are generally the most diverse species trait-wise. This is compounded by the fact that many fayons prefer inter-species reproduction.
 ### Survivors

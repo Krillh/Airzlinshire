@@ -3,15 +3,16 @@ Airzlinshire uses a base 2 (binary) positional number system as the primary numb
 
 Table of acronyms
 
-| Letter | Name  | Value                   |
-| ------ | ----- | ----------------------- |
-| 1      | one   | 1 - l - 2^0             |
-| 2      | two   | 2 - l. - 2^1            |
-| 3      | three | 3 - ll                  |
-| 4      | four  | 4 - l.. - 2^2           |
-| H      | hex   | 16 - l .... - 2^4       |
-| S      | stack | 64 - l.. ...            |
-| B      | byte  | 256 - l .... .... - 2^8 |
+| Letter | Name  | Value                        |
+| ------ | ----- | ---------------------------- |
+| 1      | one   | 1 - l - 2^0                  |
+| 2      | two   | 2 - l. - 2^1                 |
+| 3      | three | 3 - ll                       |
+| 4      | four  | 4 - l.. - 2^2                |
+| H      | hex   | 16 - l .... - 2^4            |
+|        | stack | 64 - l.. ...                 |
+| B      | byte  | 256 - l .... .... - 2^8      |
+| S      | short | 2^16 - l .... .... .... .... |
 
 Table of numbers:
 

@@ -23,10 +23,9 @@ Fayons often pick up [[Life Majik]] from a young age, not needing much instructi
 [[Biin vy Zin]] are naturally very expressive and emotional beings. They can make extremely strong bonds and are some of the most versatile and (idk the word, like hardy or smth?) species of person. They can handle and adapt incredibly well. [[Biin vy Zin]] are the most widespread species due to this fact. They live around 80 years and are the baseline for maturity rates.
 
 [[Biin vy Zin]] appear in all sorts of jobs since they're so adaptable, but most artistic jobs are filled by [[Biin vy Zin]].
-## Leyuas
-[[Leyuas]] naturally have a large brain capacity. Their bodies spend more nutrients expanding their brain than their body. This mean that [[Leyuas]] are not very physically adept, but they have high levels of neuroplasticity. They learn very fast and have excellent memories. They often are more adept at majik, but can't risk the physical afflictions of overexerting much.
+## Diiz Dezgion
+[[Diiz Dezgion]] naturally have a large brain capacity. Their bodies spend more nutrients expanding their brain than their body. This mean that [[Diiz Dezgion]] are not very physically adept, but they have high levels of neuroplasticity. They learn very fast and have excellent memories. They often are more adept at majik, but can't risk the physical afflictions of overexerting much.
 
-Leyuas are often employed as researchers or doctors. Their superior control over majik makes them good at dealing with the complexities of anatomy. They are also often employed as advisors.
-Most leyuas live in [[Elestal Kingdom|Elestal]]. Despite the harsh temperatures, they use their majik to survive. At least in Elestal, they aren't going to get raided or attacked.
+Diiz Dezgion are often employed as researchers or doctors. Their superior control over majik makes them good at dealing with the complexities of anatomy. They are also often employed as advisors. Most Diiz Dezgion live in [[Elestal Kingdom|Elestal]]. Despite the harsh temperatures, they use their majik to survive. At least in Elestal, they aren't going to get raided or attacked.
 
 They're all unfeeling sociopaths that are good at [[Empath Majik]]!

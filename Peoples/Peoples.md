@@ -17,10 +17,10 @@ The human age expectancy is 80 years (physical maturity), so the expected lifesp
 [[Fayons]] are very pacifist. They are about 1.4 meters (4.5 feet) tall and live for roughly 170 years. fayons often live in houses made into the ground or in tree houses. Very few fayons live in towns and cities. Although, the houses of those who do live in towns are often filled with plants and, if they can, animals. Most fayons that work are merchants of spices and rare herbs, since they have great knowledge of the forests. Fayons that do work usually chose to care for people in a hospital or become botanists. Fayons are quiet and timid, rarely speaking up. But, whenever they do, it's often important.
 
 Fayons often pick up [[Life Majik]] from a young age, not needing much instruction other than observation. Most fayons feel close to nature and don't pick up another element, sticking with [[Life Majik]]. Because they often learn it from a young age, lots of fayons become quite adept at using [[Life Majik]].
-## Survivors
-[[Survivors]] are neural and level-headed. Their bulky figure around 2 meters (6.5 feet) tall and lasting roughly 140 years. These guys are tough. They would be the last ones standing at the end of the world. Survivors are very logical and often live in solitude or with a significant other.
-## Humans
-[[Humans]] are naturally very expressive and emotional beings. They can make extremely strong bonds and are some of the most versatile and (idk the word, like hardy or smth?) species of person. They can handle and adapt incredibly well. [[Humans]] are the most widespread species due to this fact. They live around 80 years and are the baseline for maturity rates.
+## Mundeoz
+[[Mundeoz]] are neural and level-headed. Their bulky figure around 2 meters (6.5 feet) tall and lasting roughly 140 years. These guys are tough. They would be the last ones standing at the end of the world. Survivors are very logical and often live in solitude or with a significant other.
+## Biin vy Zin
+[[Biin vy Zin]] are naturally very expressive and emotional beings. They can make extremely strong bonds and are some of the most versatile and (idk the word, like hardy or smth?) species of person. They can handle and adapt incredibly well. [[Biin vy Zin]] are the most widespread species due to this fact. They live around 80 years and are the baseline for maturity rates.
 
 [[Humans]] appear in all sorts of jobs since they're so adaptable, but most artistic jobs are filled by [[Humans]].
 ## Leyuas

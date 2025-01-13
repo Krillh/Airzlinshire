@@ -9,8 +9,8 @@ There are 6 species of person. Giants, Warriors, Fayons, Survivors, Humans, and 
 A maturity curve is the relative maturity (physical or mental) of a species to the "standard" (human). For example, if a maturity curve has a slope of less than 1, it is aging slower than a human, >1 is faster, exactly 1 is the same rate as a human.
 
 The human age expectancy is 80 years (physical maturity), so the expected lifespan is whenever the physical maturity graph reaches 80 on the y-axis.
-## Giants
-[[Giants]] are a fairly docile species of person. They are quite large reaching around 3.5 meters (11.5  feet) tall and also live around 100 years. Giants physically have less brain capacity than a human but are not dumb. Their brain capacity is on par with an average 12 year old human. Giants are known for their friendly nature but sometimes experience discrimination due to their physical size. Some giants go into the military for their brute strength, but most are too docile and can't bring themselves to hurt others. Most giants go into mining and sometimes search and rescue / debris cleanup.
+## Myzjinro
+[[Myzjinro]] are a fairly docile species of person. They are quite large reaching around 3.5 meters (11.5  feet) tall and also live around 100 years. Giants physically have less brain capacity than a human but are not dumb. Their brain capacity is on par with an average 12 year old human. Giants are known for their friendly nature but sometimes experience discrimination due to their physical size. Some giants go into the military for their brute strength, but most are too docile and can't bring themselves to hurt others. Most giants go into mining and sometimes search and rescue / debris cleanup.
 ## Mozbiin
 [[Mozbiin]] are violent and rowdy by nature. But when duty calls, are very loyal and follow orders well. Warriors' height comes in at around 2.2 meters (7.2 feet) tall and lifespan, around 45 years. Warriors grow muscle very fast and can bulk up a lot. They aren't as strong as giants but almost all warriors would be able to overpower the strongest humans. Most warriors go into the military due to their violent tendencies. Warriors are generally feared by most people. People often avoid them on the roads and in bars. This can sometimes lead to warriors dealing with stress and finding ways to cope, like drinking and fighting.
 ## Fayons
@@ -22,7 +22,7 @@ Fayons often pick up [[Life Majik]] from a young age, not needing much instructi
 ## Biin vy Zin
 [[Biin vy Zin]] are naturally very expressive and emotional beings. They can make extremely strong bonds and are some of the most versatile and (idk the word, like hardy or smth?) species of person. They can handle and adapt incredibly well. [[Biin vy Zin]] are the most widespread species due to this fact. They live around 80 years and are the baseline for maturity rates.
 
-[[Humans]] appear in all sorts of jobs since they're so adaptable, but most artistic jobs are filled by [[Humans]].
+[[Biin vy Zin]] appear in all sorts of jobs since they're so adaptable, but most artistic jobs are filled by [[Biin vy Zin]].
 ## Leyuas
 [[Leyuas]] naturally have a large brain capacity. Their bodies spend more nutrients expanding their brain than their body. This mean that leyuas are not very physically adept, but they have high levels of neuroplasticity. They learn very fast and have excellent memories. They often are more adept at majik, but can't risk the physical afflictions of overexerting much.
 

@@ -28,3 +28,5 @@ Fayons often pick up [[Life Majik]] from a young age, not needing much instructi
 
 Leyuas are often employed as researchers or doctors. Their superior control over majik makes them good at dealing with the complexities of anatomy. They are also often employed as advisors.
 Most leyuas live in [[Elestal Kingdom|Elestal]]. Despite the harsh temperatures, they use their majik to survive. At least in Elestal, they aren't going to get raided or attacked.
+
+They're all unfeeling sociopaths that are good at [[Empath Majik]]!

@@ -14,19 +14,22 @@ Moral Development (lawrence kohlberg)
     
 - **Early Childhood (2-7 years) - Preoperational Stage:**
     
-    - Symbolic play (pretend play) 
-    - Language development ()
+    - Symbolic play (pretend play)!!
+    - Language development
     - Egocentrism (difficulty seeing other perspectives) 
     - Classification (grouping objects by similar features) 
     - fine motor skills
     - writing
+    - tying, etc
     
 - **Middle Childhood (7-11 years) - Concrete Operational Stage:**
     
     - Conservation (understanding quantity remains constant despite changes in appearance) 
     - Seriation (ordering objects by size) 
     - Logical reasoning with concrete situations 
+    - perspective taking
     - Understanding of simple rules and concepts 
+    - has unique thoughts, you are induvidual. p
     
 - **Adolescence (12+ years) - Formal Operational Stage:**
     

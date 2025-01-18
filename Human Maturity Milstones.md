@@ -28,8 +28,12 @@ Moral Development (lawrence kohlberg)
     - Seriation (ordering objects by size) 
     - Logical reasoning with concrete situations 
     - perspective taking
+    - beginning developing real relationships
     - Understanding of simple rules and concepts 
-    - has unique thoughts, you are induvidual. p
+    - has unique thoughts, you are individual. part of perspective
+    - desire of independence, but not knowing the dangers
+    - individuation: develop interests
+    - developing more emotional control (shame)
     
 - **Adolescence (12+ years) - Formal Operational Stage:**
     

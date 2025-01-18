@@ -8,12 +8,18 @@ Moral Development (lawrence kohlberg)
     - Object permanence (understanding an object still exists even when hidden) 
     - Imitating actions 
     - Simple cause-and-effect understanding
+    - army crawl
+    - pulling up
+    - walking (10mo - 16 mo)
+    
 - **Early Childhood (2-7 years) - Preoperational Stage:**
     
     - Symbolic play (pretend play) 
-    - Language development 
+    - Language development ()
     - Egocentrism (difficulty seeing other perspectives) 
     - Classification (grouping objects by similar features) 
+    - fine motor skills
+    - writing
     
 - **Middle Childhood (7-11 years) - Concrete Operational Stage:**
     

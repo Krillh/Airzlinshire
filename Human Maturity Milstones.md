@@ -63,6 +63,8 @@ startling to loud noises
 
 most humans are selfish until a certain age, don't understand perspective taking
 
+4y - all some none, time (of day), prediction
+
 | Year |     | Congnitive |
 | ---- | --- | ---------- |
 | 0-2  |     |            |

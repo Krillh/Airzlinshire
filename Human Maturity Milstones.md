@@ -37,10 +37,15 @@ Moral Development (lawrence kohlberg)
     
 - **Adolescence (12+ years) - Formal Operational Stage:**
     
-    - Abstract reasoning 
+    - Abstract reasoning and situations
     - Hypothetical thinking 
-    - Complex problem-solving 
+    - Complex problem-solving (more than 1 solution)
     - Understanding of multiple perspectives 
+    - moral issues, politics
+    - deductive logic
+    - much more individualization
+    - developing deeper relationships, some emotional relationships
+    - 
     
 
 Important Points to Remember:

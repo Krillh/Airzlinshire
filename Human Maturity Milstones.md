@@ -45,7 +45,6 @@ Moral Development (lawrence kohlberg)
     - deductive logic
     - much more individualization
     - developing deeper relationships, some emotional relationships
-    - 
     
 
 Important Points to Remember:
@@ -64,7 +63,7 @@ startling to loud noises
 
 most humans are selfish until a certain age, don't understand perspective taking
 
-| Year |     |
-| ---- | --- |
-| 0-2  |     |
-| 2-7  |     |
+| Year |     | Congnitive |
+| ---- | --- | ---------- |
+| 0-2  |     |            |
+| 2-7  |     |            |

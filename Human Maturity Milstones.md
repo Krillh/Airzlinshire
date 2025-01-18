@@ -38,8 +38,15 @@ Important Points to Remember:
 
 ## Notes
 
-- 0-2 years - all learning is tactile. sucking, tasting, seeing actions, object permanence. learns causality (that you can cause things to happen)
+- 0-2 years - all learning is tactile. sucking, tasting, seeing actions, object permanence. learns causality (that you can cause things to happen). staring, copying.
+
+Autism can be diagnosed at 2+ because they don't show as much observation.
+
+startling to loud noises
+
+most humans are selfish until a certain age, don't understand perspective taking
 
 | Year |     |
 | ---- | --- |
-| 0    |     |
+| 0-2  |     |
+| 2-7  |     |

@@ -3,7 +3,7 @@
 Combinations:
 - Light majik + [[Dark Majik]] => [[Gray Majik]]
 
-Light Majik specializes in precise manipulation of thermal energy and light in small quantities. This looks like heating up a small object or making a rock glow. One analogy to consider is that you can apply a great force to a small area with high precision: a high flow rate of a small amount of energy with high precision. This is in contrast to [[Dark Majik]], which also deals with thermal energy and light. A consequence is that congregation of energy is easier with light majik than [[Dark Majik]].
+Light Majik specializes in precise manipulation of thermal energy and light in small quantities. This looks like heating up a small object or making a rock glow. One analogy to consider is that you can apply a great force to a small area with high precision: a high flow rate of a small amount of energy with high precision. This is in contrast to [[Dark Majik]], which also deals with thermal energy and light. A consequence is that congregation of energy (against entropy) is easier with light majik than [[Dark Majik]].
 
 ## Cultural Significance
 

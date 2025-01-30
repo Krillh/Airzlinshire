@@ -14,4 +14,4 @@ There is a measurement of the chance that someone will be addicted to a drug cal
 | High          | 7     | 10            |
 | Very-High     | 8     | 4             |
 | Extreme       | 9     | 1             |
-This scale was developed in *(date?)* by *(name?)* and is the international standard. Most drugs' addiction potential was defined using scientific study, but that was outlawed in *(date?)* as it was deemed inhumame. 
+This scale was developed in *(date?)* by *(name?)* and is the international standard. Most drugs' addiction potential was defined using scientific study, but that was outlawed in *(date?)* as it was deemed inhumane. 

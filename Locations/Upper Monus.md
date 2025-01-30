@@ -1,6 +1,6 @@
 #Monus #Region 
 
-> [!bug] ARCHIVE
+> [!bug] ARCHIVE - not applicable
 
 Upper Monus is made up of two sections. In both of them, the roads are well maintained and lit with oil lamps. There is a guard that patrols upper both sections at night and during the day.
 # North Upper Monus

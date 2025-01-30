@@ -1,5 +1,7 @@
 #Monus #Documents #Classified
 
+> [!bug] ARCHIVE - not applicable
+
 ```
 CLASSIFICATION LEVEL: [ 3 ] (INTERNAL)
 DEPARTMENTS: ORDER OF THE TOME MONKS

@@ -1,5 +1,7 @@
 #Monus #Documents 
 
+> [!bug] ARCHIVE - not applicable
+
 **Monus Kingdom**
 
 **Information Regulation Department**

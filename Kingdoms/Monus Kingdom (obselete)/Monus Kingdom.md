@@ -1,8 +1,6 @@
 #Kingdom #Monus #GrowthEra 
 
-> [!attention] 
-> Under Construction -> *not usable yet*
-
+> [!bug] ARCHIVE - not applicable
 
 The Monus Kingdom is the smallest kingdom of the 7 by land. But are the 4th most populous.
 

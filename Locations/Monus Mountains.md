@@ -1,6 +1,6 @@
 #Monus #Location #MountainRange
 
-> [!bug] ARCHIVE
+> [!bug] ARCHIVE - not applicable
 
 | Metric       | Value    |
 | ------------ | -------- |

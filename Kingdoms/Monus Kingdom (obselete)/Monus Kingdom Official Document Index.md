@@ -1,3 +1,6 @@
+
+> [!bug] ARCHIVE - not applicable
+
 This is an index of all official [[Monus Kingdom]] documents ordered by ID number.
 
 - 01-04-00000 [[Monus Official Document Formatting (00000.0)]]

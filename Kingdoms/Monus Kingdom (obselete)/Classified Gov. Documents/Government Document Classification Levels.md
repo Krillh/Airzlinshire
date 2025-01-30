@@ -1,4 +1,7 @@
 #Monus #Documents #Classified
+
+> [!bug] ARCHIVE - not applicable
+
 ```
 **Kingdom of Monus**
 

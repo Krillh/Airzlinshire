@@ -1,7 +1,6 @@
 #Monus #River #Location 
 
-> [!bug] ARCHIVE
-
+> [!bug] ARCHIVE - not applicable
 
 The Great Monus River is a river that runs through the whole of [[Monus Kingdom|Monus]]. It is extremely large, having a flow rate of 128,000 cubic meters per second. The river is 4.1 kilometers wide at it's widest. The rivers were created by the formation of the Monus Mountains. They created a massive snow runoff and watershed.
 # River Sections

@@ -1,2 +1,4 @@
 
-## culture
+# A Culture
+
+## Central Belief(s)

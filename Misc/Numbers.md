@@ -112,7 +112,7 @@ deilizu -> delzu -> duz
 deiliba -> delba -> dab
 deilidei -> deldei -> ded
 
-simplification of [[Biun]] number blocks
+simplification of [[Old Gvar]] number blocks
 zu -> zu -> zu
 ba -> ba -> ba
 ve -> ve -> ve

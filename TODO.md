@@ -1,16 +1,16 @@
 
 
-- [ ] Document [[Biun]]
-	- [ ] Write a lot in [[Biun]] to flesh it out
-	- [ ] Put [[Biun]] through sound changes in Chronlang
+- [ ] Document [[Old Gvar]]
+	- [ ] Write a lot in [[Old Gvar]] to flesh it out
+	- [ ] Put [[Old Gvar]] through sound changes in Chronlang
 	- [ ] make a reference grammar
 	- [ ] make a dictionary
 	- [ ] make a writing system - logograms
-	- [ ] document [[Biun]] at different points in time
+	- [ ] document [[Old Gvar]] at different points in time
 - [ ] Document the history of writing
-	- [ ] How did they write [[Biun]]?
+	- [ ] How did they write [[Old Gvar]]?
 	- [ ] When did better writing mediums get made?
-	- [ ] Who was able to write [[Biun]], only the rich?
+	- [ ] Who was able to write [[Old Gvar]], only the rich?
 	- [ ] When was [[Majel]] made? Maybe it aided in the fall of the [[First Kingdom]]?
 - [ ] Clean up and get feedback on [[Eras of History]]
 - [ ] Make some plants for [[Flora]]

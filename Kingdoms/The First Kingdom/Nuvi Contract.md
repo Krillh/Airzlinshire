@@ -1,5 +1,7 @@
 #FirstKingdom #Documents #MetalsEra 
 
+> [!bug] ARCHIVE - not canonical
+
 The Nuvi Contract was a contract that combined all the cities in the [[Livable Region]] into the [[First Kingdom]].
 
 This is a translation of the Nuvi Contract:

@@ -13,8 +13,8 @@ There are 6 parts of speech in Old Gvar. Nouns, verbs, adjectives, prepositions,
 - Conjunctions:  divide a sentence into 2 clauses and describes the connection between them.
 - Particles: mark different parts of sentences, create emphasis, or mark questions.
 ## SVO
-Old Gvar is SVO (Subject, Verb, Object). This means that the subject comes before the verb, then the object.
-$$\underbrace{\text{mark}}_{\text{subject}}\;\underbrace{\text{wants}}_{verb}\;\text{a }\underbrace{\text{pear}}_{\text{object}}$$
+Old Gvar is SVO (Subject, Verb, Object). This means that the subject comes before the verb, then the object. Here's an example in English:
+$$\underbrace{\text{Mark}}_{\text{subject}}\;\underbrace{\text{wants}}_{verb}\;\text{a }\underbrace{\text{pear}}_{\text{object}}.$$
 The direct object always goes first since indirect objects always have a preposition.
 ## Clauses
 Clauses in Gvar must have a subject, verb, and object, following [[Old Gvar#SVO|SVO]] ordering. Certain parts may be omitted for various reasons, but they must exist in it's meaning.
@@ -44,3 +44,5 @@ When making a clause, you start with a subject. This is the person, place, thing
 All together, the sentence translates to: "I need a helper to carry my basket".
 
 More examples in [[Old Gvar Sentence Examples]].
+## Dropping (Omitting) Parts of Clauses
+There are times when either the subject, verb, or even occasionally the object of a clause is omitted. For the subject, there are 2 primary cases where this happens. First, if the subject is the same as the previous sentence. In this case, the subject marker 

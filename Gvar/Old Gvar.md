@@ -23,6 +23,4 @@ Clauses in Gvar must have a subject, verb, and object, following [[Old Gvar#SVO|
 - The subject may be omitted if context makes it clear what it is, or if it is the same as the previous sentence. ( You peel the banana. *\[ You \]* eat the peel. ).
 One sentence can have multiple clauses if you use a conjunction to connect two of them together. The conjunction makes the second clause into a dependent clause that modifies the previous clause.
 ## Phrases
-In Gvar, a phrase is a singular thing, one idea, and are used to construct clauses. There are multiple types of phrases.
-- Noun phrase: These are constructed with a noun, or compound noun, and can have adjectives.
-- Verb phrase
+In Gvar, there isn't really a concept of phrases. The different sections of a clause are usually marked with words, particles, or suffixes. The only things to note are that adjectives come before the word (or group of words) they modify and can modify other adjectives

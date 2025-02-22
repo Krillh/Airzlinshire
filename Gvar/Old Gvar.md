@@ -12,7 +12,8 @@ There are 8 primary parts of speech in Old Gvar. Nouns, verbs, adjectives, prepo
 - Prepositions: describes how an object relates to a verb.
 - Conjunctions:  divide a sentence into 2 clauses and describes the connection between them.
 - Particles: mark different parts of sentences, create emphasis, or mark questions.
-- Sentence Relators (SRs): separate sentences and describe how two 
+- Sentence Relators (SRs): separate sentences and describe how two sentences connect.
+- Combinators: apply binary or unary logic, most often linking things (ie "and", "or", "not")
 ## SVO
 Old Gvar is SVO (Subject, Verb, Object). This means that the subject comes before the verb, then the object. Here's an example in English:
 $$\underbrace{\text{Mark}}_{\text{subject}}\;\underbrace{\text{wants}}_{verb}\;\text{a }\underbrace{\text{pear}}_{\text{object}}.$$
@@ -61,3 +62,5 @@ Sentence relators are a special type of word that gets inserted between sentence
 - hef: caused by (because)
 - hesh: causes (and so)
 - hon: contrasting (contrarily, however)
+
+# 

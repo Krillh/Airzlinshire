@@ -15,7 +15,7 @@ There are 6 parts of speech in Old Gvar. Nouns, verbs, adjectives, prepositions,
 ## SVO
 Old Gvar is SVO (Subject, Verb, Object). This means that the subject comes before the verb, then the object.
 $$\underbrace{\text{mark}}_{\text{subject}}\;\underbrace{\text{wants}}_{verb}\;\text{a }\underbrace{\text{pear}}_{\text{object}}$$
-Direct and indirect object are marked with particles so their order isn't strictly defined, but typically the indirect object is first.
+The direct object always goes first since indirect objects always have a preposition.
 ## Clauses
 Clauses in Gvar must have a subject, verb, and object, following [[Old Gvar#SVO|SVO]] ordering. Certain parts may be omitted for various reasons, but they must exist in it's meaning.
 - The object may be omitted if the verb is reflexive (when the subject is also the object). In this case, the verb is marked as so with a particle.
@@ -27,4 +27,13 @@ In Gvar, there isn't really a concept of phrases. The different sections of a cl
 ## Putting Together a Sentence
 When making a clause, you start with a subject. This is the person, place, thing, or idea that you want to describe. After that, you add the subject marker /e/. Now you need a verb, something that the subject is doing. If it is a reflexive verb, end it with the particle /oe/, otherwise end it with /o/. If the verb is not reflexive, you need an object. This can be nearly anything, including another clause. If the object is not direct, you must use a preposition before it. You may add as many prepositions and objects as you like. Then, if you wish, you may add a conjunction and start a dependent clause. This is the same process as the independent clause now.
 
-Examples:
+### Example 1:
+/pan e ksevi o bil s dvavi o paqa kan/
+
+pan - n. the self
+e - subject marker
+ksevi - v. need
+o - typical verb marker
+bil - n. helper (direct object because of the lack of preposition)
+s - conjunction meaning "for" or "to", indicating reason, or purpose
+dvavi - v. carry. Notice, there is no subject in the dependent clause because it's clear though context who the sub

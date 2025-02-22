@@ -17,4 +17,7 @@ Old Gvar is SVO (Subject, Verb, Object). This means that the subject comes befor
 $$\underbrace{\text{mark}}_{\text{subject}}\;\underbrace{\text{wants}}_{verb}\;\text{a }\underbrace{\text{pear}}_{\text{object}}$$
 Direct and indirect object are marked with particles so their order isn't strictly defined, but typically the indirect object is first.
 ## Clauses
-Clauses in Gvar must have a subject and a verb, following [[Old Gvar#SVO|SVO]] ordering.
+Clauses in Gvar must have a subject, verb, and object, following [[Old Gvar#SVO|SVO]] ordering. Certain parts may be omitted for various reasons, but they must exist in it's meaning.
+- The object may be omitted if the verb is reflexive (when the subject is also the object). In this case, the verb is marked as so with a particle.
+- The object may be omitted in informal settings when it is the same as the previous sentence and it is clear that that is the case. (I peel the banana. I eat \[the banana\]).
+- The subject may be omitted if context makes it clear what it

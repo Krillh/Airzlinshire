@@ -28,12 +28,17 @@ In Gvar, there isn't really a concept of phrases. The different sections of a cl
 When making a clause, you start with a subject. This is the person, place, thing, or idea that you want to describe. After that, you add the subject marker /e/. Now you need a verb, something that the subject is doing. If it is a reflexive verb, end it with the particle /oe/, otherwise end it with /o/. If the verb is not reflexive, you need an object. This can be nearly anything, including another clause. If the object is not direct, you must use a preposition before it. You may add as many prepositions and objects as you like. Then, if you wish, you may add a conjunction and start a dependent clause. This is the same process as the independent clause now.
 
 ### Example 1:
-/pan e ksevi o bil s dvavi o paqa kan/
+/pan e ksevi o bil s dvavi o pasha kan/
 
-pan - n. the self
-e - subject marker
-ksevi - v. need
-o - typical verb marker
-bil - n. helper (direct object because of the lack of preposition)
-s - conjunction meaning "for" or "to", indicating reason, or purpose
-dvavi - v. carry. Notice, there is no subject in the dependent clause because it's clear though context who the sub
+- pan - n. the self
+- e - subject marker
+- ksevi - v. need
+- o - typical verb marker
+- bil - n. helper (direct object because of the lack of preposition)
+- s - conjunction meaning "for" or "to", indicating reason, or purpose
+- dvavi - v. carry. Notice, there is no subject in the dependent clause because it's clear though context who the subject is (the helper)
+- o - typical verb marker
+- pasha - a. my
+- kan - n. basket
+
+All together, the sentence translates to: "I need a helper to carry my basket".

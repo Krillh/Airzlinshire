@@ -45,6 +45,11 @@ All together, the sentence translates to: "I need a helper to carry my basket".
 
 More examples in [[Old Gvar Sentence Examples]].
 ## Dropping (Omitting) Parts of Clauses
-There are times when either the subject, verb, or even occasionally the object of a clause is omitted. This is covered briefly in the [[Old Gvar#Clauses|clauses]] section, but there is more detail to it. For the subject, there are 2 primary cases where this happens. First, if the subject is the same as the previous sentence. In this case, the subject marker /e/ stays to indicate this. The other case is when the subject is known by context. This often overwrites the first case, making the subject marker /e/ dropped also. [[Old Gvar#Example 1|This]] is a very good example of context-based subject dropping.
+There are times when either the subject, verb, or object of a clause is omitted. This is covered briefly in the [[Old Gvar#Clauses|clauses]] section, but there is more detail to it. For the subject, there are 2 primary cases where this happens. First, if the subject is the same as the previous sentence or clause. In this case, the subject marker /e/ stays to indicate this. The other case is when the subject is known by context. This often overwrites the first case, making the subject marker /e/ dropped also. [[Old Gvar#Example 1|This]] is a very good example of context-based subject dropping.
 
-Verbs are rarely dropped on their own, but in the case that one wants to be poetic and mildly 
+Verbs are rarely dropped on their own, but in the case that one wants to be poetic and mildly confusing, you can drop the verb, leaving the verb marker /o/ or /oe/. This can only happen when the verb is the same as the previous sentence or clause.
+
+The only normal time when the direct object is dropped from a clause is when the verb is reflexive. The verb is marked with /oe/ instead of /o/ and that's all there is. Indirect objects don't get dropped.
+## Sentence Relators
+Sentence relators are a special type of word that gets inserted between sentences to both split them and describe how they are related to each other. All SRs start with the /h/ phoneme. Some common ones are:
+- 

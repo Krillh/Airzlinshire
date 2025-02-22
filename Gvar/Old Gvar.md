@@ -19,5 +19,7 @@ Direct and indirect object are marked with particles so their order isn't strict
 ## Clauses
 Clauses in Gvar must have a subject, verb, and object, following [[Old Gvar#SVO|SVO]] ordering. Certain parts may be omitted for various reasons, but they must exist in it's meaning.
 - The object may be omitted if the verb is reflexive (when the subject is also the object). In this case, the verb is marked as so with a particle.
-- The object may be omitted in informal settings when it is the same as the previous sentence and it is clear that that is the case. (I peel the banana. I eat \[the banana\]).
-- The subject may be omitted if context makes it clear what it
+- The object may be omitted in informal settings when it is the same as the previous sentence and it is clear that that is the case. ( You peel the banana. I eat *\[ the banana \]*. ).
+- The subject may be omitted if context makes it clear what it is, or if it is the same as the previous sentence. ( You peel the banana. *\[ You \]* eat the peel. ).
+## Phrases
+In Gvar, a phrase is a 

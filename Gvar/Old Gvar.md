@@ -21,5 +21,8 @@ Clauses in Gvar must have a subject, verb, and object, following [[Old Gvar#SVO|
 - The object may be omitted if the verb is reflexive (when the subject is also the object). In this case, the verb is marked as so with a particle.
 - The object may be omitted in informal settings when it is the same as the previous sentence and it is clear that that is the case. ( You peel the banana. I eat *\[ the banana \]*. ).
 - The subject may be omitted if context makes it clear what it is, or if it is the same as the previous sentence. ( You peel the banana. *\[ You \]* eat the peel. ).
+One sentence can have multiple clauses if you use a conjunction to connect two of them together. The conjunction makes the second clause into a dependent clause that modifies the previous clause.
 ## Phrases
-In Gvar, a phrase is a 
+In Gvar, a phrase is a singular thing, one idea, and are used to construct clauses. There are multiple types of phrases.
+- Noun phrase: These are constructed with a noun, or compound noun, and can have adjectives.
+- Verb phrase

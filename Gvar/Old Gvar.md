@@ -23,4 +23,6 @@ Clauses in Gvar must have a subject, verb, and object, following [[Old Gvar#SVO|
 - The subject may be omitted if context makes it clear what it is, or if it is the same as the previous sentence. ( You peel the banana. *\[ You \]* eat the peel. ).
 One sentence can have multiple clauses if you use a conjunction to connect two of them together. The conjunction makes the second clause into a dependent clause that modifies the previous clause.
 ## Phrases
-In Gvar, there isn't really a concept of phrases. The different sections of a clause are usually marked with words, particles, or suffixes. The only things to note are that adjectives come before the word (or group of words) they modify and can modify other adjectives
+In Gvar, there isn't really a concept of phrases. The different sections of a clause are usually marked with words, particles, or suffixes. The only things to note are that adjectives come before the word (or group of words) they modify.
+## Putting Together a Sentence
+When making a sentence, you start with a subject. This is the person, place, thing, or idea that you want to describe. After that, you add the subject marker /e/. Now you need a verb, something that the subject is doing. If it is a reflexive verb, end it with the particle /oe/, otherwise end it with /o/. If the verb is not reflexive, you need an object.

@@ -5,13 +5,14 @@ Old Gvar was the primary spoken language of the [[Gmarpshin]] people.
 
 # Sentence Construction
 ## Parts of speech
-There are 6 parts of speech in Old Gvar. Nouns, verbs, adjectives, prepositions, conjunctions, and particles.
+There are 8 primary parts of speech in Old Gvar. Nouns, verbs, adjectives, prepositions, conjunctions, particles, sentence relators, and combinators.
 - Nouns: a person, place, or thing.
 - Verbs: an action of some sort.
 - Adjectives: modifies or adds to the meaning of a noun *or* adjective.
 - Prepositions: describes how an object relates to a verb.
 - Conjunctions:  divide a sentence into 2 clauses and describes the connection between them.
 - Particles: mark different parts of sentences, create emphasis, or mark questions.
+- Sentence Relators (SRs): separate sentences and describe how two 
 ## SVO
 Old Gvar is SVO (Subject, Verb, Object). This means that the subject comes before the verb, then the object. Here's an example in English:
 $$\underbrace{\text{Mark}}_{\text{subject}}\;\underbrace{\text{wants}}_{verb}\;\text{a }\underbrace{\text{pear}}_{\text{object}}.$$

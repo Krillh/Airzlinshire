@@ -62,5 +62,3 @@ Sentence relators are a special type of word that gets inserted between sentence
 - hef: caused by (because)
 - hesh: causes (and so)
 - hon: contrasting (contrarily, however)
-
-# 

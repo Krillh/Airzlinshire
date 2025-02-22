@@ -42,3 +42,5 @@ When making a clause, you start with a subject. This is the person, place, thing
 - kan - n. basket
 
 All together, the sentence translates to: "I need a helper to carry my basket".
+
+More examples in [[Old Gvar Sentence Examples]].

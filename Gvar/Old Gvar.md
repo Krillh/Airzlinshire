@@ -25,4 +25,6 @@ One sentence can have multiple clauses if you use a conjunction to connect two o
 ## Phrases
 In Gvar, there isn't really a concept of phrases. The different sections of a clause are usually marked with words, particles, or suffixes. The only things to note are that adjectives come before the word (or group of words) they modify.
 ## Putting Together a Sentence
-When making a sentence, you start with a subject. This is the person, place, thing, or idea that you want to describe. After that, you add the subject marker /e/. Now you need a verb, something that the subject is doing. If it is a reflexive verb, end it with the particle /oe/, otherwise end it with /o/. If the verb is not reflexive, you need an object.
+When making a clause, you start with a subject. This is the person, place, thing, or idea that you want to describe. After that, you add the subject marker /e/. Now you need a verb, something that the subject is doing. If it is a reflexive verb, end it with the particle /oe/, otherwise end it with /o/. If the verb is not reflexive, you need an object. This can be nearly anything, including another clause. If the object is not direct, you must use a preposition before it. You may add as many prepositions and objects as you like. Then, if you wish, you may add a conjunction and start a dependent clause. This is the same process as the independent clause now.
+
+Examples:

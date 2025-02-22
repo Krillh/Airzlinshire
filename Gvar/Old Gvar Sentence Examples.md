@@ -23,7 +23,7 @@
 - ti *(preposition)*
 - bloza gnin *(object)*
 
-/pan e slisi o pasha drir sh pna-sligmen haz pan e tisi o gzif s pin e bivi o pan sh kner/ -> "As i write my thoughts, I am thankful for your help on the farm."
+/pan e slisi o pasha drir sh pna-sligmen haz pan e tisi o gzif s pin e blosha bivi o pan sh kner/ -> "As i write my thoughts, I am thankful for your big help on the farm."
 - pan e *(subj)* I
 - slisi o *(verb)* write
 - pasha drir *(direct object)* my thoughts
@@ -34,4 +34,9 @@
 - pan e *(subject)* I
 - tisi o *(verb)* have
 - gzif *(direct object)* thankfulness
-	- s *()*
+	- s *(conjunction)* for
+	- pin e *(subj)* you
+	- blosha bivi o *(verb)* many(hab.) help
+	- pan *(direct object)* me
+	- sh *(preposition)* on
+	- kner *(object)* farm

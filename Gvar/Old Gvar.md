@@ -62,3 +62,17 @@ Sentence relators are a special type of word that gets inserted between sentence
 - hef: caused by (because)
 - hesh: causes (and so)
 - hon: contrasting (contrarily, however)
+## Forming Questions
+To turn a sentence into a question, add one (or more if combined with combinators) question markers (particles) to the beginning of a sentence, even before the subject. All question markers start with /hi/.
+- hin: what
+- hil: who
+- hitfon: when (specifically)
+- hitfor: when (era / period)
+- hikfen: why
+- hitshon: where
+- hipshin: how
+
+/hipshin pin e tasi o pnin/
+how did you do that?
+
+When speaking, question markers usually have a falling 

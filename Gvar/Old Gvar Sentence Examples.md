@@ -15,10 +15,11 @@
 	- (direct object phrase)
 	- pin e *(subj)*
 	- ksasi o *(verb)*
-	- biksar *(object)*
+	- biksar *(direct object)*
 
 /partisha knen e gnivu o ti bloza gnin/ -> "Our crops sell for much money"
-- partisha knen e (subject)
-- gnivu oe (reflexive verb)
-- ti (preposition)
-- bloza gnin (object)
+- partisha knen e *(subject)*
+- gnivu oe *(reflexive verb)*
+- ti *(preposition)*
+- bloza gnin *(object)*
+

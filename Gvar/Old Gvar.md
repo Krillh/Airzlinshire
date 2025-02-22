@@ -52,4 +52,11 @@ Verbs are rarely dropped on their own, but in the case that one wants to be poet
 The only normal time when the direct object is dropped from a clause is when the verb is reflexive. The verb is marked with /oe/ instead of /o/ and that's all there is. Indirect objects don't get dropped.
 ## Sentence Relators
 Sentence relators are a special type of word that gets inserted between sentences to both split them and describe how they are related to each other. All SRs start with the /h/ phoneme. Some common ones are:
-- 
+- han: related idea + unspecified relative time
+- haf: related + before
+- haz: related + simultaneous
+- hash: related + after
+- hur: end of paragraph or idea
+- hef: caused by (because)
+- hesh: causes (and so)
+- hon: contrasting (contrarily, however)

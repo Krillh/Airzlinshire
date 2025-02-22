@@ -45,4 +45,6 @@ All together, the sentence translates to: "I need a helper to carry my basket".
 
 More examples in [[Old Gvar Sentence Examples]].
 ## Dropping (Omitting) Parts of Clauses
-There are times when either the subject, verb, or even occasionally the object of a clause is omitted. For the subject, there are 2 primary cases where this happens. First, if the subject is the same as the previous sentence. In this case, the subject marker 
+There are times when either the subject, verb, or even occasionally the object of a clause is omitted. This is covered briefly in the [[Old Gvar#Clauses|clauses]] section, but there is more detail to it. For the subject, there are 2 primary cases where this happens. First, if the subject is the same as the previous sentence. In this case, the subject marker /e/ stays to indicate this. The other case is when the subject is known by context. This often overwrites the first case, making the subject marker /e/ dropped also. [[Old Gvar#Example 1|This]] is a very good example of context-based subject dropping.
+
+Verbs are rarely dropped on their own, but in the case that one wants to be poetic and mildly 

@@ -1,6 +1,8 @@
 #Peoples 
 #SimpleEra #CopperEra #MetalsEra #MajikEra #ExplorationEra #GrowthEra
 
+> [!bug] ARCHIVE - not canonical
+
 The history of civilization has many eras, each one started by a major shift.
 
 ## The Simple Era

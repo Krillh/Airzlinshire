@@ -1,5 +1,7 @@
 #Documents 
 
+> [!bug] ARCHIVE - not canonical
+
 This is the translated diary of one person who seemed to be the first to discover bronze.
 
 ```

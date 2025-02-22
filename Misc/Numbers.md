@@ -13,6 +13,8 @@ Table of acronyms
 |        | stack | 64 - l.. ...                 |
 | B      | byte  | 256 - l .... .... - 2^8      |
 | S      | short | 2^16 - l .... .... .... .... |
+|        | int   | 2^32                         |
+|        | long  | 2^64                         |
 
 Table of numbers:
 
@@ -113,28 +115,14 @@ deiliba -> delba -> dab
 deilidei -> deldei -> ded
 
 simplification of [[Old Gvar]] number blocks
-zu -> zu -> zu
-ba -> ba -> ba
-ve -> ve -> ve
-li -> li -> li
-lizu -> lizu -> liuz 
-liba -> liba -> liab
-live -> live -> liev
-bali -> bali -> bail
-balizu -> balzu -> buaz
-baliba -> balba -> bab
-balive -> balve -> beal
-veli -> veli -> veil
-velizu -> velzu -> vuez
-veliba -> velba -> veab
-velive -> velve -> vel
+
 
 23002 (.l.l l..l ll.l l.l.)
 .l.l - li zu
 l..l - ba li zu
 ll.l - ve li zu
 l.l. - ba li ba
-lizu jy balizu mi velizu jy beliba
+
 twenty three thousand and two
 lizu ru balzu kei delzu ru balba -> liuz ru buz kei duz ru bal
 
@@ -143,6 +131,5 @@ lizu ru balzu kei delzu ru balba -> liuz ru buz kei duz ru bal
 lll. - ve li ba
 .... - 
 .... - 
-li jy ve li ba mi
 nineteen thousand, nine hundred sixty eight
 li ru delba kei -> li ru dab kei

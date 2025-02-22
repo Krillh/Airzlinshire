@@ -75,4 +75,4 @@ To turn a sentence into a question, add one (or more if combined with combinator
 /hipshin pin e tasi o pnin/
 how did you do that?
 
-When speaking, question markers usually have a falling 
+When speaking, question markers usually have a falling tone. This is the only consistent example of tone in [[Old Gvar]].

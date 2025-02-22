@@ -72,7 +72,6 @@ To turn a sentence into a question, add one (or more if combined with combinator
 - hitshon: where
 - hipshin: how
 
-/hipshin pin e tasi o pnin/
-how did you do that?
+/hipshin pin e tasi o pnin/ -> how did you do that?
 
 When speaking, question markers usually have a falling tone. This is the only consistent example of tone in [[Old Gvar]].

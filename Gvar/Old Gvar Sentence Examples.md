@@ -17,7 +17,7 @@
 	- ksasi o *(verb)*
 	- biksar *(direct object)*
 
-/partisha knen e gnivu o ti bloza gnin/ -> "Our crops sell for much money"
+/partisha knen e gnivu oe ti bloza gnin/ -> "Our crops sell for much money"
 - partisha knen e *(subject)*
 - gnivu oe *(reflexive verb)*
 - ti *(preposition)*

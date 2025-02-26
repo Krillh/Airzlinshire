@@ -40,3 +40,9 @@
 	- pan *(direct object)* me
 	- sh *(preposition)* on
 	- kner *(object)* farm
+
+/pen e kfesi o pshin/ -> they know the way
+- pen e *(subj)* they
+- kfesi o *(verb)* know
+- pishin *(object)* way, custom, manner
+

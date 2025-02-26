@@ -41,8 +41,10 @@
 	- sh *(preposition)* on
 	- kner *(object)* farm
 
-/pen e kfesi o pshin/ -> they know the way
+/pen e kfesi o pesha pshir/ -> "They know their customs/"
+	**Note:** /pen/ is a pronoun and /pesha/ indicates that ownership by the subject of the sentence.
 - pen e *(subj)* they
 - kfesi o *(verb)* know
-- pishin *(object)* way, custom, manner
+- pesha phsir *(object)* their way
 
+/pen e kfesi o pusha pshir/ -> "They know their customs."

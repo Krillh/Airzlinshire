@@ -41,10 +41,17 @@
 	- sh *(preposition)* on
 	- kner *(object)* farm
 
-/pen e kfesi o pesha pshir/ -> "They know their customs/"
-	**Note:** /pen/ is a pronoun and /pesha/ indicates that ownership by the subject of the sentence.
+/pen e kfesi o pesha pshir/ -> "They know their (own) customs."
+	**Note:** /pesha/ indicates that ownership by the subject of the sentence.
 - pen e *(subj)* they
 - kfesi o *(verb)* know
-- pesha phsir *(object)* their way
+- pesha pshir *(object)* their (own) way
 
 /pen e kfesi o pusha pshir/ -> "They know their customs."
+	**Note:** /pusha/ is used here to indicate that the customs are someone else's rather than like the previous example.
+- pen e *(subj)* they
+- kfesi o *verb* know
+- pusha pshir *(object)* their way (not their own, but someone else's)
+
+	**Note:** /pen/ is used to talk about the direct subject in the 3rd person, while /pun/ is for the auxiliary subject, per se. If you've been mostly talking about person A, then they get /pen/, while person B would get /pun/.
+

@@ -83,7 +83,7 @@ To turn a sentence into a question, add one (or more if combined with combinator
 
 For example, you could say, /hipshin pin e tasi o pnin/ -> how did you do that? When speaking, question markers usually have a falling tone. This is the only consistent example of tone in [[Old Gvar]].
 # Phonology
-Old Gvar origionaly used the following consonants in IPA: p, b, t, d, k, g, ɸ, β, s, z, ʃ, ʒ, x, m, n, l, ɻ
+Old Gvar originally used the following consonants in IPA: p, b, t, d, k, g, ɸ, β, s, z, ʃ, ʒ, x, m, n, l, ɻ. However, because some consonant clusters are difficult to say, there were a few rapid phonological changes. The language after these minor consonant shifts is considered to be the real Old Gvar since the period before them was so short-lived.
 p - p
 b - b
 t - t

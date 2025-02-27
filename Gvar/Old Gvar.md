@@ -109,4 +109,4 @@ And from the initial consonant easing, y - \[j\].
 The vowels are Romanized with the same Roman characters as their IPA counterparts.
 
 # Roots
-Old Gvar ha
+Old Gvar has a collection of roots that have suffixes added to them to make them into words. A small collection of words can be used in root form. 

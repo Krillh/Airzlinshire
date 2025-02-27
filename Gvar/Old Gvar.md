@@ -107,3 +107,6 @@ l - \[l\], r - \[ɻ\]
 And from the initial consonant easing, y - \[j\].
 
 The vowels are Romanized with the same Roman characters as their IPA counterparts.
+
+# Roots
+Old Gvar ha

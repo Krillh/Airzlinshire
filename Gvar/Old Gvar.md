@@ -3,6 +3,8 @@
 Old Gvar was the primary spoken language of the [[Gmarpshin]] people.
 
 
+
+
 # Sentence Construction
 ## Parts of speech
 There are 8 primary parts of speech in Old Gvar. Nouns, verbs, adjectives, prepositions, conjunctions, particles, sentence relators, and combinators.
@@ -75,3 +77,4 @@ To turn a sentence into a question, add one (or more if combined with combinator
 /hipshin pin e tasi o pnin/ -> how did you do that?
 
 When speaking, question markers usually have a falling tone. This is the only consistent example of tone in [[Old Gvar]].
+

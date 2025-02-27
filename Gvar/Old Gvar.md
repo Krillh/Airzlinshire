@@ -94,23 +94,16 @@ Old Gvar originally used the following consonants in IPA: p, b, t, d, k, g, ɸ, 
 Old Gvar also has vowels. It uses the following vowels (in IPA): u, o, a, e, i. 
 
 ## Romanization
-The consonants in Old Gvar are Romanized as follows:
-p - p
-b - b
-t - t
-d - d
-k - k
-g - g
-f - ɸ
-v - β
-s - s
-z - z
-q (sh) - ʃ
-j - ʒ
-h - x
-m - m
-n - n
-l - l
-r - ɻ
+The consonants in Old Gvar are Romanized as follows (Romanized, IPA):
+p - \[p\], b - \[b\]
+t - \[t\], d - \[d\]
+k - \[k\], g - \[g\]
+f - \[ɸ\], v - \[β\]
+s - \[s\], z - \[z\]
+sh (sometimes "q") - \[ʃ\], j - \[ʒ\]
+h - \[x\]
+m - \[m\], n - \[n\]
+l - \[l\], r - \[ɻ\]
+And from the initial consonant easing, y - \[j\].
 
-with 
+The vowels are Romanized with the same Roman characters as their IPA counterparts.

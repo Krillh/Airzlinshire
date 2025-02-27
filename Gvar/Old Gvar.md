@@ -2,7 +2,15 @@
 
 Old Gvar was the primary spoken language of the [[Gmarpshin]] people.
 
-
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+hideWhenEmpty: false # Hide TOC if no headings are found
+debugInConsole: false # Print debug info in Obsidian console
+```
 
 
 # Sentence Construction
@@ -31,9 +39,8 @@ In Gvar, there isn't really a concept of phrases. The different sections of a cl
 ## Putting Together a Sentence
 When making a clause, you start with a subject. This is the person, place, thing, or idea that you want to describe. After that, you add the subject marker /e/. Now you need a verb, something that the subject is doing. If it is a reflexive verb, end it with the particle /oe/, otherwise end it with /o/. If the verb is not reflexive, you need an object. This can be nearly anything, including another clause. If the object is not direct, you must use a preposition before it. You may add as many prepositions and objects as you like. Then, if you wish, you may add a conjunction and start a dependent clause. This is the same process as the independent clause now.
 
-### Example 1:
+**Example:**
 /pan e ksevi o bil s dvavi o pasha kan/
-
 - pan - n. the self
 - e - subject marker
 - ksevi - v. need
@@ -74,7 +81,22 @@ To turn a sentence into a question, add one (or more if combined with combinator
 - hitshon: where
 - hipshin: how
 
-/hipshin pin e tasi o pnin/ -> how did you do that?
-
-When speaking, question markers usually have a falling tone. This is the only consistent example of tone in [[Old Gvar]].
-
+For example, you could say, /hipshin pin e tasi o pnin/ -> how did you do that? When speaking, question markers usually have a falling tone. This is the only consistent example of tone in [[Old Gvar]].
+# Phonology
+p - p
+b - b
+t - t
+d - d
+k
+g
+f
+v
+s
+z
+q
+j
+h
+m
+n
+l
+r

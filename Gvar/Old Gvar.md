@@ -63,34 +63,39 @@ Verbs are rarely dropped on their own, but in the case that one wants to be poet
 The only normal time when the direct object is dropped from a clause is when the verb is reflexive. The verb is marked with /oe/ instead of /o/ and that's all there is. Indirect objects don't get dropped.
 ## Sentence Relators
 Sentence relators are a special type of word that gets inserted between sentences to both split them and describe how they are related to each other. All SRs start with the /h/ phoneme. Some common ones are:
-- han: related idea + unspecified relative time
-- haf: related + before
-- haz: related + simultaneous
-- hash: related + after
-- hur: end of paragraph or idea
-- hef: caused by (because)
-- hesh: causes (and so)
-- hon: contrasting (contrarily, however)
+- /han/: related idea + unspecified relative time
+- /haf/: related + before
+- /haz/: related + simultaneous
+- /hash/: related + after
+- /hur/: end of paragraph or idea
+- /hef/: caused by (because)
+- /hesh/: causes (and so)
+- /hon/: contrasting (contrarily, however)
 ## Forming Questions
 To turn a sentence into a question, add one (or more if combined with combinators) question markers (particles) to the beginning of a sentence, even before the subject. All question markers start with /hi/.
-- hin: what
-- hil: who
-- hitfon: when (specifically)
-- hitfor: when (era / period)
-- hikfen: why
-- hitshon: where
-- hipshin: how
+- /hin/: what
+- /hil/: who
+- /hitfon/: when (specifically)
+- /hitfor/: when (era / period)
+- /hikfen/: why
+- /hitshon/: where
+- /hipshin/: how
 
 For example, you could say, /hipshin pin e tasi o pnin/ -> how did you do that? When speaking, question markers usually have a falling tone. This is the only consistent example of tone in [[Old Gvar]].
 ## Forming Requests and Commands
 Like with questions, requests are formed by putting a request marker (particle) at the start of a sentence. All request markers start with /hya/. Unlike questions markers, these aren't combined with other roots to add meaning, they only have suffixes for different connotations.
-- hyan: informal question (most common)
-- hyar: informal and urgent question
-- hyash: formal question
-- hyaf: formal and urgent question
-- hyaz: casual and not urgent question (used in friendly banter)
+- /hyan/: informal question (most common)
+- /hyar/: informal and urgent question
+- /hyash/: formal question
+- /hyaf/: formal and urgent question
+- /hyaz/: casual and not urgent question (used in friendly banter)
 
-In Old Gvar and [[Gmarpshin]], requests are accepted to be rejectable. However if you want to ask someone to do something with a strong emphasis that they should comply, it is a command and should be marked with a command marker. These are formed with /h
+In Old Gvar and [[Gmarpshin]], requests are accepted to be rejectable. However if you want to ask someone to do something with a strong emphasis that they should comply, it is a command and should be marked with a command marker. These are formed with /hyo/ and like request markers, are not combined with other roots, only suffixes.
+- /hyon/: informal command (most common)
+- /hyor/: informal and urgent or severe command
+- /hyosh/: formal command
+- /hyof/: formal and urgent or severe command
+- /hyoz/: casual command, almost just a question
 # Phonology
 Old Gvar originally used the following consonants in IPA: p, b, t, d, k, g, ɸ, β, s, z, ʃ, ʒ, x, m, n, l, ɻ. However, because some consonant clusters are difficult to say, there were a few rapid phonological changes. The language after these minor consonant shifts is considered to be the real Old Gvar since the period before them was so short-lived. The cluster changes are as follows:
 - \[tl\] -> \[sl\]

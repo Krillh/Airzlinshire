@@ -116,4 +116,4 @@ And from the initial consonant easing, y - \[j\].
 The vowels are Romanized with the same Roman characters as their IPA counterparts.
 
 # Roots
-Old Gvar has a collection of roots that have suffixes added to them to make them into words. A small collection of words can be used in root form. All roots are wither Almost all roots start with a plosive phoneme (like /k/ and /p/)
+Old Gvar has a collection of roots that have suffixes added to them to make them into words. A small collection of words can be used in root form. All roots are either CV or CCV (one consonant and one vowel, or two consonants and one vowel). Almost all roots start with a plosive phoneme (like /k/ and /p/) then have a fricative (like /s/ or /f/), an approximant (/l/ or /r/), or a nasal (/n/ or /m/). It's interesting to note that fricatives, approximants, and nasals don't stop airflow, while plosives do. This means that each syllable (for the most part) has constant airflow and they're broken up by a stop of the air with a plosive starting the next syllable. This is only true for roots though. Suffixes that create a syllable are mostly

@@ -85,7 +85,7 @@ To turn a sentence into a question, add one (or more if combined with combinator
 
 For example, you could say, /hipshin pin e tasi o pnin/ -> how did you do that? When speaking, question markers usually have a falling tone. This is the only consistent example of tone in [[Old Gvar]].
 
-\* /hipshif/ is a slightly more interesting case than the rest. To ask "what is this thing?", you would say /hipshif pnapnen e dyo oe/. Notice how you literally say "what this-thing is itself?", the verb /dyo/ (to be) is reflexive. Or a simpler case /hipshif pnin e dyo oe/ -> "what is that?"
+\* /hipshif/ is a slightly more interesting case than the rest. To ask "what is this thing?", you would say /hipshif pnapnen e dyo oe/. Notice how you literally say "what this-thing is itself?", the verb /dyo/ (to be) is reflexive. Or a simpler case: /hipshif pnin e dyo oe/ -> "what is that?".
 ## Forming Requests and Commands
 Like with questions, requests are formed by putting a request marker (particle) at the start of a sentence. All request markers start with /hya/. Unlike questions markers, these aren't combined with other roots to add meaning, they only have suffixes for different connotations.
 - /hyan/: informal question (most common)
@@ -109,7 +109,7 @@ Old Gvar originally used the following consonants in IPA: p, b, t, d, k, g, ɸ, 
 - \[tɻ\] -> \[tj\] (ty)
 - \[dɻ\] -> \[dj\] (dy)
 
-Old Gvar also has vowels. It uses the following vowels (in IPA): u, o, a, e, i. 
+Old Gvar also has vowels. It uses the following vowels (in IPA): a, i, u, e, o.
 
 ## Romanization
 The consonants in Old Gvar are Romanized as follows (Romanized, IPA):

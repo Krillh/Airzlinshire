@@ -57,3 +57,7 @@
 
 The endless fields and towering mountains painted a breathtaking backdrop as I walked across the country.
 /gmasha gmegnan a bnosha glan tfisi o ...
+
+
+/pin e gzadvavi oe s pisha tfil bza pun/ -> "You walk yourself over to your worker like a person."
+- pin

@@ -14,3 +14,4 @@ Community and relationships are viewed as a circle, where every member is equall
 Helices are associated with mortals things; things that are finite and possibly unstable in comparison with circular cycles.
 
 The process of healing, whether physical or emotional, is seen as a helix. It involves stages of progress and setbacks, eventually leading to recovery and growth. This belief encourages patience, resilience, and understanding that healing is a journey rather than a destination.
+

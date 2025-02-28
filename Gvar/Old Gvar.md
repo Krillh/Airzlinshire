@@ -82,6 +82,13 @@ To turn a sentence into a question, add one (or more if combined with combinator
 - hipshin: how
 
 For example, you could say, /hipshin pin e tasi o pnin/ -> how did you do that? When speaking, question markers usually have a falling tone. This is the only consistent example of tone in [[Old Gvar]].
+## Forming Requests
+Like with questions, requests are formed by putting a request marker (particle) at the start of a sentence. All request markers start with /hya/. Unlike questions markers, these aren't combined with other roots to add meaning, they only have suffixes for different connotations.
+- hyan: informal question (most common)
+- hyar: informal and urgent question
+- hyash: formal question
+- hyaf: formal and urgent question
+- hyaz: casual and not urgent question (used in friendly banter)
 # Phonology
 Old Gvar originally used the following consonants in IPA: p, b, t, d, k, g, ɸ, β, s, z, ʃ, ʒ, x, m, n, l, ɻ. However, because some consonant clusters are difficult to say, there were a few rapid phonological changes. The language after these minor consonant shifts is considered to be the real Old Gvar since the period before them was so short-lived. The cluster changes are as follows:
 - \[tl\] -> \[sl\]
@@ -109,4 +116,4 @@ And from the initial consonant easing, y - \[j\].
 The vowels are Romanized with the same Roman characters as their IPA counterparts.
 
 # Roots
-Old Gvar has a collection of roots that have suffixes added to them to make them into words. A small collection of words can be used in root form. 
+Old Gvar has a collection of roots that have suffixes added to them to make them into words. A small collection of words can be used in root form. All roots are wither Almost all roots start with a plosive phoneme (like /k/ and /p/)

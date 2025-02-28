@@ -41,16 +41,16 @@ When making a clause, you start with a subject. This is the person, place, thing
 
 **Example:**
 /pan e ksevi o bil s dvavi o pasha kan/
-- pan - n. the self
-- e - subject marker
-- ksevi - v. need
-- o - typical verb marker
-- bil - n. helper (direct object because of the lack of preposition)
-- s - conjunction meaning "for" or "to", indicating reason, or purpose
-- dvavi - v. carry. Notice, there is no subject in the dependent clause because it's clear though context who the subject is (the helper)
-- o - typical verb marker
-- pasha - a. my
-- kan - n. basket
+- /pan/ - n. the self
+- /e/ - subject marker
+- /ksevi/ - v. need
+- /o/ - typical verb marker
+- /bil/ - n. helper (direct object because of the lack of preposition)
+- /s/ - conjunction meaning "for" or "to", indicating reason, or purpose
+- /dvavi/ - v. carry. Notice, there is no subject in the dependent clause because it's clear though context who the subject is (the helper)
+- /o/ - typical verb marker
+- /pasha/ - a. my
+- /kan/ - n. basket
 
 All together, the sentence translates to: "I need a helper to carry my basket".
 
@@ -73,15 +73,19 @@ Sentence relators are a special type of word that gets inserted between sentence
 - /hon/: contrasting (contrarily, however)
 ## Forming Questions
 To turn a sentence into a question, add one (or more if combined with combinators) question markers (particles) to the beginning of a sentence, even before the subject. All question markers start with /hi/.
-- /hin/: what
+- /hin/: is
 - /hil/: who
 - /hitfon/: when (specifically)
 - /hitfor/: when (era / period)
 - /hikfen/: why
 - /hitshon/: where
 - /hipshin/: how
+- /hipshon/: can
+- /hipshif/: what*
 
 For example, you could say, /hipshin pin e tasi o pnin/ -> how did you do that? When speaking, question markers usually have a falling tone. This is the only consistent example of tone in [[Old Gvar]].
+
+\* /hipshif/ is a more interesting case than the rest. To ash 
 ## Forming Requests and Commands
 Like with questions, requests are formed by putting a request marker (particle) at the start of a sentence. All request markers start with /hya/. Unlike questions markers, these aren't combined with other roots to add meaning, they only have suffixes for different connotations.
 - /hyan/: informal question (most common)

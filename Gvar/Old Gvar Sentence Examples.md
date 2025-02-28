@@ -59,5 +59,10 @@ The endless fields and towering mountains painted a breathtaking backdrop as I w
 /gmasha gmegnan a bnosha glan tfisi o ...
 
 
-/pin e gzadvavi oe s pisha tfil bza pun/ -> "You walk yourself over to your worker like a person."
-- pin
+/pin e gzadvavi oe s pisha tfil bza pun/ -> "You walk over to your worker like a person."
+- pin e *(subj)* you
+- gzadvavi oe *(reflexive verb)* walk (yourself)
+-  sh *(preposition)* to
+- pisha tfil *(object)* your worker (habitual)
+- bza *(preposition)* like
+- pun *(object)* person

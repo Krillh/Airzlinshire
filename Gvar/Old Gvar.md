@@ -88,7 +88,7 @@ For example, you could say, /hipshin pin e tasi o pnin/ -> how did you do that? 
 \* /hipshif/ is a slightly more interesting case than the rest. To ask "what is this thing?", you would say /hipshif pnapnen e dyo oe/. Notice how you literally say "what this-thing is itself?", the verb /dyo/ (to be) is reflexive. Or a simpler case: /hipshif pnin e dyo oe/ -> "what is that?".
 ## Forming Requests and Commands
 Like with questions, requests are formed by putting a request marker (particle) at the start of a sentence. All request markers start with /hya/. Unlike questions markers, these aren't combined with other roots to add meaning, they only have suffixes for different connotations.
-- /hyan/: informal question (most common)
+- /hyan/: informal request (most common)
 - /hyar/: informal and urgent question
 - /hyash/: formal question
 - /hyaf/: formal and urgent question

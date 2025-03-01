@@ -89,10 +89,10 @@ For example, you could say, /hipshin pin e tasi o pnin/ -> how did you do that? 
 ## Forming Requests and Commands
 Like with questions, requests are formed by putting a request marker (particle) at the start of a sentence. All request markers start with /hya/. Unlike questions markers, these aren't combined with other roots to add meaning, they only have suffixes for different connotations.
 - /hyan/: informal request (most common)
-- /hyar/: informal and urgent question
-- /hyash/: formal question
-- /hyaf/: formal and urgent question
-- /hyaz/: casual and not urgent question (used in friendly banter)
+- /hyar/: informal and urgent request
+- /hyash/: formal request
+- /hyaf/: formal and urgent request
+- /hyaz/: casual and not urgent request (used in friendly banter)
 
 In Old Gvar and [[Gmarpshin]], requests are accepted to be rejectable. However if you want to ask someone to do something with a strong emphasis that they should comply, it is a command and should be marked with a command marker. These are formed with /hyo/ and like request markers, are not combined with other roots, only suffixes.
 - /hyon/: informal command (most common)

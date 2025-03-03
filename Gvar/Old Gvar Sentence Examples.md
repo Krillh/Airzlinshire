@@ -1,4 +1,4 @@
-
+#OldGvar 
 
 /pan e ksevi o bil s dvavi o pasha kan/ -> "I need a helper to carry my basket"
 - pan e *(subject)*
@@ -56,11 +56,18 @@
 	**Note:** /pen/ is used to talk about the direct subject in the 3rd person, while /pun/ is for the auxiliary subject, per se. If you've been mostly talking about person A, then they get /pen/, while person B would get /pun/.
 
 
-/gmasha gmegnan a bnosha glan e tfisi o gjesho djagnan tfo pan e dvasi o gmugnan/ -> "The endless fields and towering mountains painted a breathtaking backdrop as I walked across the country".
+/gmasha gmegnan a bnosha glan e tfisi o gjesho djagnan tfo pan e dvasi o gmu gnan/ -> "The endless fields and towering mountains painted a breathtaking backdrop as I walked across the country".
 - gmasha gmegnan *(subj)* infinite plains
 - a *(combinator)* and
 - bnosha glan *(subj)* tall mountains
 - e *(subject marker)*
+- tfisi o *(verb)* make
+- gjesho djagnan *(object)* beautiful background
+	- tfo *(conjunction)* while
+	- pan e *(subject)* I
+	- dvasi oe *(reflexive verb)* travel
+	- gmu *(preposition)* across
+	- gnan *(object)* country/land
 
 
 /pin e gzadvavi oe s pisha tfil bza pun/ -> "You walk over to your worker like a person."

@@ -56,7 +56,7 @@
 	**Note:** /pen/ is used to talk about the direct subject in the 3rd person, while /pun/ is for the auxiliary subject, per se. If you've been mostly talking about person A, then they get /pen/, while person B would get /pun/.
 
 The endless fields and towering mountains painted a breathtaking backdrop as I walked across the country.
-/gmasha gmegnan a bnosha glan e tfisi o 
+/gmasha gmegnan a bnosha glan e tfisi o gjesho 
 
 
 /pin e gzadvavi oe s pisha tfil bza pun/ -> "You walk over to your worker like a person."

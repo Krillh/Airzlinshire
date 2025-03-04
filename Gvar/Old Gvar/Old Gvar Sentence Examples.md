@@ -20,7 +20,7 @@
 /partisha knen e gnivu oe ti bloza gnin/ -> "Our crops sell for much money"
 - partisha knen e *(subject)*
 - gnivu oe *(reflexive verb)*
-- ti *(preposition)*
+- ti *(preposition)* 
 - bloza gnin *(object)*
 
 /pan e zlisi o pasha dyir sh pna-zligmen haz pan e tisi o gzif s pin e blosha bivi o pan sh kner/ -> "As i write my thoughts, I am thankful for your big help on the farm."

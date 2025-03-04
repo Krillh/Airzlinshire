@@ -23,7 +23,7 @@
 - ti *(preposition)* 
 - bloza gnin *(object)*
 
-/pan e zlisi o pasha dyir sh pna-zligmen haz pan e tisi o gzif s pin e blosha bivi o pan sh kner/ -> "As i write my thoughts, I am thankful for your big help on the farm."
+/pan e zlisi o pasha dyir sh pnazligmen haz pan e tisi o gzif s pin e blosha bivi o pan sh kner/ -> "As i write my thoughts, I am thankful for your big help on the farm."
 - pan e *(subj)* I
 - zlisi o *(verb)* write
 - pasha dyir *(direct object)* my thoughts

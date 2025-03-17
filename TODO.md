@@ -5,7 +5,7 @@
 	- [ ] Put [[Old Gvar]] through sound changes in Chronlang
 	- [ ] make a reference grammar
 	- [ ] make a dictionary
-	- [ ] make a writing system - logograms
+	- [x] make a writing system - logograms
 	- [ ] document [[Old Gvar]] at different points in time
 - [ ] Document the history of writing
 	- [ ] How did they write [[Old Gvar]]?

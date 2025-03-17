@@ -129,5 +129,5 @@ Old Gvar has a collection of roots that have suffixes added to them to make them
 
 ## Bound and Free Morphemes
 Most roots are bound morphemes, requiring a suffix to become a word. There are some roots that can be used as free morphemes, like /dyo/ (verb: to be), and /ti/ (preposition: with). Usually roots that act as free morphemes are very common verbs (like /dyo/), or other commonly repeated parts of speech like prepositions, and conjunctions. Some roots can also be used as prefixes, like /pna/ (this). In those cases, the root usually became a free morpheme adjective that then formed into a prefix. In [[Gvar Writing]], there are no spaces, so there is no difference between a free morpheme adjective and a prefix.
-## Compound Adjectives
-Over time, some prefixes get used with another root so often that they form a new root.
+## Compound Roots
+Over time, some prefixes get used with another root so often that they form a new root. This is called a compound root.

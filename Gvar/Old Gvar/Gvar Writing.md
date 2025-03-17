@@ -11,4 +11,4 @@ As hinted to before, /h/ roots are a special case. All /h/ roots have one stroke
 ### Compound Roots
 When writing [[Old Gvar#Compound Roots|compound roots]], all but the last character will be free of *any* diacritics, signaling that it is a bound morpheme, and the final character will receive the diacritic for the whole word.
 ## Full-Width and Half-Width Characters
-Some words are not principal roots, but are still part of the principal character set
+All principal roots are written with a roughly 2:3 aspect ratio, being taller than they are wide. These are called full-width characters. Some words are not principal roots, but are still part of the principal character set. These are mono-phoneme words like /e/ and /f/. These are written as half-width characters, having an aspect ratio of 1:3. Half-width characters do not get any diacritics.

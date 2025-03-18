@@ -1,0 +1,10 @@
+#City 
+
+[City Map](https://watabou.github.io/city-generator/?name=Gnin&population=10420&size=32&seed=4549369340223&river=0&coast=0&farms=1&citadel=0&urban_castle=0&hub=false&plaza=1&temple=0&walls=0&shantytown=0&gates=-1)
+Gnin, [[Klan County]], [[Bzaf]]
+**Location:** [[Eastern Continent]] Mainland - [[Ksun Gulf]] Coast - 138"E 30"S
+**Neighbors:**
+- [[Gmir Klan Bzaf]] - 217 km: north on [[Gnin Trail]] for 195 km -> right onto [[Gman Trail]] for 27 km
+- [[Klan Klan Bzaf]] - 137 km: east on [[Kfan Trail]] for 66 km -> left onto [[Der Route]] for 71 km
+- [[Kfan Klan Bzaf]] - 164 km: east then south on [[Kfan Trail]]
+

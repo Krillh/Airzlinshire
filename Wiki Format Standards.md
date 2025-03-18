@@ -11,8 +11,15 @@
 
 "**City Map:** (interactive map link)"
 "city map image"
+- Graphics -> Thin lines, Tint districts
+- Elements ->
+	- Font size = Medium
+	- Districts = Straight
+	- Landmarks = hidden
+	- Title, 
 - Buildings -> 
 	- Display mode = Complex
 	- Processing = Offset
-	- Roofs = Plain
-	- 
+	- Roofs = Plain, Raised = no, Solids = yes
+- Outline -> Buildings, Water, Roads
+- 

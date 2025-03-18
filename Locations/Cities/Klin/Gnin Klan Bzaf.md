@@ -2,6 +2,8 @@
 
 
 Gnin, [[Klan County]], [[Bzaf]]
+**Population:** 10400   **Hot Season:** 33 - 27 - 21   **Cold Season:** 7 - 3 - 0
+**Elevation:** 49 m   **Annual Rainfall:** 
 **Location:** [[Eastern Continent]] Mainland - [[Ksun Gulf]] Coast - 138"E 30"S
 **Neighbors:**  (distances rounded to nearest 5 km)
 - [[Gman Klan Bzaf]] - 310 km NW: [[Gnin Trail]] for 190 km -> left onto [[Gman Trail]] for 120 km

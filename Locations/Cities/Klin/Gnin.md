@@ -4,4 +4,4 @@
 **Location:** [[Eastern Continent]] Mainland - [[Ksun Gulf]] Coast - 138"E 30"S
 **Connections:**
 - [[Gmir]] - 217 km: north on [[Gnin Trail]] for 195 km -> right onto [[Gman Trail]] for 27 km
-- 
+- [[Klan]] - 

@@ -10,8 +10,7 @@
 "Desctiption"
 
 "**City Map:** (interactive map link)"
-"city map image"
-
+"city map image from Procgen Arcana formatted as SVG"
 ### Procgen Arcana City Map Style Guideline
 - Graphics -> Thin lines, Tint districts
 - Elements ->

@@ -1,3 +1,5 @@
+#Wiki 
+
 Welcome to the [[Airzlinshire]] wiki! Here is all the information about the fantasy world of [[Airzlinshire]].
 
 Starting Points:

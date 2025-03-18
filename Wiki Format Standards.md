@@ -1,7 +1,8 @@
-This is a list of some typed of pages that have a more or less standardized format.
+#Wiki 
 
-Anything in double quotes needs to be 
+This is an archive of some types of pages that have a more or less standardized format. Anything in double quotes is something that needs to be filled out with information. The only thing all pages must have as far as formatting is tags at the top, then a line break before anything else.
 # City Page
+(example: [[Gnin Klan Bzaf]])
 "#Location" "#City"
 
 "city name", "county name", "kingdom"
@@ -17,10 +18,10 @@ Anything in double quotes needs to be
 "**City Map:** (interactive map link)"
 "city map image from Procgen Arcana [[#Procgen Arcana City Map Style Guideline|formatted]] as SVG"
 
-"## History"
-"## Geography"
-"## Economy"
-"## Politics"
+"# History"
+"# Geography"
+"# Economy"
+"# Politics"
 ### Procgen Arcana City Map Style Guideline
 - Graphics -> Thin lines, Tint districts
 - Elements ->

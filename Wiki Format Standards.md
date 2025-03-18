@@ -1,20 +1,26 @@
+This is a list of some typed of pages that have a more or less standardized format.
 
-## City Page
-**tags:** Location City
+Anything in double quotes needs to be 
+# City Page
+"#Location" "#City"
 
-**full name:** "city name", "county name", "kingdom"
-"**Population:** population" ... "**Hot season:** avg high - avg mean - avg low" ... "**Cold season:** avg high - avg mean - avg low"
+"city name", "county name", "kingdom"
+**Population:** "population" ... **Hot season:** "avg high" - "avg mean" - "avg low" ... **Cold season:** "avg high" - "avg mean" - "avg low"
 "**Elevation:** elevation" m ... "**Annual Rainfall:** rainfall" mm
-"**Location:**" "continent Mainland (or) island name" - "body of water Coast (or) Inland" - long E/W, latitude N/S
-"**Neighbors:**  (distances rounded to nearest 5 km)"
+"**Location:**" "continent Mainland (or) island name" - "body of water Coast (or) Inland" - "longitude E/W latitude N/S"
+**Neighbors:**  (distances rounded to nearest 5 km)
 - "full city name" - "total distance" km "direction": "trail name" for "distance" km -> "left/right" onto "trail name" for "distance" km -> etc.
 - etc.
+
+"one paragraph about the city. known for, interesting features, etc"
 
 "**City Map:** (interactive map link)"
 "city map image from Procgen Arcana [[#Procgen Arcana City Map Style Guideline|formatted]] as SVG"
 
-"## "
 "## History"
+"## Geography"
+"## Economy"
+"## Politics"
 ### Procgen Arcana City Map Style Guideline
 - Graphics -> Thin lines, Tint districts
 - Elements ->

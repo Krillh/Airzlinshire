@@ -18,7 +18,9 @@ Gnin, [[Klan County]], [[Bzaf]]
 - [[Kfan Klan Bzaf]] - 165 km SSE:
 	- [[Kfan Trail Bzaf]] for 165 km
 
+Gnin is a coastal city on the Ksun Gulf in Klan County, Bzaf. 
+
 **City Map:** ([Interactive](https://watabou.github.io/city-generator/?name=Gnin&population=10420&size=32&seed=4549369340223&river=0&coast=0&farms=1&citadel=0&urban_castle=0&hub=false&plaza=1&temple=0&walls=0&shantytown=0&gates=-1))
 ![[gnin klan bzaf map.svg]]
 
-Gnin is a coastal city on the Ksun Gulf in Klan County, Bzaf. 
+

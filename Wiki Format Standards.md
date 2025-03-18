@@ -7,7 +7,7 @@ This is an archive of some types of pages that have a more or less standardized 
 
 "city name", "county name", "kingdom"
 **Population:** "population" ... **Hot season:** "avg high" - "avg mean" - "avg low" ... **Cold season:** "avg high" - "avg mean" - "avg low"
-"**Elevation:** elevation" m ... "**Annual Rainfall:** rainfall" mm
+**Elevation:** "elevation" m ... **Annual Rainfall:** "rainfall" mm ... **Biome:** "biome"
 "**Location:**" "continent Mainland (or) island name" - "body of water Coast (or) Inland" - "longitude E/W latitude N/S"
 **Neighbors:**  (distances rounded to nearest 5 km)
 - "full city name" - "total distance" km "direction": "trail name" for "distance" km -> "left/right" onto "trail name" for "distance" km -> etc.
@@ -33,7 +33,7 @@ This is an archive of some types of pages that have a more or less standardized 
 	- Display mode = Complex
 	- Processing = Offset
 	- Roofs = Plain, Raised = no, Solids = yes
-- Outline -> Buildings, Water, Roads
+- Outline -> Buildings, Water
 - Misc -> 
 	- Show alleys
 	- Towers = Round

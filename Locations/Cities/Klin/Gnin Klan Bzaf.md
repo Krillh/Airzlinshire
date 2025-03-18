@@ -4,7 +4,9 @@
 Gnin, [[Klan County]], [[Bzaf]]
 **Location:** [[Eastern Continent]] Mainland - [[Ksun Gulf]] Coast - 138"E 30"S
 **Neighbors:**
-- [[Gmir Klan Bzaf]] - 217 km: north on [[Gnin Trail]] for 195 km -> right onto [[Gman Trail]] for 27 km
-- [[Klan Klan Bzaf]] - 137 km: east on [[Kfan Trail]] for 66 km -> left onto [[Der Route]] for 71 km
-- [[Kfan Klan Bzaf]] - 164 km: east then south on [[Kfan Trail]]
+- [[Gman Klan Bzaf]] - 312 km NW: [[Gnin Trail]] for 189 km -> left onto [[Gman Trail]] for 122 km
+- [[Gmir Klan Bzaf]] - 217 km NNW: [[Gnin Trail]] for 189 km -> right onto [[Gman Trail]] for 27 km
+- [[Klan Klan Bzaf]] - 137 km E: [[Kfan Trail]] for 66 km -> left onto [[Der Route]] for 71 km
+- [[Kfan Klan Bzaf]] - 164 km SSE: [[Kfan Trail]] for 164 km
 
+Gnin is a coastal city on the Ksun Gulf in Klan County, Bzaf. 

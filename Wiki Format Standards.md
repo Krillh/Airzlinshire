@@ -59,7 +59,15 @@ This is an archive of some types of pages that have a more or less standardized 
 
 "#Location" "#Path" maybe "#Road" or "#Trail"
 
-"road or trail": "path name", "route / pass / trail" "length" km (rounded to nearest 5 km)
+"path name", "route / pass / trail / road" "length" km (rounded to nearest 5 km)
+> [!note] Path Types
+> - Route: connects multiple cities together
+> - Pass: connects usually one, but sometimes two or more cities as an offshoot from a more prominent path
+> - Trail: connects a few cities together directly and is not large.
+> - Road: made for high amounts of traffic, paved, and usually spanning large lengths
+
+
+
 **Stops:**
 - "starting point, most north west end of path"
 - "next stop, etc..."

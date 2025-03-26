@@ -5,7 +5,7 @@ This is an archive of some types of pages that have a more or less standardized 
 (example: [[Gnin Klan Bzaf]])
 "#Location" "#City"
 
-"city name", "county name", "kingdom"
+"city name", "territory name", "kingdom"
 **Population:** "population" ... **Hot season:** "avg high" - "avg mean" - "avg low" ... **Cold season:** "avg high" - "avg mean" - "avg low"
 **Elevation:** "elevation" m ... **Annual Rainfall:** "rainfall" mm ... **Biome:** "biome"
 "**Location:**" "continent Mainland (or) island name" - "body of water Coast (or) Inland" - "longitude E/W latitude N/S"
@@ -59,9 +59,9 @@ This is an archive of some types of pages that have a more or less standardized 
 
 "#Location" "#Path" maybe "#Road" or "#Trail"
 
-"path name" "route / pass / trail / road", "length" km (rounded to nearest 5 km)
+"path name" "territory if starting point" "kingdom of starting point" "route / pass / trail / road", "length" km (rounded to nearest 5 km)
 > [!note] Path Types
-> - Route: connects multiple cities together
+> - Route: connects multiple cities together, often for the purpose of trade
 > - Pass: connects usually one, but sometimes two or more cities as an offshoot from a more prominent path
 > - Trail: connects a few cities together directly and is not large.
 > - Road: made for high amounts of traffic, paved, and usually spanning large lengths

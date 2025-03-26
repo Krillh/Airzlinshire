@@ -59,7 +59,7 @@ This is an archive of some types of pages that have a more or less standardized 
 
 "#Location" "#Path" maybe "#Road" or "#Trail"
 
-"path name" "territory if starting point" "kingdom of starting point" "route / pass / trail / road", "length" km (rounded to nearest 5 km)
+"path name" "route / pass / trail / road", "territory if starting point" "kingdom of starting point", "length" km (rounded to nearest 5 km)
 > [!note] Path Types
 > - Route: connects multiple cities together, often for the purpose of trade
 > - Pass: connects usually one, but sometimes two or more cities as an offshoot from a more prominent path

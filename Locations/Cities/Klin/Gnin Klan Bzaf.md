@@ -6,7 +6,7 @@ Gnin, [[Klan County]], [[Bzaf]]
 **Location:** [[Eastern Continent]] Mainland - [[Ksun Gulf]] Coast - 138"E 30"S
 **River:** Off river. [[Kol River Bzaf]] 30 km N, [[Knun River Bzaf]] 30 km E
 **Neighbors:**  (distances rounded to nearest 5 km)
-- [[Gman Klan Bzaf]] - 310 km NW:
+- [[Gman Gman Bzaf]] - 310 km NW:
 	- [[Gnin Trail Bzaf]] for 190 km ->
 	- left onto [[Gman Trail Bzaf]] for 120 km
 - [[Gmir Klan Bzaf]] - 220 km NNW:

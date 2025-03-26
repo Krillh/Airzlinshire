@@ -56,7 +56,7 @@ This is an archive of some types of pages that have a more or less standardized 
 ```
 
 # Path Page
-
+(example: [[Gnin Trail Bzaf]])
 "#Location" "#Path" maybe "#Road" or "#Trail"
 
 "path name" "route / pass / trail / road", "territory if starting point" "kingdom of starting point", "length" km (rounded to nearest 5 km)

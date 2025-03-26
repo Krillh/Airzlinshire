@@ -58,3 +58,9 @@ This is an archive of some types of pages that have a more or less standardized 
 # Path Page
 
 "#Location" "#Path" maybe "#Road" or "#Trail"
+
+"road or trail": "path name", "route / pass / trail" "length" km (rounded to nearest 5 km)
+**Stops:**
+- "starting point, most north west end of path"
+- "next stop, etc..."
+- "last stop, most south east end of path"

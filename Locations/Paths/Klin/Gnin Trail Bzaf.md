@@ -4,8 +4,9 @@ Gnin Trail, Gman Bzaf, 185 km (rounded to nearest 5 km)
 
 **Stops:**
 - Fork off of [[Gman Trail Bzaf]], 0 km
-- River crossing ([[Bzaf RIver Gman Bzaf]]), 30 km
-- River crossing ([[Kman RIver Klan Bsaf]]), 90 km
-- River crossing ([[Kol River Klan Bzaf]]), 150 km
+- Crosses [[Bzaf RIver Gman Bzaf]], 30 km
+- Crosses [[Kman RIver Klan Bsaf]], 90 km
+- Crosses [[Kol River Klan Bzaf]], 150 km
 - City, [[Gnin Klan Bzaf]], 185 km
 
+**Elevation Change:** 45 m (5 m -> 50 m)

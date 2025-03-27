@@ -7,6 +7,8 @@ Gnin Trail, Gman Bzaf, 185 km (rounded to nearest 5 km)
 - Crosses [[Bzaf RIver Gman Bzaf]], 30 km
 - Crosses [[Kman RIver Klan Bsaf]], 90 km
 - Crosses [[Kol River Klan Bzaf]], 150 km
-- City, [[Gnin Klan Bzaf]], 185 km
+- Ends at [[Gnin Klan Bzaf]] city, 185 km
 
 **Elevation Change:** 45 m (5 m -> 50 m)
+
+The Gnin Trail connects the town of [[Gnin Klan Bzaf|Gnin]] to the nearby major port city, [[Gman Gman Bzaf|Gman]] by connecting to [[Gman Trail Bzaf|Gman Trail]].

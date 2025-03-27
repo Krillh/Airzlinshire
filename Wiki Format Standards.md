@@ -73,4 +73,8 @@ This is an archive of some types of pages that have a more or less standardized 
 
 (stops include cities, landmarks, river crossings, etc.)
 
-**Elevation Change:** "total height difference" m ("min h m -> 50 m)
+**Elevation Change:** "total elevation difference" m ("min elevation" m -> "max elevation" m)
+
+"Introductory paragraph"
+
+"# History"

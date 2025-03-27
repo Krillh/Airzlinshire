@@ -2,7 +2,7 @@
 
 This is an archive of some types of pages that have a more or less standardized format. Anything in double quotes is something that needs to be filled out with information. The only thing all pages must have as far as formatting is tags at the top, then a line break before anything else.
 # City Page
-(example: [[Gnin Klan Bzaf]])
+(example: [[Gnin City Klan Bzaf]])
 "#Location" "#City"
 
 "city name", "territory name", "kingdom"

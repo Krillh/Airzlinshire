@@ -1,10 +1,14 @@
 #Majik 
+
 # Overview
+
 In [[Airzlinshire]], majik is unique (and complicated). After reading a bit of fantasy, you find that magic often falls into some categories. These are the familiar ways that magic works. Things like magic through incantation (a phrase that initiates a spell) like in Harry Potter, or sorcery. There are some 'methods' of magic that don't fit into any of the categories typically seen. This was my goal with magic in Airzlinshire. I wanted a completely unique and interesting system of magic. This started by calling it majik, said the same as magic but spelled different. I will be using the term 'majik' to refer to magic in Airzlinshire. The ins and outs of majik's uniqueness are described in this page while the details of it's function have been split up as they're quite lengthy and detailed.
+
 # The Ins and Outs
 To start, majik is element based. There are 11 primary elements: [[Light Majik]], [[Dark Majik]], [[Life Majik]], [[Air Majik]], [[Water Majik]], [[Earth Majik]], [[Empath Majik]], [[Cronus Majik]], [[Material Majik]], [[Conversion Majik]], and [[Weaving Majik]]. Each one is unique in how it's used.
 
 Some elements are more common than others, and this can also be dependent on culture.
+
 # It's All About Energy
 Each element has it's own form of majik energy. All majik is is the manipulation of majik energy. Unlike many types of magic, majik follows the law of conservation of mass and energy. In Airzlinshire, majik energy is the basis of everything. For example if something is living, it has life energy. Once it loses all it's life energy, it is dead. In this case, life energy has a way of turning into other types of majik energy with time. That's why things die of old age.
 ## Measuring Majik Energy

@@ -101,8 +101,10 @@ In Old Gvar and [[Gmarpshin]], requests are accepted to be rejectable. However i
 - /hyof/: formal and urgent or severe command
 - /hyoz/: casual command, almost just a question
 
-## Forming Conditionals and Time Dependance
-In Old Gvar, a conditional is formed by the conjunction /psho/, with the condition for the previous clause in the following clause. An example might be /pan e zlesi o pen *psho* pen e ksuvi o kfavi o pan/ -> I will be scared of it *if* it wants to eat me. 
+## Forming Conditionals
+In Old Gvar, a conditional is formed by the conjunction /psho/, with the condition for the previous clause in the following clause. An example might be /pan e zlesi o pen *psho* pen e ksuvi o kfavi o pan/ -> I will be scared of it *if* it wants to eat me. /psho/ is very similar to "if" in English, but is also used like "when". The previous sentence can also be translated like "I will be scared of it when it wants to eat me". There is no differentiation in Old Gvar.
+
+When forming a sentence with time depencance
 # Phonology
 Old Gvar originally used the following consonants in IPA: p, b, t, d, k, g, ɸ, β, s, z, ʃ, ʒ, x, m, n, l, ɻ. However, because some consonant clusters are difficult to say, there were a few rapid phonological changes. The language after these minor consonant shifts is considered to be the real Old Gvar since the period before them was so short-lived. The cluster changes are as follows:
 - \[tl\] -> \[sl\]

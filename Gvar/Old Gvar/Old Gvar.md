@@ -100,6 +100,9 @@ In Old Gvar and [[Gmarpshin]], requests are accepted to be rejectable. However i
 - /hyosh/: formal command
 - /hyof/: formal and urgent or severe command
 - /hyoz/: casual command, almost just a question
+
+## Forming Conditionals
+In Old Gvar, a conditional is formed by 
 # Phonology
 Old Gvar originally used the following consonants in IPA: p, b, t, d, k, g, ɸ, β, s, z, ʃ, ʒ, x, m, n, l, ɻ. However, because some consonant clusters are difficult to say, there were a few rapid phonological changes. The language after these minor consonant shifts is considered to be the real Old Gvar since the period before them was so short-lived. The cluster changes are as follows:
 - \[tl\] -> \[sl\]

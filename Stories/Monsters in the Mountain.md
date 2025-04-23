@@ -2,9 +2,7 @@
 
 pnapsur i psuvi e blavu o pasha glan. han. glan e j dyo o bipa. hesh. tfukfer e dyo o psasha u dyesha f tfor i tevi. han. pan e psuvi o pnan ti dubnosha pshosha dyof ti pasha kmasho gvin a zlisi i pshon.
 
-I was a common man, no different from the many who walked the streets of Gmir. I carried no titles, held no wealth, and had no trade of great importance. My hands were meant for labor, my mind meant for learning, though the learning came slow. I wished to become a scribe, to weave the words of kings and merchants, but my own words were unsteady. So I found work where I could. The exploration group had need of a porter, and I had need of coin, and so I went with them.
-
-pan e tshidyo o bzasha pun. han. e j dyo o dyel sh pur sh pshetshon Gmir i dvan. han. e j tisi o prif u gnif u prisha tfif. han. pasha gzin i kfef e dyo o gzutfif a pasha glur i kfef e kfevu. hon. kfevu e blavi o pan j ti tez. han. pan e ksuvi o blasi o pshel i zlil. han. e o zlisi o pshel i a bzol i gvin. hon. pasha gvin e j tshidyo o bipa. hesh. e gzesi o tfif sh pshosha tshon. han. dval i pshen e ksevi o 
+pan e tshidyo o bzasha pun. han. e j dyo o dyel sh pur sh pshetshon Gmir i dvan. han. e j tisi o prif u gnif u prisha tfif. han. pasha gzin i kfef e dyo o gzutfif a pasha glur i kfef e kfevu. hon. kfevu e blavi o pan j ti tez. han. pan e ksuvi o blasi o pshel i zlil. han. e o zlisi o pshel i a bzol i gvin. hon. pasha gvin e j tshidyo o bipa. hesh. e gzesi o tfif sh pshosha tshon. han. dval i pshen e ksevi o dvavi i pun. han. pan e ksevi o gnin. hesh. e tshusi o pen.
 
 The forest stood tall before us, its great trees reaching for the heavens. Their thick branches tangled together, drinking in the light of the twin suns. The forest floor was a bed of earth and fallen leaves, broken by roots, shrubs, and patches of grass. The air smelled of damp wood, of life, of old things waiting beneath the soil. It was neither welcoming nor forbidding, merely what it was, vast and still and knowing.
 

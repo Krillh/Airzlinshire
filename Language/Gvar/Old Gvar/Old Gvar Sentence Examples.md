@@ -20,12 +20,14 @@
 	- biksar *(direct object)*
 
 /partisha knen e gnivu oe ti bloza gnin/ -> "Our crops sell for much money"
+
 - partisha knen e *(subject)*
 - gnivu oe *(reflexive verb)*
 - ti *(preposition)* 
 - bloza gnin *(object)*
 
 /pan e zlisi o pasha dyir sh pnazligmen haz pan e tisi o gzif s pin e blosha bivi o pan sh kner/ -> "As i write my thoughts, I am thankful for your big help on the farm."
+
 - pan e *(subj)* I
 - zlisi o *(verb)* write
 - pasha dyir *(direct object)* my thoughts
@@ -45,12 +47,14 @@
 
 /pen e kfesi o pesha pshir/ -> "They know their (own) customs."
 	**Note:** /pesha/ indicates that ownership by the subject of the sentence.
+
 - pen e *(subj)* they
 - kfesi o *(verb)* know
 - pesha pshir *(object)* their (own) way
 
 /pen e kfesi o pusha pshir/ -> "They know their customs."
 	**Note:** /pusha/ is used here to indicate that the customs are someone else's rather than like the previous example.
+
 - pen e *(subj)* they
 - kfesi o *verb* know
 - pusha pshir *(object)* their way (not their own, but someone else's)
@@ -59,6 +63,7 @@
 
 
 /gmasha gmegnan a bnosha glan e tfisi o gjesho djagnan tfo pan e dvasi o gmu gnan/ -> "The endless fields and towering mountains painted a breathtaking backdrop as I walked across the country".
+
 - gmasha gmegnan *(subj)* infinite plains
 - a *(combinator)* and
 - bnosha glan *(subj)* tall mountains
@@ -73,6 +78,7 @@
 
 
 /pin e gzadvavi oe s pisha tfil bza pun/ -> "You walk over to your worker like a person."
+
 - pin e *(subj)* you
 - gzadvavi oe *(reflexive verb)* walk (yourself)
 -  sh *(preposition)* to

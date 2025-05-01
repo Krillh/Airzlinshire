@@ -28,11 +28,13 @@ There are 8 primary parts of speech in Old Gvar. Nouns, verbs, adjectives, prepo
 - Combinators: apply binary or unary logic, most often linking things (ie "and", "or", "not")
 
 ## SVO
+
 Old Gvar is SVO (Subject, Verb, Object). This means that the subject comes before the verb, then the object. Here's an example in English:
 $$\underbrace{\text{Mark}}_{\text{subject}}\;\underbrace{\text{wants}}_{verb}\;\text{a }\underbrace{\text{pear}}_{\text{object}}.$$
 The direct object always goes first since indirect objects always have a preposition.
 
 ## Clauses
+
 Clauses in Gvar must have a subject, verb, and object, following [[Old Gvar#SVO|SVO]] ordering. Certain parts may be omitted for various reasons, but they must exist in it's meaning.
 
 - The object may be omitted if the verb is reflexive (when the subject is also the object). In this case, the verb is marked as so with a particle.

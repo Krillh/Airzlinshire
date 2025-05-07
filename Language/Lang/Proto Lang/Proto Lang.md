@@ -1,3 +1,5 @@
+#Language
+
 [[Proto Lang]] is a language that developed on the [[Central Continent]] around (some year or era).
 
 # Sentence Construction
@@ -35,4 +37,4 @@ In [[Proto Lang]], only verbs are conjugated.
 
 [[Proto Lang]] was primarily an unwritten language for a majority of it's estimated lifetime. There are known instances of writing that is assumed to be [[Proto Lang]] from scribes during the earlier era of it's spoken time, but the contents is unknown. It was only towards the end that there is more information written down. However, due to the speaker's tribal and migratory nature, along with little need to develop a writing system, the later writing found is not the same across tribes.
 
-Despite all this, there is one document that a copy of was found in nearly all the tribes in the 
+Despite all this, there is one document that one or more copies of was found in the ruins nearly all the tribes in the area that spoke [[Proto Lang]]. The [[Proto Lang Scroll]] was a document that described the language, much like a reference grammar, but had no words, only pictograms. It's thought that this was made to maintain consistency of the language across tribes that were possibly not in contact with another tribe for extended periods of time due to their migratory nature so that they could trade properly.

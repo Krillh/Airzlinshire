@@ -10,7 +10,7 @@ Towards the middle of the Era of Awakening, there was some successful taming of 
 
 With time also came more understanding of majik. It was still very rudimentarily understood, but some cities formed what could be seen as majik guilds or research groups whose goal was to find ways to use this ability that was seemingly embedded in nearly every person in more practical ways. These groups are responsible for nearly all of the majik documentation of the time, and also the very key discovery of how to enrich soil with majik to make plants grow faster.
 
-Eventually, as these areas became more advanced, ideas diffused to other towns and tribes. The cities deep in the [[Kligmon River Valley]], those with the largest farms, quickly became rich by selling the seeds of plants that had been selectively bred to be farmable.
+Eventually, as these areas became more advanced, ideas diffused to other towns and tribes. The cities deep in the [[Kligmon River Valley]], those with the largest farms, quickly became rich by selling the seeds of plants that had been selectively bred to be farmable. This caused a trade route to be formed in the [[Eastern Continent]], the legendary [[Knar Road]], which connected many cities together to enable trade. It eventually r
 
 Later in the Era of Awakening, rudimentary metal working was budding in the eastern regions of the [[Kligmon River Valley]]. There's no evidence of heat being used to form, and it was likely all surface copper formed by cold-hammering and used as ornamental pieces.
 # From Copilot:

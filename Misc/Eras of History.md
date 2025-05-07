@@ -8,10 +8,11 @@ The Era of Awakening is marked by the discovery and subsequent rise of farming i
 
 Towards the middle of the Era of Awakening, there was some successful taming of animals. This was primarily started in cities farther away from the main river, likely as a way to get more food as the land there was less fertile than the land along the river's banks. Despite this being the logical motivator, there's evidence that bonds were not uncommonly formed with some animals--domestication for companionship.
 
-With time also came 
+With time also came more understanding of majik. It was still very rudimentarily understood, but some cities formed what could be seen as majik guilds or research groups whose goal was to find ways to use this ability that was seemingly embedded in nearly every person in more practical ways. These groups are responsible for nearly all of the majik documentation of the time, and also the very key discovery of how to enrich soil with majik to make plants grow faster.
+
+Eventually, as these areas became more advanced, ideas spread slo
 
 Later in the Era of Awakening, rudimentary metal working was budding in the eastern regions of the [[Kligmon River Valley]]. There's no evidence of heat being used to form, and it was likely all surface copper formed by cold-hammering and used as ornamental pieces.
-
 # From Copilot:
 
 ---

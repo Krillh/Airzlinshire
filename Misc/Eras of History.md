@@ -4,7 +4,7 @@ The history of the world of Airzlinshire can be split into some eras.
 
 # Awakening
 
-The Era of Awakening is marked by the rise of 
+The Era of Awakening is marked by the discovery and subsequent rise of farming in the [[Kligmon River Valley]]. The fertile land allowed for easy farming of little-producing crops. Because of the fact that forgeable food was so abundant in these areas, the tribes that went through here became less and less migratory over time, eventually settling down. It was around this time that majik was starting to 
 
 
 # From Copilot:

@@ -15,7 +15,7 @@ debugInConsole: false # Print debug info in Obsidian console
 
 # Sentence Construction
 
-## Parts of speech
+## Parts of Speech
 
 There are 8 primary parts of speech in Old Gvar. Nouns, verbs, adjectives, prepositions, conjunctions, particles, sentence relators, and combinators.
 - Nouns: a person, place, or thing.

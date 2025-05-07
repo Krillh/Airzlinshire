@@ -2,6 +2,8 @@
 
 # Sentence Construction
 
+## Parts of Speech
+
 ## VSO
 
 [[Proto Lang]] is VSO (Verb, Subject, Object), meaning the verb comes before the subject, which is then followed by the object. An example using English could be:
@@ -10,7 +12,8 @@ In SVO (what English uses), this sentence would be "Mark collects food". Notice 
 
 ## Clauses
 
-Clauses in [[Proto Lang]] 
+There are 2 types of clauses in [[Proto Lang]]:
+1. **Declarative clauses:** The declare something to be true, like "The sky is blue" or "We like to eat vegetables". They can, 
 
 # Phonology
 

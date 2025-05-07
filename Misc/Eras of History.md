@@ -1,1 +1,9 @@
-The history of the world of Airzlinshire can be split into some eras, these initial divisions of time are called ""
+The history of the world of Airzlinshire can be split into some eras.
+
+# Prehistory
+
+# "First Civs"
+
+# Awakening
+
+The Era 

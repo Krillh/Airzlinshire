@@ -21,8 +21,7 @@ There are 2 types of clauses in [[Proto Lang]]:
 
 ## Interjections
 
-[[Proto Lang]] as an idea called interjections, similar to English. It is a contr
-
+[[Proto Lang]] as an idea called interjections, similar to English. It is a construction that allows writers to add conditions or extra information to a sentence by inserting information into the middle of it. In English, a similar thing may be achieved by using the dash--properly, an em dash--and is called a "parenthetical element ()"
 # Phonology
 
 [[Proto Lang]] used a very simple set of consonants and vowels, having only p, t, n, s, ʃ, k, and x as their primarily used consonants along with t͡ʃ, l, and m in some suffixes.

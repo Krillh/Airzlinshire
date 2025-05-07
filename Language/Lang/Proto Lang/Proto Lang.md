@@ -12,8 +12,16 @@ In SVO (what English uses), this sentence would be "Mark collects food". Notice 
 
 ## Clauses
 
+Clauses in [[Proto Lang]] require some verb, a subject, and an object every time. 
+
 There are 2 types of clauses in [[Proto Lang]]:
-1. **Declarative clauses:** The declare something to be true, like "The sky is blue" or "We like to eat vegetables". They can, somewhat confusingly, declare that something is false, or declare that it's unknown. For example, "The balloon is maybe blue", is a declarative clause.
+1. **Noun Clauses:** 
+
+## Phrases
+
+## Interjections
+
+[[Proto Lang]] as an idea called interjections, similar to English. It is a contr
 
 # Phonology
 

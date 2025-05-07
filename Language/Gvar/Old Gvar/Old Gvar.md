@@ -133,8 +133,7 @@ In Old Gvar, a conditional is formed by the conjunction /psho/, with the conditi
 When forming a sentence with time dependance, the conditional clause can take a few forms depending on the type of time in the condition. 
 
 - For an era or section of history: /tfor e dyo o \[time\]/ -> time is \[time\]
-- For time of day: /dagmantfor e dyo o \[time\]/ -> daytime is \[time\]
-
+- For time of day: /dagman i tfor e dyo o \[time\]/ -> time of day is \[time\]
 
 # Phonology
 

@@ -6,7 +6,11 @@ The history of the world of Airzlinshire can be split into some eras.
 
 The Era of Awakening is marked by the discovery and subsequent rise of farming in the [[Kligmon River Valley]]. The fertile land allowed for easy farming of little-producing crops. Because of the fact that forgeable food was so abundant in these areas, the tribes that went through here became less and less migratory over time, eventually settling down. It was around this time that some people found that they could use majik, no doubt a major factor in their ability to cultivate crops. Majik could be used to both assist in tilling the land (tilling tools did exist, suggesting that majik use was not yet sophisticated enough to do the job on its own), and to aid the plants in their growth. There are many theories as to how the earliest civilizations used majik for farming, many based on the documentation of the practice made later on. With the ability to stay in one place, permanent structures were made, towns, and then cities.
 
-Towards the middle of the Era of Awakening, there was some successful taming of animals. This was primarily started in cities farther away from the main river, likely as a way to get more food as the land there was less fertile than the land along the river's banks. Despite this being the logical motivator, there's evidence that bonds were not uncommonly formed with some animals--dome
+Towards the middle of the Era of Awakening, there was some successful taming of animals. This was primarily started in cities farther away from the main river, likely as a way to get more food as the land there was less fertile than the land along the river's banks. Despite this being the logical motivator, there's evidence that bonds were not uncommonly formed with some animals--domestication for companionship.
+
+With time also came 
+
+Later in the Era of Awakening, rudimentary metal working was budding in the eastern regions of the [[Kligmon River Valley]]. There's no evidence of heat being used to form, and it was likely all surface copper formed by cold-hammering and used as ornamental pieces.
 
 # From Copilot:
 

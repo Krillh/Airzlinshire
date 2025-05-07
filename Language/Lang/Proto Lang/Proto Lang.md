@@ -10,7 +10,11 @@ In SVO (what English uses), this sentence would be "Mark collects food". Notice 
 
 ## Clauses
 
+Clauses in [[Proto Lang]] 
+
 # Phonology
+
+[[Proto Lang]] used a very simple set of consonants and vowels, having only p, t, n, s, ʃ, k, and x as their primarily used consonants along with t͡ʃ, l, and m in some suffixes.
 
 # Conjugation
 

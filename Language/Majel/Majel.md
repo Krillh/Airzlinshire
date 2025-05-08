@@ -17,7 +17,7 @@ Majel was invented {time period, reason}. Because of it's simplicity, both in sp
 
 ## Motivators For Spread
 
-One of the largest motivators for farmers to 
+One of the largest motivators for farmers to learn this language was to enable them to conduct international trade without a 3rd party. The standard at the time in {place of origin} for trade of food was where farmers who
 # Phonology
 
 Consonants (with Romanized symbols):

@@ -17,7 +17,7 @@ Majel was invented {time period, reason}. Because of it's simplicity, both in sp
 
 ## Motivators For Spread
 
-One of the largest motivators for farmers to learn this language was to enable them to conduct international trade without a 3rd party. There were 3 primary standard trading practices for foodstuffs, the first is a basic distributer model where distributers handle all the logistics, and the other one is a direct order or reoccuring deal model where two parties will make a 
+One of the largest motivators for farmers to learn this language was to enable them to conduct international trade without a 3rd party. There were 3 primary standard trading practices for foodstuffs, the first is a basic distributer model where distributers handle all the logistics, direct order
 # Phonology
 
 Consonants (with Romanized symbols):

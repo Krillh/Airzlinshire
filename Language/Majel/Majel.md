@@ -1,7 +1,7 @@
 #Majel
 
 
-Majel is a constructed language in the world of [[Airzlinshire]], invented {time period, reason}. Because of it's simplicity--both in speaking and writing--Majel quickly took on popularity among illiterate farmers in {city where it was invented} and then because of trade, it 
+Majel is a constructed language in the world of [[Airzlinshire]], made for it's simple writing and speaking. It quickly became the trade language of the world.
 
 ```table-of-contents
 ```
@@ -11,7 +11,9 @@ Majel is a constructed language in the world of [[Airzlinshire]], invented {time
 > Meta talk about various inspirations:
 > The script was inspired a lot by Korean scripts, at least in concept. They also use an abugida, though it is a bit more complicated. The idea of open syllables was from Japanese, and the idea of root words from the Chinese family of languages. The concept of suffixes is partially inspired from PIE (Proto-Indo-European).
 
-# 
+# History
+
+Majel was invented {time period, reason}. Because of it's simplicity, both in speaking and writing. Majel quickly took on popularity among illiterate farmers in {city where it was invented}. {person} noticed the possibility of
 # Phonology
 
 Consonants (with Romanized symbols):

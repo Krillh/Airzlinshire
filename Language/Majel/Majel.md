@@ -13,7 +13,11 @@ Majel is a constructed language in the world of [[Airzlinshire]], made for it's 
 
 # History
 
-Majel was invented {time period, reason}. Because of it's simplicity, both in speaking and writing. Majel quickly took on popularity among illiterate farmers in {city where it was invented}. {person} noticed the possibility of
+Majel was invented {time period, reason}. Because of it's simplicity, both in speaking and writing. Majel quickly took on popularity among illiterate farmers in {city where it was invented}. {person} saw the potential of Majel for making international trade more consistent, reliable, and less of a linguistic headache. He went to other towns and spread the language, pitching the idea of making it a trade language to farmers nearby. From there, the language was purposefully spread far and wide among the largely illiterate farming populations.
+
+## Motivators For Spread
+
+One of the largest motivators for farmers to 
 # Phonology
 
 Consonants (with Romanized symbols):

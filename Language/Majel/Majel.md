@@ -4,7 +4,7 @@
 #### Resources
 * [[Majel Dictionary]]
 * [[Colors in Majel]]
-* [[Emotions in Majel]]
+* [[Emotions In Majel]]
 * [[Sentences in Majel]]
 
 # What is it?

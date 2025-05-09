@@ -19,7 +19,7 @@ Later in the Era of Awakening, rudimentary metal working was budding in the east
 > [!note]
 > I want a new name for this era
 
-The Era of Celestia Accord is marked by an increase in the importance of [[Majik]] in the cultures of the [[Western Continent]] around [[Myan Kian Lake]]. There was a growing curiosity about it's true limits and a newfound desire to master it. There was a sharp jump in [[Majik]] use in farming, and for the first time, there was a large volume of people trying to use it in their daily routine. It became clear
+The Era of Celestia Accord is marked by an increase in the importance of [[Majik]] in the cultures of the [[Western Continent]] around [[Myan Kian Lake]]. There was a growing curiosity about it's true limits and a newfound desire to master it. There was a sharp jump in [[Majik]] use in farming, and for the first time, there was a large volume of people trying to use it in their daily life. It became clear that there was more to [[Majik]] than originally thought. This was also a time of strong cultural development, farming techniques had been rapidly improving, producing more food, and allowing larger segments of city populations to explore other passions. Art became very important to peoples--especially those in the central continent. Not only visual art, but music, poetry, and performing. The spike in interest around [[Majik]] actually quickly died out, being replaced 
 
 
 This was no doubt started by the "discovery" of [[Majik#Mixing Elements|element mixing]]. This led to the nearby 

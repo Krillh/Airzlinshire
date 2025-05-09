@@ -16,7 +16,10 @@ Later in the Era of Awakening, rudimentary metal working was budding in the east
 
 # Celestial Accord
 
-[]
+> [!note]
+> I want a new name for this era
+
+The Era of Celestia Accord
 # From Copilot:
 
 ---

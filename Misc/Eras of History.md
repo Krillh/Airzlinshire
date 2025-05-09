@@ -42,7 +42,11 @@ The discovery of simple metal forming came about near the end of this era, and i
 
 The Era of Mastery is marked by the slowing of discoveries from the [[Eras of History#Era of Celestial Accord|Era of Celestial Accord]], and the maturing of [[Majik]]. As the frenzy of new things died out, there was a cultural shift in how people viewed [[Majik]], starting to see it more as an art form that can be mastered. [[Majik]] research institutions and societies were replaced by temples, [[Majik]] schools focused on teaching it as an art, and no longer did nearly all children get an education unless they specifically went to learn and master [[Majik]]. Social status started to shift away from education and towards one's [[Majik]] ability and power. The world started to revolve more and more around [[Majik]], and it became commonplace in nearly every aspect of life. New discoveries were seldom shared with the world.
 
-This idea of mastery spread past [[Majik]] and into farming and other trades. Farming in particular saw deep innovations: sophisticated irrigation systems, using [[Majik]] to finely tune the land and environment, and other techniques. Metallurgy also saw innovation with the discovery of iron in the later parts of this era. Refined [[Majik]] techniques allowed for very precise 
+This idea of mastery spread past [[Majik]] and into farming and other trades. Farming in particular saw deep innovations: sophisticated irrigation systems, using [[Majik]] to finely tune the land and environment, and other techniques. Metallurgy also saw innovation with the discovery of iron in the later parts of this era. Refined [[Majik]] techniques allowed for very precise and useful tools to be made out of copper, bronze, and importantly, iron.
+
+Many call this "The Second Era of Culture" because of the similar way 
+
+The booming global trade slowed it's pace from the end of the [[Eras of History#Era of Celestial Accord|Era of Celestial Accord]], but still going fairly strong. Travel was cheap enough for those who make a small amount of money to--albeit with much investment--to travel overseas.
 
 # From Copilot:
 

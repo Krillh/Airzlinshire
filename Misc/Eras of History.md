@@ -32,6 +32,8 @@ The Era of Celestial accord is marked by a sudden interest in [[Majik]] in cultu
 
 Numerous [[Majik]] research groups, societies, and schools of different types were formed. There was discovery after discovery being made, as governments started pouring a plethora of resources into [[Majik]] research. There was a premium put on education at this time, often times success was defined by one's level of education. In many places, it was common for *all* children to go to a public school to learn [[Majik]]. Of course, this was not general education, but it is the foundation of it.
 
+The global trade gradually picked up again as people realized that they would make more discoveries if they communicated, but the strong language barriers made this difficult. Thankfully, it was early in this era that [[Majel]] was made and spread fast. The slow climb of trade volume seeing a massive jump. With a lingua franca, transportation speed and cost were the only major barriers for traveling overseas. New discoveries in [[Majik]] application, specifically [[Proposal for ]]
+
 # Era of Mastery
 
 **Span:** ~15,500 -> ~17,300

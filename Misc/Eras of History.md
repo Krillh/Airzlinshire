@@ -25,10 +25,9 @@ The global trade was lower in this time than the [[Eras of History#Era of Awaken
 
 # Era of Celestial Accord
 
-of the [[Western Continent]] around [[Myan Kian Lake]]. There was a growing curiosity about it's true limits and a newfound desire to master it. There was a sharp jump in [[Majik]] use in farming, and for the first time, there was a large volume of people trying to use it in their daily life. It became clear that there was more to [[Majik]] than originally thought.
+The Era of Celestial accord is marked by a sudden interest in [[Majik]] in cultures of the [[Western Continent]] around [[Myan Kian Lake]]. The was no doubt fueled by the formal discovery of [[Majik#Mixing Elements|element mixing]] in {some city}. There was a growing curiosity about it's true limits and a newfound desire to master [[Majik]], and that "discovery" caused that curiosity to explode. There was a sharp jump in [[Majik]] use in farming, and for the first time, there was a large volume of people trying to use it in their daily life. It became clear that there was more possibility to [[Majik]] than originally thought.
 
-
-This was no doubt started by the "discovery" of [[Majik#Mixing Elements|element mixing]]. This led to the nearby 
+Numerous [[Majik]] research groups, societies, and schools of different types were formed. There was discovery after discovery being made, and 
 # From Copilot:
 
 ---

@@ -19,7 +19,7 @@ Later in the Era of Awakening, rudimentary metal working was budding in the east
 > [!note]
 > I want a new name for this era
 
-The Era of Celestia Accord
+The Era of Celestia Accord is marked by an increase in the importance of [[Majik]] in the cultures of the [[Western Continent]] around [[Myan Kian Lake]]. There was a growing curiosity about it's true limits and a newfound desire to master it. 
 # From Copilot:
 
 ---

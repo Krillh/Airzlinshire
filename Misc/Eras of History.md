@@ -44,9 +44,12 @@ The Era of Mastery is marked by the slowing of discoveries from the [[Eras of Hi
 
 This idea of mastery spread past [[Majik]] and into farming and other trades. Farming in particular saw deep innovations: sophisticated irrigation systems, using [[Majik]] to finely tune the land and environment, and other techniques. Metallurgy also saw innovation with the discovery of iron in the later parts of this era. Refined [[Majik]] techniques allowed for very precise and useful tools to be made out of copper, bronze, and importantly, iron.
 
-Many call this "The Second Era of Culture" because of the similar way 
+Many call this "The Second Era of Culture" because of the similar way that communities started to focus inward, indeed, the booming global trade slowed it's pace from the end of the [[Eras of History#Era of Celestial Accord|Era of Celestial Accord]], but it was still going fairly strong. The dip was nowhere near the extreme during the [[Eras of History#Era of Culture|Era of Culture]]. Travel was cheap enough for those who make a small amount of money to--albeit with much investment--to travel overseas, and the trips were not very long, so there were always at least farmers looking for a new life somewhere else.
 
-The booming global trade slowed it's pace from the end of the [[Eras of History#Era of Celestial Accord|Era of Celestial Accord]], but still going fairly strong. Travel was cheap enough for those who make a small amount of money to--albeit with much investment--to travel overseas.
+# Era of Wars
+
+**Span:** ~18,600 -> ~
+
 
 # From Copilot:
 

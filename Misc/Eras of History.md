@@ -40,7 +40,7 @@ The discovery of simple metal forming came about near the end of this era, and i
 
 **Span:** ~16,200 -> ~18,600
 
-T
+The Era of Mastery is marked by the slowing of discoveries from the [[Eras of History#Era of Celestial Accord|Era of Celestial Accord]], and the maturing of [[Majik]]. As the frenzy of new things died out, there was a cultural shift in how people viewed [[Majik]], starting to see it more as an art form that can be mastered. [[Majik]] research institutions and societies were replaced by temples, [[Majik]] schools focused on teaching it as an art, and no longer did nearly all children get an education unless they specifically went to learn and master [[Majik]]
 
 # From Copilot:
 

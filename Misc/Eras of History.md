@@ -2,7 +2,7 @@ The history of the world of Airzlinshire can be split into some eras.
 
 # Prehistory
 
-# Awakening
+# Era of Awakening
 
 The Era of Awakening is marked by the discovery and subsequent rise of farming in the [[Gmir River Valley]]. The fertile land allowed for easy farming and higher yields of typically little-producing crops. Because of the fact that forgeable food was so abundant in these areas, the tribes that went through here became less and less migratory over time, eventually settling down in the valley. It was around this time that some people found that they could use majik, no doubt a major factor in their ability to cultivate crops. Majik could be used to both assist in tilling the land (tilling tools did exist, suggesting that majik use was not yet sophisticated enough to do the job on its own), and to aid the plants in their growth. There are many theories as to how the earliest civilizations used majik for farming, many based on the documentation of the practice made later on. With the ability to stay in one place, permanent structures were made, towns, and then cities.
 
@@ -14,14 +14,18 @@ Eventually, as these areas became more advanced, ideas diffused to other towns a
 
 Later in the Era of Awakening, rudimentary metal working was budding in the eastern regions of the [[Gmir River Valley]]. There's no evidence of heat being used to form, and it was likely all surface copper formed by cold-hammering and used as ornamental pieces.
 
-# Celestial Accord
+# Era of Culture
 
 > [!note]
 > I want a new name for this era
 
-The Era of Celestia Accord is marked by an increase in the importance of [[Majik]] in the cultures of the [[Western Continent]] around [[Myan Kian Lake]]. There was a growing curiosity about it's true limits and a newfound desire to master it. There was a sharp jump in [[Majik]] use in farming, and for the first time, there was a large volume of people trying to use it in their daily life. It became clear that there was more to [[Majik]] than originally thought. This was also a time of strong cultural development, farming techniques had been rapidly improving, producing more food, and allowing larger segments of city populations to explore other passions. Art became very important to peoples--especially those in the [[Central Continent]]. Not only visual art, but music, poetry, and performing. The spike in interest around [[Majik]] in the west actually quickly died out after only a few years, being replaced by one in art, an idea that spread from the [[Central Continent]].
+The Era of Culture is marked by an increase in the importance of culture and art. This was also a time of strong cultural development, farming techniques had been rapidly improving, producing more food, and allowing larger segments of city populations to explore other passions. Art became very important to peoples--especially those in the [[Central Continent]]. Not only visual art, but music, poetry, and performing.
 
-The global trade was lower in this time than the [[Eras of History#Awakening|Era of Awakening]], most communities trying to be more self-sufficient. Patriotism flourished and religion started to become more popular, many rituals around farming were 
+The global trade was lower in this time than the [[Eras of History#Era of Awakening|Era of Awakening]], most communities trying to be more self-sufficient. Patriotism flourished and religion started to become more popular, many rituals around farming and taming are first seen in this era. The taming of a wild animal became a coming of age ritual in some areas in the south of the [[Western Continent]], for example.
+
+# Era of Celestial Accord
+
+of the [[Western Continent]] around [[Myan Kian Lake]]. There was a growing curiosity about it's true limits and a newfound desire to master it. There was a sharp jump in [[Majik]] use in farming, and for the first time, there was a large volume of people trying to use it in their daily life. It became clear that there was more to [[Majik]] than originally thought.
 
 
 This was no doubt started by the "discovery" of [[Majik#Mixing Elements|element mixing]]. This led to the nearby 

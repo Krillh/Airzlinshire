@@ -54,7 +54,15 @@ The Era of Wars is marked by cultures becoming increasingly different. The world
 
 Some conflicts over resources started cropping up, and as leaders looked for ways to make their army more powerful, iron and [[tomes]] were the clear choices. There were 3 global wars, each of them massively devastating. There were also many intra-continental wars in the main 3 continents and even one in the [[Northern Continent]]. The fighting wasn't constant over the roughly 2000 years of this Era, but there was fighting often enough that many maps from this time had no hard borders, only color gradients around where the border was. They just changed so often and unpredictably.
 
-# Era of Calm?
+# Era of Silence
+
+**Span:**
+
+People like basically all dead after a *massive* global war.
+
+# Era of Harmony
+
+
 
 # From Copilot:
 

@@ -4,6 +4,8 @@ The history of the world of Airzlinshire can be split into some eras.
 
 # Era of Awakening
 
+**Span:** 0 -> ~12,000
+
 The Era of Awakening is marked by the discovery and subsequent rise of farming in the [[Gmir River Valley]]. The fertile land allowed for easy farming and higher yields of typically little-producing crops. Because of the fact that forgeable food was so abundant in these areas, the tribes that went through here became less and less migratory over time, eventually settling down in the valley. It was around this time that some people found that they could use majik, no doubt a major factor in their ability to cultivate crops. Majik could be used to both assist in tilling the land (tilling tools did exist, suggesting that majik use was not yet sophisticated enough to do the job on its own), and to aid the plants in their growth. There are many theories as to how the earliest civilizations used majik for farming, many based on the documentation of the practice made later on. With the ability to stay in one place, permanent structures were made, towns, and then cities.
 
 Towards the middle of the Era of Awakening, there was some successful taming of animals. This was primarily started in cities farther away from the main river, likely as a way to get more food as the land there was less fertile than the land along the river's banks. Despite this being the logical motivator, there's evidence that bonds were not uncommonly formed with some animals--domestication for companionship.
@@ -16,8 +18,7 @@ Later in the Era of Awakening, rudimentary metal working was budding in the east
 
 # Era of Culture
 
-> [!note]
-> I want a new name for this era
+**Span:** ~12,000 -> ~15,000
 
 The Era of Culture is marked by an increase in the importance of culture and art. This was also a time of strong cultural development, farming techniques had been rapidly improving, producing more food, and allowing larger segments of city populations to explore other passions. Art became very important to peoples--especially those in the [[Central Continent]]. Not only visual art, but music, poetry, and performing.
 
@@ -25,9 +26,17 @@ The global trade was lower in this time than the [[Eras of History#Era of Awaken
 
 # Era of Celestial Accord
 
-The Era of Celestial accord is marked by a sudden interest in [[Majik]] in cultures of the [[Western Continent]] around [[Myan Kian Lake]]. The was no doubt fueled by the formal discovery of [[Majik#Mixing Elements|element mixing]] in {some city}. There was a growing curiosity about it's true limits and a newfound desire to master [[Majik]], and that "discovery" caused that curiosity to explode. There was a sharp jump in [[Majik]] use in farming, and for the first time, there was a large volume of people trying to use it in their daily life. It became clear that there was more possibility to [[Majik]] than originally thought.
+**Span:** ~15,000 -> ~15,500
+
+The Era of Celestial accord is marked by a sudden interest in [[Majik]] in cultures of the [[Western Continent]] around [[Myan Kian Lake]]. The was no doubt fueled by the formal discovery of [[Majik#Mixing Elements|element mixing]] in {some city}. There was a growing curiosity about it's true limits and a newfound desire to master [[Majik]], and that "discovery" caused that curiosity to explode. There was a sharp jump in [[Majik]] use in farming, and for the first time, there was a large volume of people trying to use it in their daily life. It became clear that there was more possibility to [[Majik]] than originally thought. The excitement slowly spread to the world over 50-150 years. The spread was slow because of the lack of international trade from the [[Eras of History#Era of Culture|Era of Culture]], especially overseas.
 
 Numerous [[Majik]] research groups, societies, and schools of different types were formed. There was discovery after discovery being made, as governments started pouring a plethora of resources into [[Majik]] research. There was a premium put on education at this time, often times success was defined by one's level of education. In many places, it was common for *all* children to go to a public school to learn [[Majik]]. Of course, this was not general education, but it is the foundation of it.
+
+# Era of Mastery
+
+**Span:** ~15,500 -> ~17,300
+
+
 # From Copilot:
 
 ---

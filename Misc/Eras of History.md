@@ -50,9 +50,9 @@ Many call this "The Second Era of Culture" because of the similar way that commu
 
 **Span:** ~18,600 -> ~20,800
 
-The Era of Wars is marked by cultures becoming increasingly different. The world had been in a relatively harmonious state for a very long time, but as populations started to really grow near the end of the [[Eras of History#Era of Mastery|Era of Mastery]], 
+The Era of Wars is marked by cultures becoming increasingly different. The world had been in a relatively harmonious state for a very long time, but as populations started to really grow near the end of the [[Eras of History#Era of Mastery|Era of Mastery]], there was fewer global comradery and connection. The invention of [[Tomes]] in about 19,000 is often seen as a major catalyst for the conflicts that came. They were not immediately impactful, staying mostly an little-known idea for nearly 150 years after their conception. 
 
-the invention of [[Tomes]]. They were not immediately impactful, staying mostly an little-known idea for nearly 150 years after their conception. 
+Some conflicts over resources started cropping up, and as leaders looked for ways to make their army more powerful, iron and [[tomes]] were the clear choices.
 
 # From Copilot:
 

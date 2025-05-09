@@ -13,6 +13,10 @@ With time also came more understanding of majik. It was still very rudimentarily
 Eventually, as these areas became more advanced, ideas diffused to other towns and tribes. The cities deep in the [[Gmir River Valley]], those with the largest farms, quickly became rich by selling the seeds of plants that had been selectively bred to be farmable. This caused a trade route to be formed in the [[Eastern Continent]], the legendary [[Knar Road]], which connected many cities together to enable trade. It eventually was built all the way to cities in the southwestern tribes and towns, allowing them to settle down also. With the [[Zwish River Valley]] on the west coast, the towns there started to build boats, and sail to the central continent, one previously uninhabited by people. Slowly, with exploration happening, people started to exist everywhere on the globe.
 
 Later in the Era of Awakening, rudimentary metal working was budding in the eastern regions of the [[Gmir River Valley]]. There's no evidence of heat being used to form, and it was likely all surface copper formed by cold-hammering and used as ornamental pieces.
+
+# Celestial Accord
+
+[]
 # From Copilot:
 
 ---

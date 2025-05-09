@@ -48,8 +48,11 @@ Many call this "The Second Era of Culture" because of the similar way that commu
 
 # Era of Wars
 
-**Span:** ~18,600 -> ~
+**Span:** ~18,600 -> ~20,800
 
+The Era of Wars is marked by cultures becoming increasingly different. The world had been in a relatively harmonious state for a very long time, but as populations started to really grow near the end of the [[Eras of History#Era of Mastery|Era of Mastery]], 
+
+the invention of [[Tomes]]. They were not immediately impactful, staying mostly an little-known idea for nearly 150 years after their conception. 
 
 # From Copilot:
 

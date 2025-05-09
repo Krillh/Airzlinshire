@@ -26,11 +26,11 @@ The global trade was lower in this time than the [[Eras of History#Era of Awaken
 
 # Era of Celestial Accord
 
-**Span:** ~15,000 -> ~15,500
+**Span:** ~15,000 -> ~16,000
 
 The Era of Celestial accord is marked by a sudden interest in [[Majik]] in cultures of the [[Western Continent]] around [[Myan Kian Lake]]. The was no doubt fueled by the formal discovery of [[Majik#Mixing Elements|element mixing]] in {some city}. There was a growing curiosity about it's true limits and a newfound desire to master [[Majik]], and that "discovery" caused that curiosity to explode. There was a sharp jump in [[Majik]] use in farming, and for the first time, there was a large volume of people trying to use it in their daily life. It became clear that there was more possibility to [[Majik]] than originally thought. The excitement slowly spread to the world over 50-150 years. The spread was slow because of the lack of international trade from the [[Eras of History#Era of Culture|Era of Culture]], especially overseas.
 
-Numerous [[Majik]] research groups, societies, and schools of different types were formed. There was discovery after discovery being made, as governments started pouring a plethora of resources into [[Majik]] research. There was a premium put on education at this time, often times success was defined by one's level of education. In many places, it was common for *all* children to go to a public school to learn [[Majik]]. Of course, this was not general education, but it is the foundation of it. Research was slow in the early parts of this era as there was no real rhyme or reason to it. Nobody could be sure of another's testing and so each group had to do every experiment to verify it. The quality control was also not very good, many researchers being 
+Numerous [[Majik]] research groups, societies, and schools of different types were formed. There was discovery after discovery being made, as governments started pouring a plethora of resources into [[Majik]] research. There was a premium put on education at this time, often times success was defined by one's level of education. In many places, it was common for *all* children to go to a public school to learn [[Majik]]. Of course, this was not general education, but it is the foundation of it. Research was slow in the early parts of this era as there was no real rhyme or reason to it. Nobody could be sure of another's testing and so each group had to do every experiment to verify it. The quality control was also not very good, many researchers not having any training. That's to be expected for the first real scientific discoveries, though. Much research is poorly, or not at all, documented, and there were no standards to speak of. It wasn't until around 15650 that 3 competing standards were developed and then not until 15790 that one of them became *the* set of standards for research, testing, document
 
 The global trade gradually picked up again as people realized that they would make more discoveries if they communicated, but the strong language barriers made this difficult. Thankfully, it was early in this era that [[Majel]] was made and spread fast. The slow climb of trade volume seeing a massive jump. With a lingua franca, transportation speed and cost were the only major barriers for traveling overseas. New discoveries in [[Majik]] application, specifically [[Proposal for Majik-based sail propulsion|this study]] and ones inspired by it, were decreasing travel time, and other discoveries about using [[Majik]] to make boats were decreasing the cost of doing so. The world was becoming very much more connected.
 
@@ -38,7 +38,7 @@ The discovery of simple metallurgy
 
 # Era of Mastery
 
-**Span:** ~15,500 -> ~17,300
+**Span:** ~16,000 -> ~18,200
 
 
 # From Copilot:

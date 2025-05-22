@@ -2,6 +2,8 @@ The history of the world of Airzlinshire can be split into some eras.
 
 # Prehistory
 
+Prehistory is simply the time before civilization. During this time, peoples lived only in tribes
+
 # Era of Awakening
 
 **Span:** 0 -> ~12,000
@@ -56,10 +58,9 @@ Some conflicts over resources started cropping up, and as leaders looked for way
 
 # Era of Silence
 
-**Span:**
+**Span:** ~20,800 - ~22,00
 
-People like basically all dead after a *massive* global war.
-
+The Era of Silence is marked by the start of the [[First Global War]]. 
 # Era of Harmony
 
 

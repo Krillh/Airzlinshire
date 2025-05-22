@@ -85,7 +85,8 @@ The direct object always goes first since indirect objects always have a preposi
 
 ## Clauses
 
-In Majel, there are multiple types of clauses.
-1. Declarative Clause: declarative clauses have a subject, object, and verb. Only 1 of these is needed to be explicit.
+In Majel, there is only one type of 
 
-### Explicit and Implicit Clause 
+### Explicit and Implicit Clause Parts
+
+In many circumstances, it is common for a part of a clause to be omitted. This happens when the part is clear from context. This can be because it is the same as the previous clause, or some other context makes it obvious.

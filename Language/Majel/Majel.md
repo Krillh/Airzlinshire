@@ -79,6 +79,13 @@ Though there are a few suffixes that are used commonly, but artistically, any wo
 
 ## SVO
 
-Majel follows a strict "Subject Verb Object" (SVO) word ordering. This means that the subject comes before the verb, then the object. Here's an example in English:
+Majel follows a "Subject Verb Object" (SVO) word ordering. This means that the subject comes before the verb, then the object. Here's an example in English:
 $$\underbrace{\text{Mark}}_{\text{subject}}\;\underbrace{\text{wants}}_{verb}\;\text{a }\underbrace{\text{pear}}_{\text{object}}.$$
 The direct object always goes first since indirect objects always have a preposition before them. This is the same as [[Old Gvar#SVO|Old Gvar]].
+
+## Clauses
+
+In Majel, there are multiple types of clauses.
+1. Declarative Clause: declarative clauses have a subject, object, and verb. Only 1 of these is needed to be explicit.
+
+### Explicit and Implicit Clause 

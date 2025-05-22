@@ -85,7 +85,7 @@ The direct object always goes first since indirect objects always have a preposi
 
 ## Clauses
 
-In Majel, there is only one type of 
+In Majel, clauses all have a subject, verb, and object. Any of them can be implicit or explicit as long as at least one is explicit (or else there would be no sentence).
 
 ### Explicit and Implicit Clause Parts
 

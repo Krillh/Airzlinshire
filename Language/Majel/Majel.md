@@ -13,7 +13,7 @@ Majel is a constructed language in the world of [[Airzlinshire]], made for it's 
 
 # History
 
-Majel was invented towards the start of the Era of Celestial Accord, and was the primary driver for [[The Globalization Boom]]. Because of it's simplicity, both in speaking and writing. Majel quickly took on popularity among illiterate farmers in the [[Gmir River Valley]]. Having a consistent 
+Majel was invented towards the start of the Era of Celestial Accord in response to rising 3rd party trading fraud, and was the primary driver for [[The Globalization Boom]]. Because of it's simplicity, both in speaking and writing. Majel quickly took on popularity among illiterate farmers in the [[Gmir River Valley]].
 
 ## Motivators For Spread
 
@@ -89,4 +89,4 @@ In Majel, clauses all have a subject, verb, and object. Any of them can be impli
 
 ### Explicit and Implicit Clause Parts
 
-In many circumstances, it is common for a part of a clause to be omitted. This happens when the part is clear from context. This can be because it is the same as the previous clause, or some other context makes it obvious.
+In many circumstances, it is common for a part of a clause to be omitted. This happens when the part is clear from context. This can be because it is the same as the previous clause, or some other context makes it obvious. When this happens, the part is considered "implicit", otherwise it is "explicit".

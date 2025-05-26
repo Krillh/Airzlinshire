@@ -1,0 +1,1 @@
+The [[Tshusha Pur]] kingdom was formed slowly as a pact between cities in the [[Gmir River Valley]] during the [[Era of Awakening]]. It stretched from the 

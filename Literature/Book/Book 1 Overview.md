@@ -7,4 +7,4 @@
 
 ## General Plot Idea:
 
-The story follows 2 protagonists, Nolu and 
+The story separately follows 2 protagonists, Nolu and Dyuvil. They both lived along 

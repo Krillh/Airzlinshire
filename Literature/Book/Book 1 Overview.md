@@ -7,4 +7,6 @@
 
 ## General Plot Idea:
 
-The story separately follows 2 protagonists, Nolu and Dyuvil. They both lived in port towns on the [[Kwin Gulf]], near where Kmon City Kfin Dir is.
+The story separately follows 2 protagonists, Nolu and Dyuvil. They both lived in port towns on the [[Kwin Gulf]], near where Kmon City Kfin Dir is. However, they lived during very different eras.
+
+See: [[Character Dyuvil]], [[Character Nolu]].

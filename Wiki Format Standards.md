@@ -80,7 +80,14 @@ This is an archive of some types of pages that have a more or less standardized 
 "# History"
 
 # Kingdom Page
-
+(example: [[Tshusha Pur]])
 "#Location" "#Kingdom" "#(era)"
 
-"short info"
+"short intro"
+
+"# Info:"
+**Kingdom Type:** "kingdom type: Pact / ..."
+**Reign:** "start date -> end date"
+**Peak Population:** "peak population & year"
+**Peak Size:** "peak square area & year"
+**Peak City Count:** "peak major city count"

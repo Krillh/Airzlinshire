@@ -5,8 +5,9 @@ The [[Tanipyuf]] are a people who lived in the [[Highland Desert]].
 
 ## Info:
 
-- **Kingdom Type:** Pact
-- **Size:** 
+**Kingdom Type:** Pact
+****
+**Peak Population:** ?
 
 ## Name
 

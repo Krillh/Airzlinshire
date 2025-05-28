@@ -17,4 +17,4 @@ The [[Gmir River Valley Pact]] was a pact formed among some cities in the [[Gmir
 
 ## Spread
 
-From the state that the kingdom is in, covering the entire north and east coast of the [[Eastern Continent]], along with the [[Gmir River Valley]], it was very difficult to expand. Their attempts to expand inland were blocked by mountains, attempts to expand south along the western coast were met with the [[Tanipyuf]] people, and expanding west along the southern coast simply had little effect since the people living there had extremely fragmented and diverse languages from the commonly spoken [[Old Gvar]] of the kingdom.
+From the state that the kingdom is in, covering the entire north and east coast of the [[Eastern Continent]], along with the [[Gmir River Valley]], it was very difficult to expand. Their attempts to expand inland were blocked by mountains, attempts to expand south along the western coast were met with the [[Tanipyuf]] people, and expanding west along the southern coast simply had little effect since the people living there ([[Kfol Peoples]]) had extremely fragmented and diverse languages from the commonly spoken [[Old Gvar]] of the kingdom.

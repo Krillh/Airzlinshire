@@ -91,3 +91,4 @@ This is an archive of some types of pages that have a more or less standardized 
 **Peak Population:** "peak population & year"
 **Peak Size:** "peak square area & year"
 **Peak City Count:** "peak major city count"
+**Languages:** "list of spoken languages"

@@ -78,3 +78,9 @@ This is an archive of some types of pages that have a more or less standardized 
 "Introductory paragraph"
 
 "# History"
+
+# Kingdom Page
+
+"#Location" "#Kingdom" "#(era)"
+
+"short info"

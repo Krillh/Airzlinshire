@@ -1,5 +1,7 @@
 #Event #MetalsEra #FirstKingdom
 
+> [!bug] ARCHIVE - not canonical
+
 **Date:** 21,778-5-18 (.l.l .l.l ...l ..l. ~ l.l ~ l. .l.)
 **Location:** Neutral territory north of [[Loun City]]
 

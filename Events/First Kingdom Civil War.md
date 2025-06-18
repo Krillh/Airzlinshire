@@ -1,5 +1,6 @@
 #Event #FirstKingdom #MetalsEra
 
+> [!bug] ARCHIVE - not canonical
 
 The Capital of the [[First Kingdom]], [[Loun City]], broke the terms of the [[Nuvi Contract]] by attacking iron mining parties from other cities in the kingdom. Iron, being the one of most valuable resources at the time, was only known to exist at the [[Windy Cliffs]]. The leader of [[Loun City]] wanted complete control of iron, and wanted to build up their army with it. The other cities, expectedly, did not enjoy this. First, they were simply told to mine less iron, and now their miners get attacked. Not only will they not have any of the super useful iron, but they don't know if they can trust [[Loun City]].
 

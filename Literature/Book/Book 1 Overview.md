@@ -11,3 +11,4 @@ The story separately follows 2 protagonists, Nolu and Dyuvil. They both lived in
 
 See: [[Character Dyuvil]], [[Character Nolu]].
 
+The idea is that every chapter has 2 parts, one for Nolu, one for Dyuvil. Each chapter will explore a certain set of comparisons that is not explicitly said to the reader.

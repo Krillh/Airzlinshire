@@ -12,3 +12,5 @@ The story separately follows 2 protagonists, Nolu and Dyuvil. They both lived in
 See: [[Character Dyuvil]], [[Character Nolu]].
 
 The idea is that every chapter has 2 parts, one for Nolu, one for Dyuvil. Each chapter will explore a certain set of comparisons that is not explicitly said to the reader.
+
+Nolu is an ancient name from Majel, a dead language, a language given to them by their g'jel (who did some not-so-good things to their kul: rape! ).

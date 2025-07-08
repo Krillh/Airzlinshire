@@ -14,7 +14,7 @@ I dream of nothing.
 
 ## Chapter 1 Part 2 (Dyuvil)
 
-I awake with a start, jolted awake by the world-shattering boom of thunder. For a moment, I'm in my little room back in Kmon (village), awoken by a Kwin (Gulf) thunderstorm. Upon returning senses and that all too familiar pain in my gut, I'm reminded that those comforts are long gone. There's a light knock. With a grunt I pull myself up, letting my stiffness distract me from the stabbing in my gut.
+I awake with a start, jolted awake by the world-shattering boom of thunder. For a moment, I'm in my little room back in Kmon (village), awoken by a Kwin (Gulf) thunderstorm. Upon returning senses and that all too familiar pain in my gut, I'm reminded that those comforts are long gone. There's a light knock. With a grunt I pull myself up, letting my stiffness distract me from that stabbing in my gut.
 
 "Yes?" I manage to say with more confidence than I felt. The door opens and a shaggy-dressed person steps just inside and stands with a respectful pose. They seem to be Min Vigin. *Do I have a Min Vigin on my staff?* Acutely aware of my messy look and their troubled look, I wait for them to speak.
 
@@ -28,7 +28,9 @@ As I walk across the squeaky sand to the cookhouse, my hunters inform me that th
 
 "I thought the catch was low this morning."
 
-"Oh yes, but you of all people should *always* eat enough!" Their tone tells me that there will be no arguing. I am thankful after all, b
+"Oh yes, but you of all people should *always* eat enough!" Their tone tells me that there will be no arguing. My stomach is thankful after all, even when those around me get their morning meals of notably lesser amounts. I eat in my room, dreading the day ahead.
+
+## Chapter 2 Part 1 (Nolu)
 
 
 

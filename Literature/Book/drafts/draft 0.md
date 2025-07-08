@@ -22,7 +22,7 @@ I awake with a start, jolted awake by the world-shattering sound of thunder. For
 
 "I see." My mind begins assessing options, logic acting as a weighted blanket on that little panic that's fighting to rise up. I scrub my face and comb my fingers through my hair, putting a small dent in the number of its knots. "I can't have another city secede. Tell them...," I hesitate, "Tell the elders that they *will* attend a meeting. Their fields depend on it." As they nod and start to leave, I stop them. Before I think better of it, I say, "What's your name? I don't recognize you as part of my staff." A for a brief moment, hurt flashes over their face, and regret washes over me.
 
-"Tal Zlun," they say simply and leave before I can say voice the apology forming on my tongue.
+"Tal Zlun," they say simply and leave before I can say voice the apology forming on my tongue. I stand there for a moment, wishing that Zlun would come back and just be angry at me. I shake those thoughts from my head. I don't have time for those, I don't have time for any of that. I need to eat something and get my day started. As if on cue, my stomach growls. Stepping out into the beating sunlight and endless ocean of sand, I turn back 
 
 
 

@@ -32,7 +32,7 @@ As I walk across the squeaky sand to the cookhouse, my hunters inform me that th
 
 ## Chapter 2 Part 1 (Nolu)
 
-Suddenly I'm awake, coughing. My mouth is full of something. I cough, each breath in is a painful dry wheeze. I can't think of anything but trying to breathe. My mouth
+Suddenly I'm awake, coughing. My mouth is full of something. I cough, each breath in is a painful dry wheeze. I can't think of anything but trying to breathe. After enough coughing to send stars across my vision, my sense returns and I take some shaky breaths, grateful for the painless air. There is a small pile of sand and spit on the ground in front of me and a ray of morning sunlight pokes through the top of the cave directly above me.
 
 ## Translations
 

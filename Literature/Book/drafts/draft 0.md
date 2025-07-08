@@ -14,7 +14,7 @@ I dream of nothing.
 
 ## Chapter 1 Part 2 (Dyuvil)
 
-I awake with a start, jolted awake by the 
+I awake with a start, jolted awake by the world-shattering sound of thunder. For a moment, I think I'm back in the 
 
 
 

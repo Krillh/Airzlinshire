@@ -12,4 +12,6 @@ Grateful for the cave's protection, the fire burns with an unchecked rage. Just 
 
 ## Translations
 
-**Deklan** (Gvar) : *noun.* a substance used to help start fires without the need for anything to catch the fuel made primarily 
+**Deklan** (Gvar) : *noun.* a substance used to help start fires popular in the desert regions of the Eastern Continent made primarily of tree sap. It lights with the addition of a small amount of water, often in the form of saliva. It is too volatile for most regions because of the humidity.
+
+**Diblin** (Gvar) : *noun.* a medium sized desert rodent

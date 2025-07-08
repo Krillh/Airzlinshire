@@ -8,7 +8,13 @@ The sands stretch endlessly on to the suns' ends and the stars' beginning. One l
 
 Grateful for the cave's protection, the fire burns with an unchecked rage. Just a bit too much deklan; what a waste. The deklan burns off, leaving only some bone-dry branches. They burn fast and hot under a quickly charring skewered diblin. A good catch, hopefully enough to feed another lonely day of walking: a catch like this is a blessing out here. One of the many hungry mouths of the desert will eat tonight, filled with gratitude and a not quite full but satisfied stomach.
 
-The wind helplessly pounds on the cave again, screaming to be let in and destroy the unwanted visitor of the desert. The night winds are always ruthless, hungry beasts. As the dry branches wither away
+The wind helplessly pounds on the cave again, screaming to be let in and destroy the unwanted visitor of the desert. The night winds are always ruthless, hungry beasts. As the dry branches wither away to coals, then only to hot ash, the another sound boldly makes its way into the cave: the steady breath of slumber. A tired, weary face finds itself uncovered from its mask in the darkness.
+
+I dream of nothing.
+
+## Chapter 1 Part 2 (Dyuvil)
+
+I awake with a start, jolted awake by the 
 
 
 

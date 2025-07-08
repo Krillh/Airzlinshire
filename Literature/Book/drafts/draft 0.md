@@ -24,7 +24,11 @@ I awake with a start, jolted awake by the world-shattering boom of thunder. For 
 
 "Tal Zlun," they say simply and leave before I can say voice the apology forming on my tongue. I stand there for a moment, wishing that Zlun would come back and just be angry at me. I shake those thoughts from my head. I don't have time for those, I don't have time for any of that. I need to eat something and get my day started. As if on cue, my stomach growls. Stepping out into the beating sunlight and endless ocean of sand, I turn back to the temporary house that just last night shielded me from the might of the desert's night winds. The structure already earned a worn appearance in just one night of sandy pelting. I think back to last night, laying on that cot, listening to the wail of the wind defending its territory, trying to rid its land of intruders.
 
-As I walk across the squeaky sand to the cookhouse, my hunters inform me that there was little catch this morning with more apology than I thought was necessary. I reassure them that sometimes turnout is just low
+As I walk across the squeaky sand to the cookhouse, my hunters inform me that there was little catch this morning with more apology than I thought was necessary. I reassure them that sometimes turnout is just low, but my mind is already on getting my morning meal. The cooks greet me as jolly as always, giving me a full portion of stew.
+
+"I thought the catch was low this morning."
+
+"Oh yes, but you of all people should *always* eat enough!" Their tone tells me that there will be no arguing. I am thankful after all, b
 
 
 

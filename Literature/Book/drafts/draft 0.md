@@ -14,7 +14,9 @@ I dream of nothing.
 
 ## Chapter 1 Part 2 (Dyuvil)
 
-I awake with a start, jolted awake by the world-shattering sound of thunder. For a moment, I'm in my little room back in Dir, awoken by a Kwin thunderstorm. Upon returning senses and that all too farmiliar pain in my gut, it's clear that I'm undeed
+I awake with a start, jolted awake by the world-shattering sound of thunder. For a moment, I'm in my little room back in Dir (village), awoken by a Kwin (Gulf) thunderstorm. Upon returning senses and that all too familiar pain in my gut, I'm reminded that those comforts are long gone. There's a light knock. With a grunt I pull myself up, letting my stiffness distract me from the stabbing in my gut.
+
+"Yes?" I manage to say with more confidence than I felt. The door opens and a 
 
 
 

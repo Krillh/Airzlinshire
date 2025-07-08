@@ -15,11 +15,11 @@ I dream of nothing, morning comes mere seconds after I close my eyes.
 
 Suddenly I'm awake, coughing. My mouth is full of something. I cough, each breath in is a painful dry wheeze. I can't think of anything but trying to breathe. After enough coughing to send stars across my vision, my sense returns and I take some shaky breaths, grateful for the painless air. There is a small pile of sand and spit on the ground in front of me and a ray of morning sunlight pokes through the top of the cave directly above me. I stand onto unsteady legs and take a closer look at the small hole. A bit of sand showers down as the sand above shifts. The rock is riddled with pores. *Kmudvan*. The little worms of the desert, rock eaters. Even the caves succumb to the desert's appetite.
 
-I pack up my things, thank the cave for its protection, and walk to the boulder covering the entrance of the cave. I wave my arms in a practiced movement, feeling my hands heat up as I push the boulder to the side. I'm blasted with the heat of the morning, the dread 
+I pack up my things, thank the cave for its protection, and walk to the boulder covering the entrance of the cave. I wave my arms in a practiced movement, feeling my hands heat up as I push the boulder to the side. I'm blasted with the heat of the morning, and despite everything in me wanting to cool off, I wrap up my face to protect from the suns. I take my first steps of the day, the first of many, dreading the day ahead.
 
 ## Chapter 1 Part 2 (Dyuvil)
 
-I awake with a start, jolted awake by the world-shattering boom of thunder. For a moment, I'm in my little room back in Kmon (village), awoken by a Kwin (Gulf) thunderstorm. Upon returning senses and that all too familiar pain in my gut, I'm reminded that those comforts are long gone. There's a light knock. With a grunt I pull myself up, letting my stiffness distract me from that stabbing in my gut.
+I awake with a start, jolted awake by the world-shattering boom of thunder. For a moment, I'm in my little room back in Kmon (village), awoken by a Kwin (Gulf) thunderstorm. Upon returning senses and that all too familiar pain in my gut, I'm reminded that those comforts are long gone. There's a light knock. With a grunt I pull myself up, letting my stiffness distract me from that stabbing pain of loss.
 
 "Yes?" I manage to say with more confidence than I felt. The door opens and a shaggy-dressed person steps just inside and stands with a respectful pose. They seem to be Min Vigin. *Do I have a Min Vigin on my staff?* Acutely aware of my messy look and their troubled look, I wait for them to speak.
 
@@ -33,8 +33,12 @@ As I walk across the squeaky sand to the cookhouse, my hunters inform me that th
 
 "I thought the catch was low this morning."
 
-"Oh yes, but you of all people should *always* eat enough!" Their tone tells me that there will be no arguing. My stomach is thankful after all, even when those around me get their morning meals of notably lesser amounts. I eat in my room, dreading the day ahead.
+"Oh yes, but you of all people should *always* eat enough!" Their tone tells me that there will be no arguing the point. My stomach is thankful after all, even when those around me get their morning meals with notably less. I eat in my room, dreading the day ahead.
 
+---
+
+Chapter 2 comparisons:
+- 
 ## Chapter 2 Part 1 (Nolu)
 
 

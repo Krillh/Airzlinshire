@@ -32,7 +32,9 @@ As I walk across the squeaky sand to the cookhouse, my hunters inform me that th
 
 ## Chapter 2 Part 1 (Nolu)
 
-Suddenly I'm awake, coughing. My mouth is full of something. I cough, each breath in is a painful dry wheeze. I can't think of anything but trying to breathe. After enough coughing to send stars across my vision, my sense returns and I take some shaky breaths, grateful for the painless air. There is a small pile of sand and spit on the ground in front of me and a ray of morning sunlight pokes through the top of the cave directly above me. I stand onto unsteady legs and take a closer look at the small hole. A bit of sand showers down as the sand above shifts. The rock is riddled with pores. *Kmudvan*. The little worms of the desert, rock eaters.
+Suddenly I'm awake, coughing. My mouth is full of something. I cough, each breath in is a painful dry wheeze. I can't think of anything but trying to breathe. After enough coughing to send stars across my vision, my sense returns and I take some shaky breaths, grateful for the painless air. There is a small pile of sand and spit on the ground in front of me and a ray of morning sunlight pokes through the top of the cave directly above me. I stand onto unsteady legs and take a closer look at the small hole. A bit of sand showers down as the sand above shifts. The rock is riddled with pores. *Kmudvan*. The little worms of the desert, rock eaters. Even the caves succumb to the desert's appetite.
+
+I pack up my things, thank the cave for its protection, and 
 
 ## Translations
 
@@ -40,6 +42,6 @@ Suddenly I'm awake, coughing. My mouth is full of something. I cough, each breat
 
 **Diblin** (Gvar: "dee-BLEEN") : *noun.* moon mouse; a medium sized desert rodent with large ears, usually around 9 cm long.
 
-****
+**Kmudvan** (Gvar: "k'mood-VAHN") : *noun.* a small worm that lives in the Eastern Continent desert. Its diet consists of stone. It leaves behind porous, structurally weak rock.
 
 **Min Vigin** (Tyanipem: "meen vee-gheen") : *noun.* a species of person known for being strongly connected with nature, generally pretty quiet, and adverse to violence. They have long lifespans and grow to around 1.4 meters on average.

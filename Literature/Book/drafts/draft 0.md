@@ -2,6 +2,7 @@
 Chapter 1 comparisons:
 - The Dust / The Flood. Both's got towns destroyed by something
 - the need to eat and drink to survive
+- Everyone is given unexpected problems in life and must just solve them
 ## Chapter 1 Part 1 (Nolu)
 
 The sands stretch endlessly on to the suns' ends and the stars' beginning. One lonely pair of boots fall heavy onto the burrowing beetle's drowned carcass that is the Bzor Trail: once a well-traveled route, now quiet. The sand, when compared with The Dust, is a good mother. It loves tough, but always with a feeding hand for those willing to find it. A distant wind reminds the world of its might with a ripping sand-filled howl, but the cave pays no mind. It has seen ten thousand years of The Dust; it has become only what little is callous enough to endure the end of the world. The town was not so lucky.
@@ -10,7 +11,11 @@ Grateful for the cave's protection, the fire burns with an unchecked rage. Just 
 
 The wind helplessly pounds on the cave again, screaming to be let in and destroy the unwanted visitor of the desert. The night winds are always ruthless, hungry beasts. As the dry branches wither away to coals, then only to hot ash, the another sound boldly makes its way into the cave: the steady breath of slumber. A tired, weary face finds itself uncovered from its mask in the darkness.
 
-I dream of nothing.
+I dream of nothing, morning comes mere seconds after I close my eyes.
+
+Suddenly I'm awake, coughing. My mouth is full of something. I cough, each breath in is a painful dry wheeze. I can't think of anything but trying to breathe. After enough coughing to send stars across my vision, my sense returns and I take some shaky breaths, grateful for the painless air. There is a small pile of sand and spit on the ground in front of me and a ray of morning sunlight pokes through the top of the cave directly above me. I stand onto unsteady legs and take a closer look at the small hole. A bit of sand showers down as the sand above shifts. The rock is riddled with pores. *Kmudvan*. The little worms of the desert, rock eaters. Even the caves succumb to the desert's appetite.
+
+I pack up my things, thank the cave for its protection, and walk to the boulder covering the entrance of the cave. I wave my arms in a practiced movement, feeling my hands heat up as I push the boulder to the side. I'm blasted with the heat of the morning, the dread 
 
 ## Chapter 1 Part 2 (Dyuvil)
 
@@ -32,9 +37,7 @@ As I walk across the squeaky sand to the cookhouse, my hunters inform me that th
 
 ## Chapter 2 Part 1 (Nolu)
 
-Suddenly I'm awake, coughing. My mouth is full of something. I cough, each breath in is a painful dry wheeze. I can't think of anything but trying to breathe. After enough coughing to send stars across my vision, my sense returns and I take some shaky breaths, grateful for the painless air. There is a small pile of sand and spit on the ground in front of me and a ray of morning sunlight pokes through the top of the cave directly above me. I stand onto unsteady legs and take a closer look at the small hole. A bit of sand showers down as the sand above shifts. The rock is riddled with pores. *Kmudvan*. The little worms of the desert, rock eaters. Even the caves succumb to the desert's appetite.
 
-I pack up my things, thank the cave for its protection, and 
 
 ## Translations
 

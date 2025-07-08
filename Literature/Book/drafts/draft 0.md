@@ -20,13 +20,13 @@ I awake with a start, jolted awake by the world-shattering sound of thunder. For
 
 "I carry troubling news." Their voice is tinted with that Northern Central Continent lisp, but otherwise familiar Kwisha. "The elders of Dir refuse to see you."
 
-"I see." I look outside at 
+"I see." My mind begins assessing options, logic acting as a weighted blanket on that little panic that's fighting to rise up. I scrub my face and comb my fingers through my hair, putting a small dent in the number of its knots. "I can't have another city secede. "
 
 
 
 ## Translations
 
-**Deklan** (Gvar: "deh-CLAHN") : *noun.* a substance used to help start fires popular in the desert regions of the Eastern Continent made primarily of tree sap. It lights with the addition of a small amount of water, often in the form of saliva. It is too volatile for most regions because of the humidity.
+**Deklan** (Gvar: "deh-KLAHN") : *noun.* a substance used to help start fires popular in the desert regions of the Eastern Continent made primarily of tree sap. It lights with the addition of a small amount of water, often in the form of saliva. It is too volatile for most regions because of the humidity.
 
 **Diblin** (Gvar: "dee-BLEEN") : *noun.* moon mouse; a medium sized desert rodent with large ears, usually around 9 cm long.
 

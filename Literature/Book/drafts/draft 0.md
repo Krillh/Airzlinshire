@@ -14,7 +14,7 @@ I dream of nothing.
 
 ## Chapter 1 Part 2 (Dyuvil)
 
-I awake with a start, jolted awake by the world-shattering sound of thunder. For a moment, I'm in my little room back in Kmon (village), awoken by a Kwin (Gulf) thunderstorm. Upon returning senses and that all too familiar pain in my gut, I'm reminded that those comforts are long gone. There's a light knock. With a grunt I pull myself up, letting my stiffness distract me from the stabbing in my gut.
+I awake with a start, jolted awake by the world-shattering boom of thunder. For a moment, I'm in my little room back in Kmon (village), awoken by a Kwin (Gulf) thunderstorm. Upon returning senses and that all too familiar pain in my gut, I'm reminded that those comforts are long gone. There's a light knock. With a grunt I pull myself up, letting my stiffness distract me from the stabbing in my gut.
 
 "Yes?" I manage to say with more confidence than I felt. The door opens and a shaggy-dressed person steps just inside and stands with a respectful pose. They seem to be Min Vigin. *Do I have a Min Vigin on my staff?* Acutely aware of my messy look and their troubled look, I wait for them to speak.
 
@@ -22,7 +22,7 @@ I awake with a start, jolted awake by the world-shattering sound of thunder. For
 
 "I see." My mind begins assessing options, logic acting as a weighted blanket on that little panic that's fighting to rise up. I scrub my face and comb my fingers through my hair, putting a small dent in the number of its knots. "I can't have another city secede. Tell them...," I hesitate, "Tell the elders that they *will* attend a meeting. Their fields depend on it." As they nod and start to leave, I stop them. Before I think better of it, I say, "What's your name? I don't recognize you as part of my staff." A for a brief moment, hurt flashes over their face, and regret washes over me.
 
-"Tal Zlun," they say simply and leave before I can say voice the apology forming on my tongue. I stand there for a moment, wishing that Zlun would come back and just be angry at me. I shake those thoughts from my head. I don't have time for those, I don't have time for any of that. I need to eat something and get my day started. As if on cue, my stomach growls. Stepping out into the beating sunlight and endless ocean of sand, I turn back 
+"Tal Zlun," they say simply and leave before I can say voice the apology forming on my tongue. I stand there for a moment, wishing that Zlun would come back and just be angry at me. I shake those thoughts from my head. I don't have time for those, I don't have time for any of that. I need to eat something and get my day started. As if on cue, my stomach growls. Stepping out into the beating sunlight and endless ocean of sand, I turn back to the temporary house that just last night shielded me from the might of the desert's night winds. The structure already earned a worn appearance in just one night of sandy pelting. I think back to last night, laying on that cot, listening to the wail of the wind defending its territory, trying to rid 
 
 
 

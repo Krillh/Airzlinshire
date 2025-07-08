@@ -32,7 +32,7 @@ As I walk across the squeaky sand to the cookhouse, my hunters inform me that th
 
 ## Chapter 2 Part 1 (Nolu)
 
-
+Suddenly I'm awake, coughing. My mouth is full of something. I cough, each breath in is a painful dry wheeze. I can't think of anything but trying to breathe. My mouth
 
 ## Translations
 

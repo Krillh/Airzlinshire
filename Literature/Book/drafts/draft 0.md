@@ -16,7 +16,7 @@ I dream of nothing.
 
 I awake with a start, jolted awake by the world-shattering sound of thunder. For a moment, I'm in my little room back in Dir (village), awoken by a Kwin (Gulf) thunderstorm. Upon returning senses and that all too familiar pain in my gut, I'm reminded that those comforts are long gone. There's a light knock. With a grunt I pull myself up, letting my stiffness distract me from the stabbing in my gut.
 
-"Yes?" I manage to say with more confidence than I felt. The door opens and a 
+"Yes?" I manage to say with more confidence than I felt. The door opens and a shaggy-dressed person steps just inside and stands with a respectful pose. They seem to be Min Vigin
 
 
 
@@ -24,4 +24,6 @@ I awake with a start, jolted awake by the world-shattering sound of thunder. For
 
 **Deklan** (Gvar) : *noun.* a substance used to help start fires popular in the desert regions of the Eastern Continent made primarily of tree sap. It lights with the addition of a small amount of water, often in the form of saliva. It is too volatile for most regions because of the humidity.
 
-**Diblin** (Gvar) : *noun.* moon mouse; a medium sized desert rodent with large ears, usually around 9 cm long.
+**Diblin** (Gvar: di-BLEEN) : *noun.* moon mouse; a medium sized desert rodent with large ears, usually around 9 cm long.
+
+**Min Vigin** (Tyanipem: "meen vi-ghin") : *noun.* a species of person known for being strongly connected with nature and 

@@ -20,7 +20,9 @@ I awake with a start, jolted awake by the world-shattering sound of thunder. For
 
 "I carry troubling news." Their voice is tinted with that Northern Central Continent lisp, but otherwise familiar Kwisha. "The elders of Dir refuse to see you."
 
-"I see." My mind begins assessing options, logic acting as a weighted blanket on that little panic that's fighting to rise up. I scrub my face and comb my fingers through my hair, putting a small dent in the number of its knots. "I can't have another city secede. Tell them...," I hesitate, "Tell the elders that they *will* attend a meeting. Their fields depend on it." As they nod and start to leave 
+"I see." My mind begins assessing options, logic acting as a weighted blanket on that little panic that's fighting to rise up. I scrub my face and comb my fingers through my hair, putting a small dent in the number of its knots. "I can't have another city secede. Tell them...," I hesitate, "Tell the elders that they *will* attend a meeting. Their fields depend on it." As they nod and start to leave, I stop them. Before I think better of it, I say, "What's your name? I don't recognize you as part of my staff." A for a brief moment, hurt flashes over their face, and regret washes over me.
+
+"Tal Zlun," they say simply and leave before I can say voice the apology forming on my tongue.
 
 
 

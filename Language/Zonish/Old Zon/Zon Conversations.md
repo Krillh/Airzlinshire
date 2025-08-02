@@ -1,9 +1,11 @@
 
 **Elinor:** Hey! I can’t believe it’s been months since we last saw each other. How have you been?
 
-**Elinor:** eei! nut ayanwo shome guhsolai. 
+eei! nut ayanwo shome guhsolai. ni tulka?
 
 **Jonas:** Elinor! I was just thinking about you the other day. It feels strange not bumping into you at the café like we used to.
+
+inaa! wo suh she ya ksuxlo. 
 
 **Elinor:** Tell me about it. That little corner table started to feel empty without our endless chats. How’s life in Vardal?
 

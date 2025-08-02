@@ -25,9 +25,9 @@ Vowels: a, ax, i, u, ux, e, o
 
 Modification Suffixes:
 
-- Question: -kaa
-- Command: -tee
-- request: -mii
+- Question: -ka
+- Command: -te
+- request: -mi
 ## Noun Forms
 
 |              | singular | plural | collective |
@@ -42,3 +42,7 @@ Possessive prefix: "ta-" -> strips leading vowels
 ## Word Order
 
 Object, (Time), Subject, Verb, Prepositions, Conjunction
+
+## Emphasis
+
+Goes on the second syllable

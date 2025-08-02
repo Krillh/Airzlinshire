@@ -23,6 +23,11 @@ Vowels: a, ax, i, u, ux, e, o
 | past imperfect    | -lo    | -olo    |
 | past perfect      | -lai   | -olai   |
 
+Modification Suffixes:
+
+- Question: -kaa
+- Command: -tee
+- request: -mii
 ## Noun Forms
 
 |              | singular | plural | collective |
@@ -32,4 +37,8 @@ Vowels: a, ax, i, u, ux, e, o
 | augmentative | -nwo     | -mwi   | -umwo      |
 Adjective forms take from the singular column.
 
-Possessive prefix: "ta-" -> s
+Possessive prefix: "ta-" -> strips leading vowels
+
+## Word Order
+
+Object, (Time), Subject, Verb, Prepositions, Conjunction

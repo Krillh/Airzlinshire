@@ -1,7 +1,7 @@
 
 **Elinor:** Hey! I can’t believe it’s been months since we last saw each other. How have you been?
 
-**Elinor:** eei! 
+**Elinor:** eei! nyut ayanwo shome guh
 
 **Jonas:** Elinor! I was just thinking about you the other day. It feels strange not bumping into you at the café like we used to.
 

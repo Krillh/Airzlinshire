@@ -6,7 +6,7 @@ Consonants: p, m, t, s, n, l, sh, k, g, y, w
 Vowels: a, ax, i, u, ux, e, o
 
 - a -> paw
-- ax -> bat
+- uh -> cut
 - i -> teeth
 - u -> two
 - ux -> book
@@ -17,8 +17,8 @@ Vowels: a, ax, i, u, ux, e, o
 
 | suffixes          | active | passive |
 | ----------------- | ------ | ------- |
-| infinitive/gerund | -gas   | -ogas   |
-| future            | -shi   | -oshi   |
+| infinitive/gerund | -gas   | -sogas  |
+| future            | -shi   | -soshi  |
 | present           |        | -och    |
 | past imperfect    | -lo    | -olo    |
 | past perfect      | -lai   | -olai   |

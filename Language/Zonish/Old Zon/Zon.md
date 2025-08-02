@@ -15,19 +15,19 @@ Vowels: a, ax, i, u, ux, e, o
 
 ## Verb Conjugations
 
-| suffixes          | active | passive |
-| ----------------- | ------ | ------- |
-| infinitive/gerund | -gas   | -sogas  |
-| future            | -shi   | -soshi  |
-| present           |        | -och    |
-| past imperfect    | -lo    | -olo    |
-| past perfect      | -lai   | -olai   |
+| suffixes          | active | passive  |
+| ----------------- | ------ | -------- |
+| infinitive/gerund | -gas   | -(s)ogas |
+| future            | -shi   | -(s)oshi |
+| present           |        | -(s)och  |
+| past imperfect    | -lo    | -(s)olo  |
+| past perfect      | -lai   | -(s)olai |
 
 Modification Suffixes:
 
 - Question: -ka
 - Command: -te
-- request: -mi
+- Request: -mi
 ## Noun Forms
 
 |              | singular | plural | collective |

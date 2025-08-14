@@ -2,7 +2,10 @@ The history of the world of Airzlinshire can be split into some eras. Starting w
 
 0. Prehistory
 1. Era of Awakening: farming invented
-2. Era of Culture: 
+2. Era of Culture: the Golden Kingdom forms
+3. The First Dust Age: drought takes hold of the world
+4. Era of Exploration: ships can sail the ocean
+5. Era of Majik: majik starts being discovered
 # Prehistory
 
 Prehistory is simply the time before civilization. During this time, peoples lived only in nomadic tribes.
@@ -20,51 +23,6 @@ With time also came more understanding of majik. It was still very rudimentarily
 Eventually, as these areas became more advanced, ideas diffused to other towns and tribes. The cities deep in the [[Gmir River Valley]], those with the largest farms, quickly became rich by selling the seeds of plants that had been selectively bred to be farmable. This caused a trade route to be formed in the [[Eastern Continent]], the legendary [[Knar Road]], which connected many cities together to enable trade. It eventually was built all the way to cities in the southwestern tribes and towns, allowing them to settle down also. With the [[Zwish River Valley]] on the west coast, the towns there started to build boats, and sail to the central continent, one previously uninhabited by people. Slowly, with exploration happening, people started to exist everywhere on the globe.
 
 Later in the Era of Awakening, rudimentary metal working was budding in the eastern regions of the [[Gmir River Valley]]. There's no evidence of heat being used to form, and it was likely all surface copper formed by cold-hammering and used as ornamental pieces.
-
-# Era of Culture
-
-**Span:** ~12,000 -> ~15,000
-
-The Era of Culture is marked by an increase in the importance of culture and art. This was also a time of strong cultural development, farming techniques had been rapidly improving, producing more food, and allowing larger segments of city populations to explore other passions. Art became very important to peoples--especially those in the [[Central Continent]]. Not only visual art, but music, poetry, and performing.
-
-The global trade was lower in this time than the [[Eras of History#Era of Awakening|Era of Awakening]], most communities trying to be more self-sufficient. Patriotism flourished and religion started to become more popular, many rituals around farming and taming are first seen in this era. The taming of a wild animal became a coming of age ritual in some areas in the south of the [[Western Continent]], for example.
-
-# Era of Celestial Accord
-
-**Span:** ~15,000 -> ~16,200
-
-The Era of Celestial accord is marked by a sudden interest in [[Majik]] in cultures of the [[Western Continent]] around [[Myan Kian Lake]]. The was no doubt fueled by the formal discovery of [[Majik#Mixing Elements|element mixing]] in {some city}. There was a growing curiosity about it's true limits and a newfound desire to master [[Majik]], and that "discovery" caused that curiosity to explode. There was a sharp jump in [[Majik]] use in farming, and for the first time, there was a large volume of people trying to use it in their daily life. It became clear that there was more possibility to [[Majik]] than originally thought. The excitement slowly spread to the world over 50-150 years. The spread was slow because of the lack of international trade from the [[Eras of History#Era of Culture|Era of Culture]], especially overseas.
-
-Numerous [[Majik]] research groups, societies, and schools of different types were formed. There was discovery after discovery being made, as governments started pouring a plethora of resources into [[Majik]] research. There was a premium put on education at this time, often times success was defined by one's level of education. In many places, it was common for *all* children to go to a public school to learn [[Majik]]. Of course, this was not general education, but it is the foundation of it. Research was slow in the early parts of this era as there was no real rhyme or reason to it. Nobody could be sure of another's testing and so each group had to do every experiment to verify it. The quality control was also not very good, many researchers not having any training. That's to be expected for the first real scientific discoveries, though. Much research is poorly, or not at all, documented, and there were no standards to speak of. It wasn't until around 15650 that 3 competing standards were developed and then not until 15790 that one of them became *the* global set of standards--at lest for the most part--for scientific research, testing, documenting, and reporting results. 
-
-The global trade gradually picked up again as people realized that they would make more discoveries if they communicated, but the strong language barriers made this difficult. Thankfully, it was early in this era that [[Majel]] was made and spread fast. The slow climb of trade volume seeing a massive jump, an event called [[The Globalization Boom]]. With a lingua franca, transportation speed and cost were the only major barriers for traveling overseas. New discoveries in [[Majik]] application, specifically [[Proposal for Majik-based sail propulsion|this study]] and ones inspired by it, were decreasing travel time, and other discoveries about using [[Majik]] to make boats were decreasing the cost of doing so. The world was becoming very much more connected.
-
-The discovery of simple metal forming came about near the end of this era, and it was a heavily [[Majik]]-based process. There was still little use for much of the metal, as really only copper was used and the formed items were fairly crude. Overall, it was only used for simple tools like hammers, and there was little interest in it with [[Majik]] research afoot.
-
-# Era of Mastery
-
-**Span:** ~16,200 -> ~18,600
-
-The Era of Mastery is marked by the slowing of discoveries from the [[Eras of History#Era of Celestial Accord|Era of Celestial Accord]], and the maturing of [[Majik]]. As the frenzy of new things died out, there was a cultural shift in how people viewed [[Majik]], starting to see it more as an art form that can be mastered. [[Majik]] research institutions and societies were replaced by temples, [[Majik]] schools focused on teaching it as an art, and no longer did nearly all children get an education unless they specifically went to learn and master [[Majik]]. Social status started to shift away from education and towards one's [[Majik]] ability and power. The world started to revolve more and more around [[Majik]], and it became commonplace in nearly every aspect of life. New discoveries were seldom shared with the world.
-
-This idea of mastery spread past [[Majik]] and into farming and other trades. Farming in particular saw deep innovations: sophisticated irrigation systems, using [[Majik]] to finely tune the land and environment, and other techniques. Metallurgy also saw innovation with the discovery of iron in the later parts of this era. Refined [[Majik]] techniques allowed for very precise and useful tools to be made out of copper, bronze, and importantly, iron.
-
-Many call this "The Second Era of Culture" because of the similar way that communities started to focus inward, indeed, the booming global trade slowed it's pace from the end of the [[Eras of History#Era of Celestial Accord|Era of Celestial Accord]], but it was still going fairly strong. The dip was nowhere near the extreme during the [[Eras of History#Era of Culture|Era of Culture]]. Travel was cheap enough for those who make a small amount of money to--albeit with much investment--to travel overseas, and the trips were not very long, so there were always at least farmers looking for a new life somewhere else.
-
-# Era of Wars
-
-**Span:** ~18,600 -> ~20,800
-
-The Era of Wars is marked by cultures becoming increasingly different. The world had been in a relatively harmonious state for a very long time, but as populations started to really grow near the end of the [[Eras of History#Era of Mastery|Era of Mastery]], there was fewer global comradery and connection. The invention of [[Tomes]] in about 19,000 is often seen as a major catalyst for the conflicts that came. They were not immediately impactful, staying mostly an little-known idea for nearly 150 years after their conception. 
-
-Some conflicts over resources started cropping up, and as leaders looked for ways to make their army more powerful, iron and [[tomes]] were the clear choices. There were 3 global wars, each of them massively devastating. There were also many intra-continental wars in the main 3 continents and even one in the [[Northern Continent]]. The fighting wasn't constant over the roughly 2000 years of this Era, but there was fighting often enough that many maps from this time had no hard borders, only color gradients around where the border was. They just changed so often and unpredictably.
-
-# Era of Silence
-
-**Span:** ~20,800 - ~22,00
-
-The Era of Silence is marked by the start of the [[First Global War]]. 
-# Era of Harmony
 
 
 

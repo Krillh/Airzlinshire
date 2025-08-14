@@ -1,5 +1,8 @@
-The history of the world of Airzlinshire can be split into some eras.
+The history of the world of Airzlinshire can be split into some eras. Starting with Prehistory. This era spans from the first hints of civilization and before. The discovery of farming leads into the next era: The Era of Awakening.
 
+0. Prehistory
+1. Era of Awakening: farming invented
+2. Era of Culture: 
 # Prehistory
 
 Prehistory is simply the time before civilization. During this time, peoples lived only in nomadic tribes.

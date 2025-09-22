@@ -1,1 +1,1 @@
-$$\sum^\infty_{n=1}$$
+$$\lim_{n\to0}\frac{1}{n}=\infty$$

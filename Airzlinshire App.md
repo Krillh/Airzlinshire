@@ -18,7 +18,7 @@ Layers
 - Political
 - Languages
 - Population
-- 
+- etc...
 ### Storage
 
-All the maps'
+All the maps' data is stored as a globe using 

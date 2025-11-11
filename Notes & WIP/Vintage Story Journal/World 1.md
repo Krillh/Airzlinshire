@@ -15,4 +15,6 @@ Tomorrow, I Roi said they're going out to find some food in the morning. I plan 
 
 ## Day 2
 
-I took many of Roi's things and ran. I ran south, finding some brown soft rocks on the way. What I stole: green gem, light blue gem, crown, 2 knives, a bow, a falx blade, firewood, bowl, jug, pot. I will not forget the pain I brought onto Roi. In my escape, i came across more shiny rocks, these were the color of the sun, golden. 
+I took many of Roi's things and ran. I ran south, finding some brown soft rocks on the way. What I stole: leather backpack, green gem, light blue gem, crown, 2 knives, bow, falx blade, firewood, bowl, jug, pot. I will not forget the pain I brought onto Roi. In my escape, i came across more shiny rocks, these were the color of the sun, golden. There was this odd landscape where the ground was this light sand and gravel. There were only some bushes and few trees. Thankfully, it wasn't very large. I kept walking south until i found a nice place to call home for now. It feels close to Roi still, only a half-day's walk. But it's probably okay. There's small water pools, reeds, trees, clay, and importantly, it's very open. in forests, it's too easy for a creature to sneak up on you.
+
+I've finished my red and blue berries, 

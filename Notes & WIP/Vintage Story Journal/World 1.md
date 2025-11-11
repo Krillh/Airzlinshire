@@ -15,4 +15,4 @@ Tomorrow, I Roi said they're going out to find some food in the morning. I plan 
 
 ## Day 2
 
-I took many of Roi's things and ran. I ran south, finding some brown soft rocks on the way.
+I took many of Roi's things and ran. I ran south, finding some brown soft rocks on the way. What I stole: green gem, light blue gem, crown, 2 knives, a bow, a falx blade, firewood, bowl, jug, pot. I will not forget the pain I brought onto Roi. In my escape, i came across more shiny rocks, these were the color of the sun, golden. 

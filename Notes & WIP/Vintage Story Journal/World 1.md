@@ -11,4 +11,4 @@ I have many kinds of berries, blue ones, orange ones, red ones, and hard red one
 
 There were also these cool looking rocks, they had a fire-like color to them with some green too. They're really beautiful.
 
-Tomorrow, I Ro
+Tomorrow, I Roi said they're going out to find some food in the morning. I plan to steal some of their stuff and make a run southward. I don't think I want to settle anywhere near here anyways. I want to go south.

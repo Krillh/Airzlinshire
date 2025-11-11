@@ -15,3 +15,4 @@ Tomorrow, I Roi said they're going out to find some food in the morning. I plan 
 
 ## Day 2
 
+I took many of Roi's things and ran. I ran south, finding some brown soft rocks on the way.

@@ -20,3 +20,7 @@ I took many of Roi's things and ran. I ran south, finding some brown soft rocks 
 I've finished my red and blue berries, and I haven't found any other berries in a while. Maybe the world isn't as abundant as I thought. Tomorrow my first task will to get more food somehow.
 
 The night has been peaceful, but it has been hard to sleep. I keep thinking of Roi. Afraid he'll show up and attack me with a weapon I can't fight against.
+
+## Day 3
+
+My packed dirt walls served me well, protecting me while I slept. I started the day by scouting out around my home to get to know it better and maybe find some food. I found many berries! 
